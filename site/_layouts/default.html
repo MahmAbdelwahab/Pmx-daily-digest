@@ -8,15 +8,25 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% if page.layout == 'search' or page.layout == 'post' %}
   <script>
-    MathJax = {
+    window.MathJax = {
       tex: {
         inlineMath: [['$', '$'], ['\\(', '\\)']],
         displayMath: [['$$', '$$'], ['\\[', '\\]']],
         processEscapes: true
+      },
+      startup: {
+        typeset: true
       }
     };
   </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js" integrity="sha512-T8xxpazDtODy3WOP/c6hvQI2O9UPdARlDWE0CvH1Pfqc2/K70jNPmqga0ZusStVcaw3SmaZNrgSESNHHfIpe5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    window.addEventListener('load', function () {
+      if (window.MathJax && MathJax.typesetPromise) {
+        MathJax.typesetPromise();
+      }
+    });
+  </script>
   {% endif %}
   {% seo %}
 </head>
