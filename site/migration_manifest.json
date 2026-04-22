@@ -1,0 +1,646 @@
+{
+  "PMx_A_QSP_Model_of_Valproic_Acid_Toxicity_in_20260219": {
+    "title": "A QSP Model of Valproic Acid Toxicity in Pediatric and Adult Populations: Implications for Formulation Selection and L-Carnitine Supplementation",
+    "date": "2026-02-19",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "pediatrics"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-19-a-qsp-model-of-valproic-acid-toxicity-in-pediatric-and-adult-populations.md"
+  },
+  "PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260328": {
+    "title": "A hybrid PKPD agent-based model of the human tunour microenvironment",
+    "date": "2026-03-28",
+    "paper_type": "generic",
+    "topic_tags": [
+      "oncology",
+      "immunology"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-28-a-hybrid-pkpd-agent-based-model-of-the-human-tunour-microenvironment.md"
+  },
+  "PMx_A_physicsinformed_neural_network_approac_20260323": {
+    "title": "A physics-informed neural network approach for estimating population pharmacokinetic parameters from aggregated data",
+    "date": "2026-03-23",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "machine-learning",
+      "meta-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-23-a-physics-informed-neural-network-approach-for-estimating-population.md"
+  },
+  "PMx_AntiPDL1_Antibodies_Insights_From_QSPBas_20260212": {
+    "title": "Anti-PD-(L)1 Antibodies: Insights From QSP-Based Meta-Analysis",
+    "date": "2026-02-12",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "immunology",
+      "meta-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-12-anti-pd-l1-antibodies-insights-from-qsp-based-meta-analysis.md"
+  },
+  "PMx_Assessing_the_impact_of_bacterial_hetero_20260321": {
+    "title": "Assessing the impact of bacterial heterogeneity on bacteriophage population dynamics: a distributed delay differential equation framework",
+    "date": "2026-03-21",
+    "paper_type": "generic",
+    "topic_tags": [],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-21-assessing-the-impact-of-bacterial-heterogeneity-on-bacteriophage-population.md"
+  },
+  "PMx_Assessment_and_Benchmarking_of_Model_Inf_20260227": {
+    "title": "Assessment and Benchmarking of Model Informed Approaches in Drug Development for Hemoglobinopathies: A Review of Scientific Advices From January 2000 to December 2024",
+    "date": "2026-02-27",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "dose-response",
+      "pediatrics",
+      "regulatory",
+      "meta-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-27-assessment-and-benchmarking-of-model-informed-approaches-in-drug-development.md"
+  },
+  "PMx_Comprehensive_Pathophysiology_Repository_20260222": {
+    "title": "Comprehensive Pathophysiology Repository for PBPK Modeling in Liver Cirrhosis: Quantifying Continuous Disease Progression and Population Variability",
+    "date": "2026-02-22",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-22-comprehensive-pathophysiology-repository-for-pbpk-modeling-in-liver-cirrhosis.md"
+  },
+  "PMx_Correction_to_An_automated_pipeline_to_g_20260401": {
+    "title": "Correction to: An automated pipeline to generate initial estimates for population Pharmacokinetic base models",
+    "date": "2026-04-01",
+    "paper_type": "generic",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-01-correction-to-an-automated-pipeline-to-generate-initial-estimates-for.md"
+  },
+  "PMx_Correction_to_Beyond_the_MichaelisMenten_20260213": {
+    "title": "Correction to \u201cBeyond the Michaelis-Menten: Evaluation of a tQSSA-Based IVIVE Approach for Predicting In Vivo Intrinsic Clearance from Hepatocyte Assays\u201d",
+    "date": "2026-02-13",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-13-correction-to-beyond-the-michaelis-menten-evaluation-of-a-tqssa-based-ivive.md"
+  },
+  "PMx_Early_exposureresponse_modeling_of_an_in_20260329": {
+    "title": "Exposure-response modeling of an anti-interferon-beta monoclonal antibiotic in dermatomyositis: a joint modeling approach for multiple endpoint",
+    "date": "2026-03-29",
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response",
+      "meta-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-29-exposure-response-modeling-of-an-anti-interferon-beta-monoclonal-antibiotic-in.md"
+  },
+  "PMx_FollowUp_Bias_in_Tumor_Dynamic_Modeling__20260403": {
+    "title": "Follow-Up Bias in Tumor Dynamic Modeling: A Comparison of Classical and Neural-ODE Approaches",
+    "date": "2026-04-03",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-03-follow-up-bias-in-tumor-dynamic-modeling-a-comparison-of-classical-and-neural.md"
+  },
+  "PMx_Impact_of_EventRelated_Treatment_Modific_20260316": {
+    "title": "Impact of Event-Related Treatment Modifications in Exposure-Response Analyses of Repeated Time-to-Event Data",
+    "date": "2026-03-16",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-16-impact-of-event-related-treatment-modifications-in-exposure-response-analyses.md"
+  },
+  "PMx_Integrating_B_Cell_Differentiation_Model_20260225": {
+    "title": "Integrating B Cell Differentiation Model With Real-World Data Informs Determinants for Antibody-Secreting Cell Depletions in Systemic Sclerosis",
+    "date": "2026-02-25",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "immunology",
+      "digital-twins",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-25-integrating-b-cell-differentiation-model-with-real-world-data-informs.md"
+  },
+  "PMx_Integration_of_Machine_Learning_With_PBP_20260327": {
+    "title": "Integration of Machine Learning With PBPK and QSAR Modeling Approaches to Facilitate Drug Discovery and Development",
+    "date": "2026-03-27",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-27-integration-of-machine-learning-with-pbpk-and-qsar-modeling-approaches-to.md"
+  },
+  "PMx_Issue_Information_20260321": {
+    "title": "Content Extraction Failed - Issue Information Page Only",
+    "date": "2026-03-21",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-21-content-extraction-failed-issue-information-page-only.md"
+  },
+  "PMx_Learning_Covariate_Relations_in_Disease__20260316": {
+    "title": "Learning Covariate Relations in Disease Progression Models Using Symbolic Neural Networks",
+    "date": "2026-03-16",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-16-learning-covariate-relations-in-disease-progression-models-using-symbolic.md"
+  },
+  "PMx_Mathematical_Modeling_of_the_Role_of_Cyt_20260215": {
+    "title": "Mathematical Modeling of the Role of Cytokines in Sindbis Virus Treatment of Glioblastoma",
+    "date": "2026-02-15",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-15-mathematical-modeling-of-the-role-of-cytokines-in-sindbis-virus-treatment-of.md"
+  },
+  "PMx_ModelBased_MetaAnalysis_of_Objective_Res_20260221": {
+    "title": "Model-Based Meta-Analysis of Objective Response Rate and Survival Endpoints to Compare PD-1 and PD-L1 Treatment Outcomes in Non-Small Cell Lung Cancer",
+    "date": "2026-02-21",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "oncology",
+      "immunology",
+      "meta-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-21-model-based-meta-analysis-of-objective-response-rate-and-survival-endpoints-to.md"
+  },
+  "PMx_ModelBased_MetaAnalysis_of_Overall_Survi_20260218": {
+    "title": "Model-Based Meta-Analysis of Overall Survival in Vulnerable Platinum-Ineligible NSCLC Populations",
+    "date": "2026-02-18",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "oncology",
+      "regulatory",
+      "meta-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-18-model-based-meta-analysis-of-overall-survival-in-vulnerable-platinum-ineligible.md"
+  },
+  "PMx_Modeling_Simulation_and_Extrapolation_to_20260331": {
+    "title": "Modeling, Simulation, and Extrapolation to Streamline Pediatric Development: Sarilumab in Polyarticular-Course Juvenile Idiopathic Arthritis",
+    "date": "2026-03-31",
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "pediatrics",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-31-modeling-simulation-and-extrapolation-to-streamline-pediatric-development.md"
+  },
+  "PMx_Modeling_and_Simulation_in_Development_a_20260327": {
+    "title": "Modeling and Simulation in Development and Regulatory Approval of Chimeric Antigen Receptor T-Cell Therapies: An Analysis of European Medicines Agency Centralized Procedures From 2018 to 2024",
+    "date": "2026-03-27",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "dose-response",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-27-modeling-and-simulation-in-development-and-regulatory-approval-of-chimeric.md"
+  },
+  "PMx_On_the_existence_conditions_of_interacti_20260321": {
+    "title": "On the existence conditions of interaction indices in response surface models",
+    "date": "2026-03-21",
+    "paper_type": "generic",
+    "topic_tags": [
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-21-on-the-existence-conditions-of-interaction-indices-in-response-surface-models.md"
+  },
+  "PMx_Open_Systems_Pharmacology_Community_Conf_20260223": {
+    "title": "Open Systems Pharmacology Community Conference (OSP-CC) Proceedings 2025",
+    "date": "2026-02-23",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "covariate-analysis",
+      "pediatrics",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-23-open-systems-pharmacology-community-conference-osp-cc-proceedings-2025.md"
+  },
+  "PMx_Population_PKPD_Modeling_of_Danicopan_Ad_20260301": {
+    "title": "Population PK\u2013PD Modeling of Danicopan Add-On Therapy in Participants With Paroxysmal Nocturnal Hemoglobinuria Treated With Ravulizumab or Eculizumab",
+    "date": "2026-03-01",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-01-population-pkpd-modeling-of-danicopan-add-on-therapy-in-participants-with.md"
+  },
+  "PMx_Population_PKPD_Modeling_of_Danicopan_Ad_20260303": {
+    "title": "Population PK\u2013PD Modeling of Danicopan Add-On Therapy in Participants With Paroxysmal Nocturnal Hemoglobinuria Treated With Ravulizumab or Eculizumab",
+    "date": "2026-03-03",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-03-population-pkpd-modeling-of-danicopan-add-on-therapy-in-participants-with.md"
+  },
+  "PMx_Population_PharmacokineticPharmacodynami_20260209": {
+    "title": "Population Pharmacokinetic/Pharmacodynamic Modeling of Donidalorsen, an Antisense Oligonucleotide in Development for Prophylaxis of Hereditary Angioedema",
+    "date": "2026-02-09",
+    "paper_type": "generic",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-09-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense.md"
+  },
+  "PMx_Population_PharmacokineticPharmacodynami_20260214": {
+    "title": "Population Pharmacokinetic/Pharmacodynamic Modeling of Donidalorsen, an Antisense Oligonucleotide in Development for Prophylaxis of Hereditary Angioedema",
+    "date": "2026-02-14",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-14-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense.md"
+  },
+  "PMx_Population_PharmacokineticPharmacodynami_20260228": {
+    "title": "Population Pharmacokinetic\u2013Pharmacodynamic Analysis of Zolpidem in Healthy Volunteers: Covariate Contributions to Variability in CNS Responses",
+    "date": "2026-02-28",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-28-population-pharmacokineticpharmacodynamic-analysis-of-zolpidem-in-healthy.md"
+  },
+  "PMx_Population_Pharmacokinetic_Analysis_of_V_20260309": {
+    "title": "Population Pharmacokinetic Analysis of Vixarelimab in Healthy Volunteers and Patients With Chronic Pruritic Conditions",
+    "date": "2026-03-09",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-09-population-pharmacokinetic-analysis-of-vixarelimab-in-healthy-volunteers-and.md"
+  },
+  "PMx_Population_Pharmacokinetics_of_Serplulim_20260405": {
+    "title": "Population Pharmacokinetics of Serplulimab and Quantitative Assessment of Transitioning From Weight-Based to Flat-Dosing Strategy",
+    "date": "2026-04-05",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "oncology",
+      "immunology",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-05-population-pharmacokinetics-of-serplulimab-and-quantitative-assessment-of.md"
+  },
+  "PMx_QT_interval_prolongation_clinical_assess_20260406": {
+    "title": "QT interval prolongation: clinical assessment, risk factors and implications for drug therapy",
+    "date": "2026-04-06",
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-06-qt-interval-prolongation-clinical-assessment-risk-factors-and-implications-for.md"
+  },
+  "PMx_Quantitative_Evaluation_of_ModelInformed_20260210": {
+    "title": "Quantitative Evaluation of Model-Informed Drug Development Implementation in China's Approved Innovative Drugs: From Policy to Practice (2018\u20132024)",
+    "date": "2026-02-10",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "oncology",
+      "regulatory",
+      "meta-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-10-quantitative-evaluation-of-model-informed-drug-development-implementation-in.md"
+  },
+  "PMx_Quantitative_Systems_Pharmacology_Modeli_20260415": {
+    "title": "Quantitative Systems Pharmacology Modeling Amid the Rise of Agentic AI",
+    "date": "2026-04-15",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-15-quantitative-systems-pharmacology-modeling-amid-the-rise-of-agentic-ai.md"
+  },
+  "PMx_Quantitative_Systems_Pharmacology_Models_20260317": {
+    "title": "Quantitative Systems Pharmacology Models of Anti-Amyloid Treatments for Alzheimer's Disease: A Systematic Review",
+    "date": "2026-03-17",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-17-quantitative-systems-pharmacology-models-of-anti-amyloid-treatments-for.md"
+  },
+  "PMx_Repurposing_Oxfendazole_for_Onchocercias_20260211": {
+    "title": "Repurposing Oxfendazole for Onchocerciasis: Population Pharmacokinetics of a Tablet Formulation in Healthy African Adults",
+    "date": "2026-02-11",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-11-repurposing-oxfendazole-for-onchocerciasis-population-pharmacokinetics-of-a.md"
+  },
+  "PMx_Retrieval_Augmented_Generation_RAG_for_E_20260220": {
+    "title": "Retrieval Augmented Generation (RAG) for Evaluating Regulatory Compliance of Drug Information and Clinical Trial Protocols",
+    "date": "2026-02-20",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-20-retrieval-augmented-generation-rag-for-evaluating-regulatory-compliance-of-drug.md"
+  },
+  "PMx_Risk_Assessment_for_DrugInduced_Hyperbil_20260226": {
+    "title": "Risk Assessment for Drug-Induced Hyperbilirubinemia: A Mechanistic Approach",
+    "date": "2026-02-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-26-risk-assessment-for-drug-induced-hyperbilirubinemia-a-mechanistic-approach.md"
+  },
+  "PMx_Risks_encountered_when_not_adjusting_for_20260325": {
+    "title": "Risks encountered when not adjusting for food and clock time in concentration-QTc analyses of Phase I studies",
+    "date": "2026-03-25",
+    "paper_type": "generic",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-25-risks-encountered-when-not-adjusting-for-food-and-clock-time-in-concentration.md"
+  },
+  "PMx_SCOUT_An_Exploratory_Approach_to_Scoutin_20260402": {
+    "title": "SCOUT: An Exploratory Approach to Scouting Dose-Relevant Covariates",
+    "date": "2026-04-02",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "digital-twins",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-02-scout-an-exploratory-approach-to-scouting-dose-relevant-covariates.md"
+  },
+  "PMx_Scoping_review_of_the_role_of_pharmacome_20260407": {
+    "title": "Scoping review of the role of pharmacometrics in model-informed drug development",
+    "date": "2026-04-07",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-07-scoping-review-of-the-role-of-pharmacometrics-in-model-informed-drug-development.md"
+  },
+  "PMx_SemiPhysiological_Population_Pharmacokin_20260224": {
+    "title": "Semi-Physiological Population Pharmacokinetic Modeling of Oral and Intravenous Paracetamol to Quantify Presystemic Metabolism and Enterohepatic Recirculation",
+    "date": "2026-02-24",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-24-semi-physiological-population-pharmacokinetic-modeling-of-oral-and-intravenous.md"
+  },
+  "PMx_Simulationbased_assessment_of_the_Pglyco_20260324": {
+    "title": "Simulation-based assessment of the P-glycoprotein expression-activity relationship using a kinetic binding model",
+    "date": "2026-03-24",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-24-simulation-based-assessment-of-the-p-glycoprotein-expression-activity.md"
+  },
+  "PMx_Some_Common_DoseExposureResponse_Estiman_20260216": {
+    "title": "Some Common Dose\u2013Exposure\u2013Response Estimands and Conditions for Their Causal Identifiability",
+    "date": "2026-02-16",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-16-some-common-doseexposureresponse-estimands-and-conditions-for-their-causal.md"
+  },
+  "PMx_Stochastic_Gates_for_Covariate_Selection_20260209": {
+    "title": "Stochastic Gates for Covariate Selection in Population Pharmacokinetics Modeling",
+    "date": "2026-02-09",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-09-stochastic-gates-for-covariate-selection-in-population-pharmacokinetics-modeling.md"
+  },
+  "PMx_The_Potential_of_Digital_Twins_for_Pedia_20260404": {
+    "title": "The Potential of Digital Twins for Pediatric Rare Diseases",
+    "date": "2026-04-04",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "digital-twins",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-04-the-potential-of-digital-twins-for-pediatric-rare-diseases.md"
+  },
+  "PMx_The_Regularized_Horseshoe_for_Covariate__20260217": {
+    "title": "The Regularized Horseshoe for Covariate Selection Improves Convenience and Predictive Performance in Population PK/PD Models",
+    "date": "2026-02-17",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-02-17-the-regularized-horseshoe-for-covariate-selection-improves-convenience-and.md"
+  },
+  "PMx_Uncertainty_undermines_the_validity_of_a_20260322": {
+    "title": "Uncertainty Undermines the Validity of Antimicrobial Pharmacokinetic-Pharmacodynamic Models",
+    "date": "2026-03-22",
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-22-uncertainty-undermines-the-validity-of-antimicrobial-pharmacokinetic.md"
+  },
+  "PMx_Unraveling_the_Link_Between_Azathioprine_20260316": {
+    "title": "Unraveling the Link Between Azathioprine and Acute Pancreatitis: Integrating Network Toxicology, Machine Learning, and Mendelian Randomization",
+    "date": "2026-03-16",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-16-unraveling-the-link-between-azathioprine-and-acute-pancreatitis-integrating.md"
+  },
+  "PMx_Use_of_Modeling_and_Simulation_to_Inform_20260326": {
+    "title": "Use of Modeling and Simulation to Inform the Development of Monoclonal Antibodies to Treat Moderate-to-Severe Asthma: A Retrospective Review of EMA Centralized Procedure From 2014 to 2024",
+    "date": "2026-03-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "dose-response",
+      "pediatrics",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-26-use-of-modeling-and-simulation-to-inform-the-development-of-monoclonal.md"
+  },
+  "PMx_Utility_of_a_physiologicallybased_pharma_20260330": {
+    "title": "Utility of a Physiologically Based Pharmacokinetic Model to Elucidate the Mechanisms Underlying Variability of Fetal-to-Maternal Digoxin Concentration Ratios",
+    "date": "2026-03-30",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-30-utility-of-a-physiologically-based-pharmacokinetic-model-to-elucidate-the.md"
+  },
+  "PMx_Utilization_of_ModelInformed_Drug_Develo_20260329": {
+    "title": "Utilization of Model-Informed Drug Development in Early Clinical Development: Case Study of a Hb Modulator for Treatment of Sickle Cell Disease",
+    "date": "2026-03-29",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-29-utilization-of-model-informed-drug-development-in-early-clinical-development.md"
+  },
+  "PMx_What_Is_a_Digital_Twin_in_QSP_and_Are_We_20260317": {
+    "title": "What Is a Digital Twin in QSP, and Are We Doing It Right?",
+    "date": "2026-03-17",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "digital-twins",
+      "regulatory"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-03-17-what-is-a-digital-twin-in-qsp-and-are-we-doing-it-right.md"
+  }
+}
