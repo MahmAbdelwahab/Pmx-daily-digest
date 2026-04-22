@@ -1,0 +1,25 @@
+<!-- Page: https://pubmed.ncbi.nlm.nih.gov/41629699/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Jks6COFDAPTwm1xNVLy4fXuK1LZ9zD6RUaNI6Ydu4cDMXUc-D&fc=20260206013531&ff=20260301180510&v=2.19.0.post6+133c1fe -->
+<!-- Total <img> tags: 67 -->
+<!-- <figure> tags: 6 -->
+<!-- Wiley-style imgs: 0 -->
+
+<!-- Figure 1 START -->
+<figure class="fig xbox font-sm" id="Fig1"><h4 class="obj_head">Fig. 1.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=12864343_10928_2025_10015_Fig1_HTML.jpg" target="_blank"><img alt="Fig. 1" class="graphic zoom-in" height="279" id="d33e429" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/033d/12864343/0dcd62b5d4e2/10928_2025_10015_Fig1_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig1/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p><strong>Schematic representation of the P-gp kinetic model</strong> [<a aria-describedby="CR36" class="usa-link" href="#CR36">36</a>]. The model represents the in vitro setup commonly used for transwell permeability assays. Here, a monolayer of a
+<!-- Figure 1 END -->
+
+<!-- Figure 2 START -->
+<figure class="fig xbox font-sm" id="Fig2"><h4 class="obj_head">Fig. 2.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=12864343_10928_2025_10015_Fig2_HTML.jpg" target="_blank"><img alt="Fig. 2" class="graphic zoom-in" height="455" id="d33e1199" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/033d/12864343/9b8b0b0951ec/10928_2025_10015_Fig2_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig2/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p><strong>Visual guide on the rEAR</strong><sub><strong>x%</strong></sub>. The black dot indicates the reference simulation with 100% P-gp expression. The red line represents a linear EAR, and the red points indicate such a linear EAR, where rEAR<
+<!-- Figure 2 END -->
+
+<!-- Figure 3 START -->
+<figure class="fig xbox font-sm" id="Fig3"><h4 class="obj_head">Fig. 3.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=12864343_10928_2025_10015_Fig3_HTML.jpg" target="_blank"><img alt="Fig. 3" class="graphic zoom-in" height="457" id="d33e1549" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/033d/12864343/d1d32687f0cb/10928_2025_10015_Fig3_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig3/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>P-gp expression-activity relationship (EAR) of seven P-gp substrates. All the simulations started with a reference (100%) P-gp expression of 1000 µM and the drug concentration in the apical chamber at t = 0 was 1 µM. P-gp expression was subseque
+<!-- Figure 3 END -->

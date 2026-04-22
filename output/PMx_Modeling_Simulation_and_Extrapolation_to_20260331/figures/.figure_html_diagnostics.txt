@@ -1,0 +1,25 @@
+<!-- Page: https://pubmed.ncbi.nlm.nih.gov/41874761/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Jks6COFDAPTwm1xNVLy4fXuK1LZ9zD6RUaNI6Ydu4cDMXUc-D&fc=20260206013531&ff=20260331040024&v=2.19.0.post6+133c1fe -->
+<!-- Total <img> tags: 55 -->
+<!-- <figure> tags: 5 -->
+<!-- Wiley-style imgs: 0 -->
+
+<!-- Figure 1 START -->
+<figure class="fig xbox font-sm" id="Fig1"><h3 class="obj_head">Fig. 1.</h3>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013173_10928_2026_10024_Fig1_HTML.jpg" target="_blank"><img alt="Fig. 1" class="graphic zoom-in" height="314" id="d33e316" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9304/13013173/80cb9bebb149/10928_2026_10024_Fig1_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig1/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Study design for dose-finding in the first portion of the 12-week core treatment part of the phase 2 trial (<a class="usa-link" data-ga-action="click_feat_suppl" href="https://clinicaltrials.gov/ct2/show/NCT02776735" rel="noopener noreferrer" tar
+<!-- Figure 1 END -->
+
+<!-- Figure 2 START -->
+<figure class="fig xbox font-sm" id="Fig2"><h4 class="obj_head">Fig. 2.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013173_10928_2026_10024_Fig2_HTML.jpg" target="_blank"><img alt="Fig. 2" class="graphic zoom-in" height="389" id="d33e471" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9304/13013173/a9c3250b718f/10928_2026_10024_Fig2_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig2/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Sarilumab PopPK model structure (<strong>a</strong>) and simulated steady-state exposure of sarilumab for the pcJIA dose regimens corresponding to the three targeted adult RA dose regimens (b-d), highlighting: (<strong>b</strong>) area under the 
+<!-- Figure 2 END -->
+
+<!-- Figure 3 START -->
+<figure class="fig xbox font-sm" id="Fig3"><h5 class="obj_head">Fig. 3.</h5>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013173_10928_2026_10024_Fig3_HTML.jpg" target="_blank"><img alt="Fig. 3" class="graphic zoom-in" height="450" id="d33e1304" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9304/13013173/9ccd6ab3e738/10928_2026_10024_Fig3_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig3/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Comparative bar plot of ACR30/50/70 responses observed (<strong>a</strong>-<strong>c</strong>) and the JIA-ACR30/50/70 response rate at week 12 with the E–R model-predicted response rate versus <em>C</em><sub>trough</sub> overlaid on the observe
+<!-- Figure 3 END -->

@@ -1,0 +1,29 @@
+<!-- Page: https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70168?af=R -->
+<!-- Total <img> tags: 21 -->
+<!-- <figure> tags: 6 -->
+<!-- Wiley-style imgs: 5 -->
+
+<!-- Figure 1 START -->
+<figure class="figure" id="psp470168-fig-0001"><a href="/cms/asset/c29fe781-4e33-4847-9f3f-02f0fa99d61b/psp470168-fig-0001-m.jpg" target="_blank"><picture>
+<source media="(min-width: 1650px)" srcset="/cms/asset/c29fe781-4e33-4847-9f3f-02f0fa99d61b/psp470168-fig-0001-m.jpg"/><img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/c29fe781-4e33-4847-9f3f-02f0fa99d61b/psp470168-fig-0001-m.jpg" loading="lazy" src="/cms/asset/cd074a4c-86d2-4674-a146-fc511a606df0/psp470168-fig-0001-m.png" title="Details are in the caption following the image"/></picture></a><figcaption class="figure__caption">
+<div class="figure__caption__header"><strong class="figure__title">FIGURE 1<span style="font-weight:normal"></span></strong><div class="figure-extra"><a class="open-figure-link" href="#">Open in figure viewer</a><a class="ppt-figure-link" href="/action/downloadFigures?id=psp470168-fig-0001&amp;partId=&amp;doi=10.1002%2Fpsp4.70168"><i aria-hidden="true" cl
+<!-- Figure 1 END -->
+
+<!-- Figure 2 START -->
+<figure class="figure" id="psp470168-fig-0002"><a href="/cms/asset/c5b2832a-9531-4d4b-90c4-e30c86c0c800/psp470168-fig-0002-m.jpg" target="_blank"><picture>
+<source media="(min-width: 1650px)" srcset="/cms/asset/c5b2832a-9531-4d4b-90c4-e30c86c0c800/psp470168-fig-0002-m.jpg"/><img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/c5b2832a-9531-4d4b-90c4-e30c86c0c800/psp470168-fig-0002-m.jpg" loading="lazy" src="/cms/asset/d3c25cae-7bc0-4717-a2d0-94b260700535/psp470168-fig-0002-m.png" title="Details are in the caption following the image"/></picture></a><figcaption class="figure__caption">
+<div class="figure__caption__header"><strong class="figure__title">FIGURE 2<span style="font-weight:normal"></span></strong><div class="figure-extra"><a class="open-figure-link" href="#">Open in figure viewer</a><a class="ppt-figure-link" href="/action/downloadFigures?id=psp470168-fig-0002&amp;partId=&amp;doi=10.1002%2Fpsp4.70168"><i aria-hidden="true" cl
+<!-- Figure 2 END -->
+
+<!-- Figure 3 START -->
+<figure class="figure" id="psp470168-fig-0003"><a href="/cms/asset/042e3aca-a8a4-4e28-9b40-77391cf3351c/psp470168-fig-0003-m.jpg" target="_blank"><picture>
+<source media="(min-width: 1650px)" srcset="/cms/asset/042e3aca-a8a4-4e28-9b40-77391cf3351c/psp470168-fig-0003-m.jpg"/><img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/042e3aca-a8a4-4e28-9b40-77391cf3351c/psp470168-fig-0003-m.jpg" loading="lazy" src="/cms/asset/67a3edf3-e475-42fb-91ae-cd903ebc4d6f/psp470168-fig-0003-m.png" title="Details are in the caption following the image"/></picture></a><figcaption class="figure__caption">
+<div class="figure__caption__header"><strong class="figure__title">FIGURE 3<span style="font-weight:normal"></span></strong><div class="figure-extra"><a class="open-figure-link" href="#">Open in figure viewer</a><a class="ppt-figure-link" href="/action/downloadFigures?id=psp470168-fig-0003&amp;partId=&amp;doi=10.1002%2Fpsp4.70168"><i aria-hidden="true" cl
+<!-- Figure 3 END -->
+
+<!-- Wiley-style Images -->
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/c29fe781-4e33-4847-9f3f-02f0fa99d61b/psp470168-fig-0001-m.jpg" loading="lazy" src="/cms/asset/cd074a4c-86d2-4674-a146-fc511a606df0/psp470168-fig-0001-m.png" title="Details are in the caption following the image"/>
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/c5b2832a-9531-4d4b-90c4-e30c86c0c800/psp470168-fig-0002-m.jpg" loading="lazy" src="/cms/asset/d3c25cae-7bc0-4717-a2d0-94b260700535/psp470168-fig-0002-m.png" title="Details are in the caption following the image"/>
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/042e3aca-a8a4-4e28-9b40-77391cf3351c/psp470168-fig-0003-m.jpg" loading="lazy" src="/cms/asset/67a3edf3-e475-42fb-91ae-cd903ebc4d6f/psp470168-fig-0003-m.png" title="Details are in the caption following the image"/>
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/4032b3ec-b227-4cb1-a1ac-078091f60c8f/psp470168-fig-0004-m.jpg" loading="lazy" src="/cms/asset/51641dfa-ff30-4f4a-9e4e-ba827fb4b3b7/psp470168-fig-0004-m.png" title="Details are in the caption following the image"/>
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/fc7b4c38-cb99-4ae6-8a8c-cee1c79df93c/psp470168-fig-0005-m.jpg" loading="lazy" src="/cms/asset/38d853ca-ee96-4a66-adf6-b00b46a36ae8/psp470168-fig-0005-m.png" title="Details are in the caption following the image"/>

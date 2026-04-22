@@ -1,0 +1,24 @@
+<!-- Page: https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70202?af=R -->
+<!-- Total <img> tags: 18 -->
+<!-- <figure> tags: 3 -->
+<!-- Wiley-style imgs: 2 -->
+
+<!-- Figure 1 START -->
+<figure class="figure" id="psp470202-fig-0001"><a href="/cms/asset/0d371b5d-9766-45ce-b39c-95ea128e7467/psp470202-fig-0001-m.jpg" target="_blank"><picture>
+<source media="(min-width: 1650px)" srcset="/cms/asset/0d371b5d-9766-45ce-b39c-95ea128e7467/psp470202-fig-0001-m.jpg"/><img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/0d371b5d-9766-45ce-b39c-95ea128e7467/psp470202-fig-0001-m.jpg" loading="lazy" src="/cms/asset/9778f688-7af7-42e4-bd67-c5b1434f7129/psp470202-fig-0001-m.png" title="Details are in the caption following the image"/></picture></a><figcaption class="figure__caption">
+<div class="figure__caption__header"><strong class="figure__title">FIGURE 1<span style="font-weight:normal"></span></strong><div class="figure-extra"><a class="open-figure-link" href="#">Open in figure viewer</a><a class="ppt-figure-link" href="/action/downloadFigures?id=psp470202-fig-0001&amp;partId=&amp;doi=10.1002%2Fpsp4.70202"><i aria-hidden="true" cl
+<!-- Figure 1 END -->
+
+<!-- Figure 2 START -->
+<figure class="figure" id="psp470202-fig-0002"><a href="/cms/asset/dff979ed-3b12-4c70-b4a9-7d1708b821e7/psp470202-fig-0002-m.jpg" target="_blank"><picture>
+<source media="(min-width: 1650px)" srcset="/cms/asset/dff979ed-3b12-4c70-b4a9-7d1708b821e7/psp470202-fig-0002-m.jpg"/><img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/dff979ed-3b12-4c70-b4a9-7d1708b821e7/psp470202-fig-0002-m.jpg" loading="lazy" src="/cms/asset/826c77ec-bd6b-4d40-927a-74702dcfb86b/psp470202-fig-0002-m.png" title="Details are in the caption following the image"/></picture></a><figcaption class="figure__caption">
+<div class="figure__caption__header"><strong class="figure__title">FIGURE 2<span style="font-weight:normal"></span></strong><div class="figure-extra"><a class="open-figure-link" href="#">Open in figure viewer</a><a class="ppt-figure-link" href="/action/downloadFigures?id=psp470202-fig-0002&amp;partId=&amp;doi=10.1002%2Fpsp4.70202"><i aria-hidden="true" cl
+<!-- Figure 2 END -->
+
+<!-- Figure 3 START -->
+<figure class="holder"></figure>
+<!-- Figure 3 END -->
+
+<!-- Wiley-style Images -->
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/0d371b5d-9766-45ce-b39c-95ea128e7467/psp470202-fig-0001-m.jpg" loading="lazy" src="/cms/asset/9778f688-7af7-42e4-bd67-c5b1434f7129/psp470202-fig-0001-m.png" title="Details are in the caption following the image"/>
+<img alt="Details are in the caption following the image" class="figure__image" data-lg-src="/cms/asset/dff979ed-3b12-4c70-b4a9-7d1708b821e7/psp470202-fig-0002-m.jpg" loading="lazy" src="/cms/asset/826c77ec-bd6b-4d40-927a-74702dcfb86b/psp470202-fig-0002-m.png" title="Details are in the caption following the image"/>

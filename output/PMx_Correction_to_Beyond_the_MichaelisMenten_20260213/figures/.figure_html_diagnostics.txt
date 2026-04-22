@@ -1,0 +1,8 @@
+<!-- Page: https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70216?af=R -->
+<!-- Total <img> tags: 16 -->
+<!-- <figure> tags: 1 -->
+<!-- Wiley-style imgs: 0 -->
+
+<!-- Figure 1 START -->
+<figure class="holder"></figure>
+<!-- Figure 1 END -->

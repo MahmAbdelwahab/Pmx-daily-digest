@@ -1,0 +1,25 @@
+<!-- Page: https://pubmed.ncbi.nlm.nih.gov/41874840/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Jks6COFDAPTwm1xNVLy4fXuK1LZ9zD6RUaNI6Ydu4cDMXUc-D&fc=20260206013531&ff=20260329040524&v=2.19.0.post6+133c1fe -->
+<!-- Total <img> tags: 117 -->
+<!-- <figure> tags: 5 -->
+<!-- Wiley-style imgs: 0 -->
+
+<!-- Figure 1 START -->
+<figure class="fig xbox font-sm" id="Fig1"><h4 class="obj_head">Fig. 1.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013141_10928_2026_10022_Fig1_HTML.jpg" target="_blank"><img alt="Fig. 1" class="graphic zoom-in" height="306" id="MO1" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/aa2d/13013141/3624e6e64e98/10928_2026_10022_Fig1_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig1/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Exposure-response model diagram. The modeled exposure-response for any clinical endpoint in the model. In the diagram, states of the endpoint, dazukibart concentration and unbound fraction of IFN<sub>β</sub>are represented as boxes, with mass transfe
+<!-- Figure 1 END -->
+
+<!-- Figure 2 START -->
+<figure class="fig xbox font-sm" id="Fig2"><h4 class="obj_head">Fig. 2.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013141_10928_2026_10022_Fig2_HTML.jpg" target="_blank"><img alt="Fig. 2" class="graphic zoom-in" height="450" id="d33e2181" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/aa2d/13013141/810616060e84/10928_2026_10022_Fig2_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig2/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Prediction diagnostic plots for final model. For each set of predictions, endpoints are faceted out for focused assessment, but all endpoints are also pooled into an overall plot on the left, to give an impression of the full range fit by the mo
+<!-- Figure 2 END -->
+
+<!-- Figure 3 START -->
+<figure class="fig xbox font-sm" id="Fig3"><h4 class="obj_head">Fig. 3.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=13013141_10928_2026_10022_Fig3_HTML.jpg" target="_blank"><img alt="Fig. 3" class="graphic zoom-in" height="636" id="d33e2200" loading="lazy" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/aa2d/13013141/2976b5eef461/10928_2026_10022_Fig3_HTML.jpg" width="685"/></a></p>
+<div class="p text-right font-secondary"><a class="usa-link" href="figure/Fig3/" rel="noopener noreferrer" target="_blank">Open in a new tab</a></div>
+<figcaption><p>Visual predictive checks for total improvement score. Both plots are stratified by crossover arm. The plots in (a) are continuous TIS scores through end-of-study, with observed individual scores in black and median in red; medians and 95% confid
+<!-- Figure 3 END -->
