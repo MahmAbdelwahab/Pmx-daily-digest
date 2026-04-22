@@ -1,8 +1,8 @@
-# PMx Weekly — Pharmacometrics Paper Digest Archive
+# PMx Daily — Pharmacometrics Paper Digest Archive
 # Jekyll configuration for GitHub Pages
 
-title: "PMx Weekly — Pharmacometrics Paper Digest Archive"
-description: "AI-powered weekly digests of pharmacometrics literature, organized by topic and searchable."
+title: "PMx Daily — Pharmacometrics Paper Digest Archive"
+description: "AI-powered daily digests of pharmacometrics literature, organized by topic and searchable."
 baseurl: "/pmx-weekly-reports"
 url: ""  # Set to https://<username>.github.io in production
 
