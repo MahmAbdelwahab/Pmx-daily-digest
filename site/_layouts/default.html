@@ -7,6 +7,15 @@
   <meta name="baseurl" content="{{ site.baseurl }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% if page.layout == 'search' or page.layout == 'post' %}
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      }
+    };
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js" integrity="sha512-T8xxpazDtODy3WOP/c6hvQI2O9UPdARlDWE0CvH1Pfqc2/K70jNPmqga0ZusStVcaw3SmaZNrgSESNHHfIpe5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   {% endif %}
   {% seo %}
