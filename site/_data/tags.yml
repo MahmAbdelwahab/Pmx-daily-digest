@@ -1,0 +1,68 @@
+# Tag taxonomy for PMx Weekly digest archive
+# Two dimensions: paper_type (mutually exclusive) and topic (multiple per digest)
+
+# Paper types (from PaperClassifier)
+- name: popk
+  category: paper_type
+  description: Population PK/PD modeling
+
+- name: methodology
+  category: paper_type
+  description: Statistical/mathematical methodology
+
+- name: ai-ml
+  category: paper_type
+  description: AI/ML applications in pharmacometrics
+
+- name: generic
+  category: paper_type
+  description: General pharmacometrics
+
+# Topic tags (deterministic rules, multiple per digest)
+- name: pbpk
+  category: topic
+  description: Physiologically-based PK
+
+- name: qsp
+  category: topic
+  description: Quantitative systems pharmacology
+
+- name: dose-response
+  category: topic
+  description: Dose-exposure-response modeling
+
+- name: covariate-analysis
+  category: topic
+  description: Covariate selection and evaluation
+
+- name: pediatrics
+  category: topic
+  description: Pediatric pharmacology / extrapolation
+
+- name: oncology
+  category: topic
+  description: Oncology drug development
+
+- name: immunology
+  category: topic
+  description: Immunology / immunotherapy
+
+- name: digital-twins
+  category: topic
+  description: Digital twins / virtual patients
+
+- name: regulatory
+  category: topic
+  description: Regulatory science / MIDD
+
+- name: machine-learning
+  category: topic
+  description: ML/DL techniques applied to PMx
+
+- name: meta-analysis
+  category: topic
+  description: Model-based meta-analysis
+
+- name: clinical-trial-design
+  category: topic
+  description: Trial simulation and optimization

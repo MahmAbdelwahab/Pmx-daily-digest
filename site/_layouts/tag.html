@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="tag-archive">
+  <h1>Digests tagged: {{ page.tag_name }}</h1>
+  {% if page.tag_description %}
+  <p class="tag-description">{{ page.tag_description }}</p>
+  {% endif %}
+
+  <div class="digest-list">
+    {% assign tagged_posts = site.posts | where_exp: "post", "post.tags contains page.tag_name" %}
+    {% for post in tagged_posts %}
+    <article class="digest-summary">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <div class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% if post.journal %}<span class="journal">{{ post.journal }}</span>{% endif %}
+      </div>
+      {% if post.excerpt_text %}
+      <p class="excerpt">{{ post.excerpt_text | truncatewords: 50 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+
+  <p><a href="{{ '/tags/' | relative_url }}">&larr; All topics</a></p>
+</div>

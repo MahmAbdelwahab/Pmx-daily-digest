@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<article class="digest-post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% if page.authors %}<span class="authors">{{ page.authors }}</span>{% endif %}
+      {% if page.journal %}<span class="journal">{{ page.journal }}</span>{% endif %}
+      {% if page.doi %}<span class="doi"><a href="{{ page.doi }}">DOI</a></span>{% endif %}
+    </div>
+    <div class="post-tags">
+      {% if page.paper_type %}
+        <span class="tag tag-paper-type"><a href="{{ '/tags/' | append: page.paper_type | append: '/' | relative_url }}">{{ page.paper_type }}</a></span>
+      {% endif %}
+      {% for tag in page.tags %}
+        {% unless tag == page.paper_type %}
+        <span class="tag tag-topic"><a href="{{ '/tags/' | append: tag | append: '/' | relative_url }}">{{ tag }}</a></span>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </header>
+
+  {% if page.excerpt_text %}
+  <div class="quick-take">
+    <strong>Quick Take:</strong> {{ page.excerpt_text }}
+  </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.pdf_path %}
+  <div class="pdf-download">
+    <a href="{{ page.pdf_path | relative_url }}" class="btn">Download PDF</a>
+  </div>
+  {% endif %}
+</article>

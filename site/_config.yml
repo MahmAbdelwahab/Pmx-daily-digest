@@ -1,0 +1,42 @@
+# PMx Weekly — Pharmacometrics Paper Digest Archive
+# Jekyll configuration for GitHub Pages
+
+title: "PMx Weekly — Pharmacometrics Paper Digest Archive"
+description: "AI-powered weekly digests of pharmacometrics literature, organized by topic and searchable."
+baseurl: "/pmx-weekly-reports"
+url: ""  # Set to https://<username>.github.io in production
+
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Permalink format for digest posts
+permalink: /digests/:year/:month/:day/:title/
+
+# Collections / defaults
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from build
+exclude:
+  - Gemfile.lock
+  - README.md
+  - scripts/
+  - "*.py"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Tag page generation is handled by tag data + includes

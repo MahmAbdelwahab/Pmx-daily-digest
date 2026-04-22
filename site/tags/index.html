@@ -1,0 +1,41 @@
+---
+layout: default
+title: Browse by Topic
+---
+<div class="tag-index">
+  <h1>Browse by Topic</h1>
+
+  <h2>Paper Type</h2>
+  <div class="tag-grid">
+    {% for entry in site.data.tags %}
+      {% if entry.category == "paper_type" %}
+      {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains entry.name" %}
+      <div class="tag-card">
+        <a href="{{ '/tags/' | append: entry.name | append: '/' | relative_url }}">
+          <h3>{{ entry.name }}</h3>
+          <p>{{ entry.description }}</p>
+          <span class="count">{{ tag_posts.size }} digests</span>
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <h2>Topics</h2>
+  <div class="tag-grid">
+    {% for entry in site.data.tags %}
+      {% if entry.category == "topic" %}
+      {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains entry.name" %}
+      {% if tag_posts.size > 0 %}
+      <div class="tag-card">
+        <a href="{{ '/tags/' | append: entry.name | append: '/' | relative_url }}">
+          <h3>{{ entry.name }}</h3>
+          <p>{{ entry.description }}</p>
+          <span class="count">{{ tag_posts.size }} digests</span>
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+  </div>
+</div>
