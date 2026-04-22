@@ -142,11 +142,11 @@ Probability density function for time-to-event, where S(t) is survival function 
 
 **Discontinuation Effect Function**
 
-{%- raw -%}
+{% raw %}
 $$
 \mathrm{DEFF} = \left(1 + \frac{\mathrm{DEMAX} \times {\mathrm{BlindedStudyTreatment}_{\mathrm{rank}}}^{\mathrm{DHILL}}}{{\mathrm{BlindedStudyTreatment}_{\mathrm{rank}}}^{\mathrm{DHILL}} + \mathrm{D50}^{\mathrm{DHILL}}}\right) \times \left(1 + \mathrm{DINT} \times e^{\mathrm{BlindedStudyTreatment}_{\mathrm{rank}} \times \mathrm{DSLOPE}}\right)
 $$
-{%- endraw -%}
+{% endraw %}
 
 Discontinuation effect function combining sigmoid Emax component (capturing sharp difference between discontinuers and non-discontinuers) with exponential component (capturing early vs. late discontinuation timing). DEMAX, DHILL, D50, DINT, and DSLOPE are estimated parameters.
 
