@@ -6,7 +6,7 @@ authors: "Govere GS, Dogné JM, Musuamba F"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70192?af=R"
 paper_type: generic
-tags: [generic, pbpk, qsp, dose-response, pediatrics, regulatory, meta-analysis, clinical-trial-design]
+tags: [generic, pbpk, qsp, dose-response, covariate-analysis, pediatrics, regulatory, meta-analysis, clinical-trial-design]
 excerpt_text: "A comprehensive review of 25 years of EMA Scientific Advice for sickle cell disease and thalassemia, benchmarking model-informed approaches against standard statistical methods. Essential reading for regulatory scientists and modelers working in rare diseases to understand how ICH M15 principles are applied to model acceptance."
 pdf_path: "/assets/digests/2026-02-27-assessment-and-benchmarking-of-model-informed-approaches-in-drug-development/PMx_Assessment_and_Benchmarking_of_Model_Inf_20260227.pdf"
 retroactively_classified: true

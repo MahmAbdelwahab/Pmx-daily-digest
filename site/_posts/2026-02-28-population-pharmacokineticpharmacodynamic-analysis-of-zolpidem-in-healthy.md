@@ -5,8 +5,8 @@ date: 2026-02-28
 authors: "Kim HC, Seo J, Yu S, Jang IJ, Cho JY"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70208"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, regulatory]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, regulatory]
 excerpt_text: "This study challenges the sex-based dosing paradigm for zolpidem by identifying body weight, albumin, and baseline performance as more mechanistic drivers of variability. It offers a robust framework for modeling psychometric data, specifically addressing learning effects and baseline drifts in healthy volunteers."
 pdf_path: "/assets/digests/2026-02-28-population-pharmacokineticpharmacodynamic-analysis-of-zolpidem-in-healthy/PMx_Population_PharmacokineticPharmacodynami_20260228.pdf"
 retroactively_classified: true

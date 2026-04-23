@@ -5,8 +5,8 @@ date: 2026-03-03
 authors: "Jun Chen, Feng Yang, Hanbin Li, Rajendra Pradhan, Stephan Ortiz et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70209"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, regulatory]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, regulatory]
 excerpt_text: "This paper presents the regulatory-grade population PK–PD model supporting the approved danicopan dosing regimens (150 mg and 200 mg tid) for paroxysmal nocturnal hemoglobinuria. Clinical pharmacologists, pharmacometricians working in rare hematologic diseases, and complement biology researchers will find this a thorough characterization of a first-in-class oral factor D inhibitor. The work directly informed FDA/EMA labeling decisions, including the food-effect label expansion."
 pdf_path: "/assets/digests/2026-03-03-population-pkpd-modeling-of-danicopan-add-on-therapy-in-participants-with/PMx_Population_PKPD_Modeling_of_Danicopan_Ad_20260303.pdf"
 retroactively_classified: true

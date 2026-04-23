@@ -5,8 +5,8 @@ date: 2026-03-21
 authors: "Yumuk E, Ionescu C"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
 doi: "https://doi.org/10.1007/s10928-026-10026-x"
-paper_type: generic
-tags: [generic, oncology, regulatory]
+paper_type: methodology
+tags: [methodology, oncology, regulatory]
 excerpt_text: "This theoretical pharmacometrics paper provides a rigorous mathematical framework for determining when response surface models (RSMs) for drug combinations yield biologically interpretable results. Essential reading for pharmacometricians working with combination therapy models, particularly in anesthesia and oncology drug development, as it identifies parameter constraints that prevent singularities and complex-valued predictions in Greco, Minto, and Finney models."
 pdf_path: "/assets/digests/2026-03-21-on-the-existence-conditions-of-interaction-indices-in-response-surface-models/PMx_On_the_existence_conditions_of_interacti_20260321.pdf"
 retroactively_classified: true

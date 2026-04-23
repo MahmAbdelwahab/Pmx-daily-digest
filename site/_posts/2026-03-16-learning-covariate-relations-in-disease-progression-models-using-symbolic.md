@@ -5,8 +5,8 @@ date: 2026-03-16
 authors: "Sundell J, Kjellsson M, Wellhagen G, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70214"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, regulatory, machine-learning]
+paper_type: ai-ml
+tags: [ai-ml, qsp, covariate-analysis, regulatory, machine-learning]
 excerpt_text: "This paper introduces symbolic neural networks (SNNs) as an automated approach for covariate model development in Markov chain disease progression models, demonstrating comparable predictive performance to traditional stepwise methods while using fewer covariates in a type 2 diabetes application. Pharmacometricians working on disease progression modeling, particularly those struggling with high-dimensional covariate selection or non-linear covariate relationships, should examine this novel machine learning integration that produces interpretable equations."
 pdf_path: "/assets/digests/2026-03-16-learning-covariate-relations-in-disease-progression-models-using-symbolic/PMx_Learning_Covariate_Relations_in_Disease__20260316.pdf"
 retroactively_classified: true

@@ -5,8 +5,8 @@ date: 2026-03-09
 authors: "Fei Tang et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026, Volume 15, Issue 3, Pages 1–12"
 doi: "https://doi.org/10.1002/psp4.70230"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis]
 excerpt_text: "This paper presents the first detailed population pharmacokinetic (PopPK) model for vixarelimab, a first-in-class monoclonal antibody targeting OSMRβ, using pooled data from Phase 1/2 studies. A two-compartment target-mediated drug disposition (TMDD) model with quasi-steady-state (QSS) approximation was successfully developed. Body weight was the only significant covariate, but its clinical impact on exposure was minimal—supporting flat dosing in future trials."
 pdf_path: "/assets/digests/2026-03-09-population-pharmacokinetic-analysis-of-vixarelimab-in-healthy-volunteers-and/PMx_Population_Pharmacokinetic_Analysis_of_V_20260309.pdf"
 retroactively_classified: true

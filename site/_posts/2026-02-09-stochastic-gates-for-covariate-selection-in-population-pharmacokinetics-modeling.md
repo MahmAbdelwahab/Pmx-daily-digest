@@ -5,8 +5,8 @@ date: 2026-02-09
 authors: "Kekic M, Neuneyer A, Reith S, Tjelmeland C, Ziemen D, Tang W, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70147"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, machine-learning]
+paper_type: ai-ml
+tags: [ai-ml, qsp, covariate-analysis, machine-learning]
 excerpt_text: "A machine learning approach using Neural Networks with 'Stochastic Gates' to automate covariate pre-selection in PopPK. This method explicitly penalizes the number of features, handling highly correlated covariates better than standard methods like XGBoost, though it still relies on EBEs."
 pdf_path: "/assets/digests/2026-02-09-stochastic-gates-for-covariate-selection-in-population-pharmacokinetics-modeling/PMx_Stochastic_Gates_for_Covariate_Selection_20260209.pdf"
 retroactively_classified: true

@@ -5,8 +5,8 @@ date: 2026-02-26
 authors: "Kumar R, Kumar A, Matsuura Y, Weiss J, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70037"
-paper_type: generic
-tags: [generic, qsp]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis]
 excerpt_text: "A mechanistic systems toxicology model dissecting the interplay between drug inhibition and genetic polymorphisms (UGT1A1, OATP1B1, MRP2) in hyperbilirubinemia. Essential reading for safety scientists and QSP modelers seeking to distinguish benign transporter-mediated bilirubin elevation from true liver injury."
 pdf_path: "/assets/digests/2026-02-26-risk-assessment-for-drug-induced-hyperbilirubinemia-a-mechanistic-approach/PMx_Risk_Assessment_for_DrugInduced_Hyperbil_20260226.pdf"
 retroactively_classified: true

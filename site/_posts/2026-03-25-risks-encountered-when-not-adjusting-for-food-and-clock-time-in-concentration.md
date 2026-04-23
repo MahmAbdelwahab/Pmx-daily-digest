@@ -5,8 +5,8 @@ date: 2026-03-25
 authors: "Bardol M, Laveille C, Sarr C, Hooker AC"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026, 53(1):10012-9"
 doi: "https://doi.org/10.1007/s10928-025-10012-9"
-paper_type: generic
-tags: [generic, covariate-analysis, regulatory]
+paper_type: methodology
+tags: [methodology, covariate-analysis, regulatory]
 excerpt_text: "This simulation study demonstrates that uncontrolled and unbalanced food intake or clock time variations in Phase I studies can inflate false-negative rates in concentration-QTc analyses by up to 50% when using the standard pre-specified linear model (PLM). Pharmacometricians and cardiac safety scientists should read this to understand how simple adjustments for food status and diurnal variation can rescue TQT waiver strategies from suboptimal study designs."
 pdf_path: "/assets/digests/2026-03-25-risks-encountered-when-not-adjusting-for-food-and-clock-time-in-concentration/PMx_Risks_encountered_when_not_adjusting_for_20260325.pdf"
 retroactively_classified: true

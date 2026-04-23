@@ -5,8 +5,8 @@ date: 2026-03-28
 authors: "Van Thuy Truong et al."
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026 Mar 24"
 doi: "https://doi.org/10.1007/s10928-026-10021-2"
-paper_type: generic
-tags: [generic, oncology, immunology]
+paper_type: popk
+tags: [popk, oncology, immunology]
 excerpt_text: "This paper presents a sophisticated 999-agent hybrid multiscale model integrating agent-based modeling (ABM), ordinary differential equations (ODEs), and partial differential equations (PDEs) to simulate tuntour-immune interactions and multiple anticancer treatments. Pharmacometricians working in immuno-oncology, combination therapy optimization, or spatial modeling should read this to understand how mechanistic multisystem integration can reveal emergent behaviors in the tumour microenvironment (TME)."
 pdf_path: "/assets/digests/2026-03-28-a-hybrid-pkpd-agent-based-model-of-the-human-tunour-microenvironment/PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260328.pdf"
 retroactively_classified: true

@@ -5,8 +5,8 @@ date: 2026-02-09
 authors: "John K. Diep et al."
 journal: "Clinical Pharmacology & Therapeutics, 2026, 119(2), 206-216"
 doi: "https://doi.org/10.1002/psp4.70206"
-paper_type: generic
-tags: [generic, covariate-analysis, regulatory]
+paper_type: popk
+tags: [popk, covariate-analysis, regulatory]
 excerpt_text: "This study presents a comprehensive population PK/PD model for donidalorsen, an antisense oligonucleotide for hereditary angioedema (HAE). It demonstrates that despite body weight influencing PK exposure, no dose adjustments are needed due to the drug's high potency and sustained PD effect. Pharmacometricians involved in ASO development or HAE treatment should review this paper for insights into modeling complex drug-response relationships and supporting flexible dosing regimens."
 pdf_path: "/assets/digests/2026-02-09-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense/PMx_Population_PharmacokineticPharmacodynami_20260209.pdf"
 retroactively_classified: true

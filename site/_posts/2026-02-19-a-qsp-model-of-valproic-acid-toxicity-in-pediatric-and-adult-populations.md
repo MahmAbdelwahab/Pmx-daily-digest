@@ -5,8 +5,8 @@ date: 2026-02-19
 authors: "Schiavo A, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70200"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, pediatrics]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, pediatrics]
 excerpt_text: "A quantitative systems pharmacology (QSP) model extending valproic acid (VPA) toxicity predictions to pediatric populations. It provides a mechanistic rationale for using extended-release formulations and establishes a concrete dosing rule for L-carnitine supplementation to prevent hyperammonemia."
 pdf_path: "/assets/digests/2026-02-19-a-qsp-model-of-valproic-acid-toxicity-in-pediatric-and-adult-populations/PMx_A_QSP_Model_of_Valproic_Acid_Toxicity_in_20260219.pdf"
 retroactively_classified: true

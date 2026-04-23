@@ -5,8 +5,8 @@ date: 2026-04-02
 authors: "Ideno Y, Kasai H, Tanigawara Y"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026, Early View"
 doi: "https://doi.org/10.1002/psp4.70235"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, digital-twins, regulatory]
+paper_type: methodology
+tags: [methodology, qsp, covariate-analysis, digital-twins, regulatory]
 excerpt_text: "Pharmacometricians and clinical pharmacologists seeking efficient covariate screening methods should read this paper. The authors introduce SCOUT (Systematic Covariate Observational Uncovering Technique), which shifts covariate exploration from parameter-level to dose-level analysis, enabling rapid identification of clinically relevant factors that influence optimal dosing. This approach serves as a hypothesis-generating tool to streamline formal model building by focusing on individual optimal doses as the clinically relevant metric."
 pdf_path: "/assets/digests/2026-04-02-scout-an-exploratory-approach-to-scouting-dose-relevant-covariates/PMx_SCOUT_An_Exploratory_Approach_to_Scoutin_20260402.pdf"
 retroactively_classified: true

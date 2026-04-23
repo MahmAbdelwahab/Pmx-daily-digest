@@ -5,8 +5,8 @@ date: 2026-03-23
 authors: "Tsiros P, Minadakis V, Sarimveis H"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
 doi: "https://doi.org/10.1007/s10928-026-10019-w"
-paper_type: generic
-tags: [generic, pbpk, machine-learning, meta-analysis]
+paper_type: ai-ml
+tags: [ai-ml, pbpk, machine-learning, meta-analysis]
 excerpt_text: "This paper introduces Distributional Physics-Informed Neural Networks (D-PINNs), a novel deep learning method that estimates population pharmacokinetic parameters from published mean and variance summaries rather than individual data. Essential reading for pharmacometricians involved in meta-analysis, biosimilar development, or leveraging legacy literature data, as it offers a computationally efficient alternative to MCMC for aggregated data analysis with demonstrated accuracy on both simulated and real monoclonal antibody data."
 pdf_path: "/assets/digests/2026-03-23-a-physics-informed-neural-network-approach-for-estimating-population/PMx_A_physicsinformed_neural_network_approac_20260323.pdf"
 retroactively_classified: true

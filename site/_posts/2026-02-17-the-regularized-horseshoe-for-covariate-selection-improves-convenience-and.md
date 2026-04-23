@@ -5,8 +5,8 @@ date: 2026-02-17
 authors: "Pourzanjani A, Davis C"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70198?af=R"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, regulatory]
+paper_type: methodology
+tags: [methodology, qsp, covariate-analysis, regulatory]
 excerpt_text: "A compelling case for abandoning stepwise covariate modeling (SCM) in favor of Bayesian shrinkage. The Regularized Horseshoe (RHS) prior offers a 'one-and-done' model fit that avoids the selection bias and inflated effect sizes common in standard pharmacometric workflows."
 pdf_path: "/assets/digests/2026-02-17-the-regularized-horseshoe-for-covariate-selection-improves-convenience-and/PMx_The_Regularized_Horseshoe_for_Covariate__20260217.pdf"
 retroactively_classified: true

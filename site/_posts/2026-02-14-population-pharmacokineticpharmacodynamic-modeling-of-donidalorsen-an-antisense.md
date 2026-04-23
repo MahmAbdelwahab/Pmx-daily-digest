@@ -5,8 +5,8 @@ date: 2026-02-14
 authors: "Diep JK, Liu M, Singh P, Dorow S, Cohn DM, Bordone L, Newman KB, Gao X"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70206"
-paper_type: generic
-tags: [generic, qsp, dose-response, covariate-analysis, regulatory]
+paper_type: popk
+tags: [popk, qsp, dose-response, covariate-analysis, regulatory]
 excerpt_text: "A definitive PopPK/PD analysis of donidalorsen (GalNAc-ASO) demonstrating that despite significant body weight effects on PK, the flat exposure-response relationship supports fixed dosing without adjustment. Essential reading for modelers working with antisense oligonucleotides and rare disease populations."
 pdf_path: "/assets/digests/2026-02-14-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense/PMx_Population_PharmacokineticPharmacodynami_20260214.pdf"
 retroactively_classified: true

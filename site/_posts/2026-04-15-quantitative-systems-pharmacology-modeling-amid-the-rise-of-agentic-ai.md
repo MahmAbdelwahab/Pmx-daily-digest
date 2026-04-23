@@ -5,8 +5,8 @@ date: 2026-04-15
 authors: "James Lu, Rajat Desikan"
 journal: "CPT: Pharmacology and Systems Medicine, 2026, Vol. 15, Issue 4"
 doi: "https://doi.org/10.1002/psp4.70249"
-paper_type: ai-ml
-tags: [ai-ml, qsp, regulatory]
+paper_type: generic
+tags: [generic, qsp, regulatory]
 excerpt_text: "This perspective piece explores the transformative potential of agentic AI in Quantitative Systems Pharmacology (QSP), moving beyond AI as a tool to AI as a collaborative partner in scientific discovery. It highlights how agentic AI can address long-standing challenges in QSP model development, such as complexity and resource intensity, while also acknowledging critical limitations regarding reproducibility and interpretability."
 pdf_path: "/assets/digests/2026-04-15-quantitative-systems-pharmacology-modeling-amid-the-rise-of-agentic-ai/PMx_Quantitative_Systems_Pharmacology_Modeli_20260415.pdf"
 retroactively_classified: false

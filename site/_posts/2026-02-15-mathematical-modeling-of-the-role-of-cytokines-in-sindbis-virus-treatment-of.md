@@ -5,8 +5,8 @@ date: 2026-02-15
 authors: "Makam S, Dobrovolny HM"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70205?af=R"
-paper_type: generic
-tags: [generic, qsp, oncology, regulatory]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, oncology, immunology, regulatory]
 excerpt_text: "A mechanistic modeling study quantifying how arming oncolytic viruses with cytokines alters tumor-virus dynamics in glioblastoma. Essential reading for QSP scientists working in immuno-oncology and viral dynamics, highlighting the trade-off between increased infection rates and cytokine-mediated viral suppression."
 pdf_path: "/assets/digests/2026-02-15-mathematical-modeling-of-the-role-of-cytokines-in-sindbis-virus-treatment-of/PMx_Mathematical_Modeling_of_the_Role_of_Cyt_20260215.pdf"
 retroactively_classified: true

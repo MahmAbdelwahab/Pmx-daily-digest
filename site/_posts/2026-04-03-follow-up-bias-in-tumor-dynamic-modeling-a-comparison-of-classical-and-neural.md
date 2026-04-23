@@ -5,8 +5,8 @@ date: 2026-04-03
 authors: "David C. Turner et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70239"
-paper_type: generic
-tags: [generic, qsp, oncology, regulatory, machine-learning]
+paper_type: ai-ml
+tags: [ai-ml, qsp, oncology, regulatory, machine-learning]
 excerpt_text: "This study demonstrates that classical tumor growth inhibition (TGI) models systematically overestimate tumor size when fitted to immature clinical trial data, with prediction bias exceeding $300\\%$ for some models at $25\\%$ follow-up truncation. In contrast, the deep learning-based Tumor Dynamic Neural-ODE (TDNODE) framework exhibited substantially lower bias across all truncation scenarios ($25$–$75\\%$ follow-up). These findings have critical implications for early-phase oncology decision-making, suggesting that traditional parametric models may lead to overly conservative Go/No-go decisions when used with incomplete data."
 pdf_path: "/assets/digests/2026-04-03-follow-up-bias-in-tumor-dynamic-modeling-a-comparison-of-classical-and-neural/PMx_FollowUp_Bias_in_Tumor_Dynamic_Modeling__20260403.pdf"
 retroactively_classified: true

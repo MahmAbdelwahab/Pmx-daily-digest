@@ -5,8 +5,8 @@ date: 2026-02-11
 authors: "Assmus F, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70189"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis]
 excerpt_text: "This is the first population PK analysis of oxfendazole tablets in the target demographic (African adults). It identifies significant dose-limited bioavailability and supports a 400 mg QD or 50 mg BID (5-day) regimen for upcoming Phase 2 onchocerciasis trials."
 pdf_path: "/assets/digests/2026-02-11-repurposing-oxfendazole-for-onchocerciasis-population-pharmacokinetics-of-a/PMx_Repurposing_Oxfendazole_for_Onchocercias_20260211.pdf"
 retroactively_classified: true

@@ -5,8 +5,8 @@ date: 2026-03-29
 authors: "Prybylski JP, Zhang JD, et al."
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026 Mar 24"
 doi: "https://doi.org/10.1007/s10928-026-10022-1"
-paper_type: generic
-tags: [generic, dose-response, meta-analysis]
+paper_type: popk
+tags: [popk, dose-response, meta-analysis]
 excerpt_text: "This paper presents a sophisticated joint pharmacometric modeling approach for dermatomyositis (DM), integrating multiple sparse clinical endpoints (CDASI, TIS, SF-36, etc.) to predict treatment responses across disease subtypes. Essential view for pharmacometricians working in rare diseases with limited data, multi-endpoint trials, or model-based meta-analysis. The methodology demonstrates how to leverage correlated endpoints to inform predictions for sparsely observed outcomes."
 pdf_path: "/assets/digests/2026-03-29-exposure-response-modeling-of-an-anti-interferon-beta-monoclonal-antibiotic-in/PMx_Early_exposureresponse_modeling_of_an_in_20260329.pdf"
 retroactively_classified: true

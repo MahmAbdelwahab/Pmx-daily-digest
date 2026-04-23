@@ -6,7 +6,7 @@ authors: "Gotta V, Donner B"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2025"
 doi: "https://doi.org/10.1007/s10928-025-10010-x"
 paper_type: generic
-tags: [generic, dose-response, covariate-analysis, regulatory]
+tags: [generic, qsp, dose-response, covariate-analysis, regulatory]
 excerpt_text: "This comprehensive review provides essential guidance for pharmacometricians and clinical pharmacologists on the quantitative assessment of drug-induced QTc prolongation. It synthesizes critical concepts including concentration-QTc relationships, heart-rate correction methodologies, and multi-factorial risk stratification for Torsades de Pointes (TdP), with practical examples of Model-Informed Drug Development (MIDD) applications for sotalol and ondansetron dosing."
 pdf_path: "/assets/digests/2026-04-06-qt-interval-prolongation-clinical-assessment-risk-factors-and-implications-for/PMx_QT_interval_prolongation_clinical_assess_20260406.pdf"
 retroactively_classified: true

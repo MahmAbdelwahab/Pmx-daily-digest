@@ -5,8 +5,8 @@ date: 2026-03-01
 authors: "Jun Chen, Feng Yang, Hanbin Li, Rajendra Pradhan, Stephan Ortiz"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70209"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, regulatory]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, digital-twins, regulatory]
 excerpt_text: "This paper presents the population PK and PK–PD modeling of danicopan, the first-in-class oral complement factor D inhibitor approved as add-on therapy to C5 inhibitors for PNH with clinically significant extravascular hemolysis. Clinical pharmacologists, pharmacometricians supporting rare disease programs, and regulatory scientists should read this for its comprehensive dose justification framework demonstrating that both 150 mg and 200 mg TID regimens achieve near-complete alternative pathway inhibition regardless of food status."
 retroactively_classified: true
 ---

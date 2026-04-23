@@ -5,8 +5,8 @@ date: 2026-03-16
 authors: "Goulooze SC, Garmann D, Eissing T, Snelder N"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70231"
-paper_type: generic
-tags: [generic, qsp, dose-response, covariate-analysis, regulatory]
+paper_type: methodology
+tags: [methodology, qsp, dose-response, covariate-analysis, regulatory]
 excerpt_text: "Pharmacometricians analyzing RTTE data with potential event-related treatment modifications should read this paper. It identifies a critical bias mechanism when discontinuations precede events due to unobserved clinical worsening, and proposes AUCavg + BlindedStudyTreatmentrank as a solution. The work has immediate relevance for cardiovascular outcome trials and other settings where clinical deterioration drives treatment changes."
 pdf_path: "/assets/digests/2026-03-16-impact-of-event-related-treatment-modifications-in-exposure-response-analyses/PMx_Impact_of_EventRelated_Treatment_Modific_20260316.pdf"
 retroactively_classified: true

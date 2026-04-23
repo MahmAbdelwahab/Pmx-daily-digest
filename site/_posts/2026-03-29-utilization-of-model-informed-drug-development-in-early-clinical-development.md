@@ -5,8 +5,8 @@ date: 2026-03-29
 authors: "Chay Ngee Lim et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2024, Volume 3, Issue 4, Pages 42-55"
 doi: "https://doi.org/10.1002/psp4.70238"
-paper_type: generic
-tags: [generic, qsp, regulatory]
+paper_type: popk
+tags: [popk, qsp, regulatory]
 excerpt_text: "This case study demonstrates how MIDD prevented advancement of a hemoglobin modulator (PF-07059013) for sickle-cell disease after FIH data showed insufficient target engagement. Using integrated PK/PD, semi-mechanistic RBC modeling, and strict, pre-defined quantitative go/no-go criteria, the program avoided a costly Phase 1b in patients. Essential reading for pharmacometricians involved in early development of hemoglobinopathies or programs requiring quantitative decision frameworks."
 pdf_path: "/assets/digests/2026-03-29-utilization-of-model-informed-drug-development-in-early-clinical-development/PMx_Utilization_of_ModelInformed_Drug_Develo_20260329.pdf"
 retroactively_classified: true

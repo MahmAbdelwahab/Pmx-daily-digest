@@ -5,8 +5,8 @@ date: 2026-02-12
 authors: "Carter L. Johnson, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70195?af=R"
-paper_type: generic
-tags: [generic, qsp, oncology, immunology, meta-analysis]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, oncology, immunology, digital-twins, meta-analysis]
 excerpt_text: "A mechanistic QSP analysis challenging the dogma that clinical efficacy differences between anti-PD-1 and anti-PD-L1 antibodies are driven by target occupancy. The study demonstrates that while clinical meta-analyses favor anti-PD-1, QSP simulations show anti-PD-L1s actually achieve superior complex inhibition, suggesting alternative mechanisms (e.g., PD-L2) drive the clinical divergence."
 pdf_path: "/assets/digests/2026-02-12-anti-pd-l1-antibodies-insights-from-qsp-based-meta-analysis/PMx_AntiPDL1_Antibodies_Insights_From_QSPBas_20260212.pdf"
 retroactively_classified: true

@@ -6,7 +6,7 @@ authors: "Hanquet L, Dogné JM, Musuamba FT"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026;15(4):e70213"
 doi: "https://doi.org/10.1002/psp4.70213"
 paper_type: generic
-tags: [generic, pbpk, qsp, dose-response, regulatory]
+tags: [generic, pbpk, qsp, dose-response, covariate-analysis, oncology, regulatory]
 excerpt_text: "Essential reading for regulatory scientists and pharmacometricians involved in cell therapy development. This paper provides a critical gap analysis showing that despite regulatory encouragement, modeling and simulation remains underutilized in CAR-T submissions (only 26% of regulatory questions addressed), with simpler empirical models preferred over complex mechanistic approaches described in academic literature. The structured repository and credibility framework offer practical tools for improving future submissions."
 pdf_path: "/assets/digests/2026-03-27-modeling-and-simulation-in-development-and-regulatory-approval-of-chimeric/PMx_Modeling_and_Simulation_in_Development_a_20260327.pdf"
 retroactively_classified: true

@@ -5,8 +5,8 @@ date: 2026-02-16
 authors: "Bartels C, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70202"
-paper_type: generic
-tags: [generic, qsp, dose-response, covariate-analysis, regulatory, clinical-trial-design]
+paper_type: methodology
+tags: [methodology, qsp, dose-response, covariate-analysis, regulatory, clinical-trial-design]
 excerpt_text: "A landmark methodological paper bridging pharmacometrics with the ICH E9(R1) estimand framework. It provides the causal inference justification for pooling data from multiple studies to perform exposure-response analyses for dose selection."
 pdf_path: "/assets/digests/2026-02-16-some-common-doseexposureresponse-estimands-and-conditions-for-their-causal/PMx_Some_Common_DoseExposureResponse_Estiman_20260216.pdf"
 retroactively_classified: true

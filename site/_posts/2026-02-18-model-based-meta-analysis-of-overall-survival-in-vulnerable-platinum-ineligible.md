@@ -5,8 +5,8 @@ date: 2026-02-18
 authors: "Chen J, Chan P, Wada R, Zhang N, Wu B, Kassir N, Morris S, Graupner V, Zhang W, Hu Y"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70197?af=R"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, oncology, regulatory, meta-analysis, clinical-trial-design]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, oncology, regulatory, meta-analysis, clinical-trial-design]
 excerpt_text: "A strategic Model-Based Meta-Analysis (MBMA) demonstrating that the control arm (gemcitabine/vinorelbine) used in the Phase III IPSOS trial was non-inferior to other historical single-agent chemotherapies. Essential reading for regulatory scientists and modelers interested in using MBMA to validate trial design and comparator selection."
 pdf_path: "/assets/digests/2026-02-18-model-based-meta-analysis-of-overall-survival-in-vulnerable-platinum-ineligible/PMx_ModelBased_MetaAnalysis_of_Overall_Survi_20260218.pdf"
 retroactively_classified: true

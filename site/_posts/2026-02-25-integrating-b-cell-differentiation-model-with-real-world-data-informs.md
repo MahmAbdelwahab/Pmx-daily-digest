@@ -5,8 +5,8 @@ date: 2026-02-25
 authors: "Nakada T, Sato R, Tanaka T, Kaneko Y, Matsumoto F"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70221?af=R"
-paper_type: generic
-tags: [generic, pbpk, qsp, immunology, digital-twins, regulatory, clinical-trial-design]
+paper_type: popk
+tags: [popk, pbpk, qsp, covariate-analysis, immunology, digital-twins, regulatory, machine-learning, clinical-trial-design]
 excerpt_text: "A quantitative systems pharmacology (QSP) study comparing inebilizumab (anti-CD19) and rituximab (anti-CD20) in Systemic Sclerosis. It identifies the Plasma Cell-to-Plasmablast ratio as a critical biomarker for predicting treatment response. Essential reading for modelers in immunology and clinicians optimizing B-cell depletion therapies."
 pdf_path: "/assets/digests/2026-02-25-integrating-b-cell-differentiation-model-with-real-world-data-informs/PMx_Integrating_B_Cell_Differentiation_Model_20260225.pdf"
 retroactively_classified: true

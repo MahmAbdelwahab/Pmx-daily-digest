@@ -5,8 +5,8 @@ date: 2026-03-21
 authors: "Beldjenna M, Guo T, van Hasselt JGC, Guedj J"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
 doi: "https://doi.org/10.1007/s10928-026-10025-y"
-paper_type: generic
-tags: [generic]
+paper_type: methodology
+tags: [methodology]
 excerpt_text: "This theoretical pharmacometrics study compares distributed delay differential equation (DDDE) models against classical fixed-delay and transit compartment approaches for bacteriophage-bacteria dynamics. Pharmacometricians working on infectious disease modeling, cell therapies, or any systems with distributed delays should read this to understand when simplified approximations suffice versus when full distributed models are necessary. The key insight is that only latent period variability (not burst size or adsorption rate distributions) significantly impacts population dynamics, with practical thresholds provided for model selection."
 pdf_path: "/assets/digests/2026-03-21-assessing-the-impact-of-bacterial-heterogeneity-on-bacteriophage-population/PMx_Assessing_the_impact_of_bacterial_hetero_20260321.pdf"
 retroactively_classified: true

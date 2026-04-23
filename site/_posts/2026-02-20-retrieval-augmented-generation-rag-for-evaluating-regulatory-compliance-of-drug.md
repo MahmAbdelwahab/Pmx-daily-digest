@@ -5,8 +5,8 @@ date: 2026-02-20
 authors: "Waikar S, Bhat AG, Ramanathan M"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70201"
-paper_type: generic
-tags: [generic, qsp, pediatrics, regulatory]
+paper_type: ai-ml
+tags: [ai-ml, qsp, covariate-analysis, pediatrics, regulatory]
 excerpt_text: "This pilot study demonstrates how Retrieval Augmented Generation (RAG) AI systems can automate the review of drug labels and clinical protocols against FDA guidance. It is essential reading for regulatory scientists and pharmacometricians interested in leveraging GenAI to streamline compliance checks and reduce manual review burden."
 pdf_path: "/assets/digests/2026-02-20-retrieval-augmented-generation-rag-for-evaluating-regulatory-compliance-of-drug/PMx_Retrieval_Augmented_Generation_RAG_for_E_20260220.pdf"
 retroactively_classified: true

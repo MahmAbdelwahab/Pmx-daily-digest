@@ -6,7 +6,7 @@ authors: "Bhat AG, Shin E, Roy A, Ramanathan M"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2025, 52:56"
 doi: "https://doi.org/10.1007/s10928-025-10005-8"
 paper_type: generic
-tags: [generic, pbpk, qsp, pediatrics, regulatory, machine-learning]
+tags: [generic, pbpk, qsp, dose-response, pediatrics, regulatory, machine-learning]
 excerpt_text: "This scoping review provides an essential roadmap for the newly released ICH M15 guidelines on Model-Informed Drug Development (MIDD), offering a comprehensive taxonomy of terms (QOI, COU, MAP, MAR) and nine diverse regulatory case studies. Pharmacometricians, regulatory scientists, and drug development strategists should read this to understand the standardized framework for MIDD submissions and how modeling approaches (PopPK, PBPK, AI/ML) are being accepted by FDA/EMA to support approvals without additional clinical trials."
 pdf_path: "/assets/digests/2026-04-07-scoping-review-of-the-role-of-pharmacometrics-in-model-informed-drug-development/PMx_Scoping_review_of_the_role_of_pharmacome_20260407.pdf"
 retroactively_classified: true

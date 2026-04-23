@@ -6,7 +6,7 @@ authors: "Herriott L, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026;15(3):e70223"
 doi: "https://doi.org/10.1002/psp4.70223"
 paper_type: generic
-tags: [generic, qsp, regulatory]
+tags: [generic, pbpk, qsp, regulatory]
 excerpt_text: "This systematic review evaluated seven published QSP models of anti-amyloid Alzheimer's disease therapies against best-practice criteria, revealing critical quality gaps including absent identifiability analyses, insufficient validation, and zero provision of executable code. Pharmacometricians developing QSP models for neurodegeneration, regulatory scientists evaluating MIDD submissions, and AD drug development teams should read this as a wake-up call regarding reproducibility standards in the field."
 retroactively_classified: true
 ---

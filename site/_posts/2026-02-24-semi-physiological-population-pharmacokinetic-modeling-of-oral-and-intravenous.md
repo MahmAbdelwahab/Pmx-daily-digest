@@ -5,8 +5,8 @@ date: 2026-02-24
 authors: "Lau C, van Kesteren C, Smeenk RM, Beex-Oosterhuis MM, Knibbe CAJ, Huitema ADR, Huisman-Siebinga H, Koch BCP, Chan LN, Lin YS, van Rongen A"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70168"
-paper_type: generic
-tags: [generic, qsp, regulatory]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis]
 excerpt_text: "A comprehensive semi-physiological model quantifying the distinct contributions of intestinal versus hepatic metabolism for paracetamol. Essential reading for scientists modeling high-extraction drugs or investigating metabolic changes in obesity and bariatric surgery contexts."
 pdf_path: "/assets/digests/2026-02-24-semi-physiological-population-pharmacokinetic-modeling-of-oral-and-intravenous/PMx_SemiPhysiological_Population_Pharmacokin_20260224.pdf"
 retroactively_classified: true

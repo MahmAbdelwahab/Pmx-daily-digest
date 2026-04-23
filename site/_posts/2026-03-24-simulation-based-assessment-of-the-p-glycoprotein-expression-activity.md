@@ -5,8 +5,8 @@ date: 2026-03-24
 authors: "van Valkengoed DW, Rottschäfer V, de Lange ECM"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
 doi: "https://doi.org/10.1007/s10928-025-10015-6"
-paper_type: generic
-tags: [generic, pbpk, regulatory]
+paper_type: methodology
+tags: [methodology, pbpk, regulatory]
 excerpt_text: "This theoretical study challenges the fundamental assumption that P-glycoprotein (P-gp) expression scales linearly with activity for IVIVE applications. Using a mechanistic kinetic binding model, the authors demonstrate that the expression-activity relationship (EAR) is drug-dependent and becomes non-linear when efflux efficiency (koff/ke ratio) is high or when P-gp expression exceeds drug concentration. Essential reading for scientists involved in transporter-based PBPK modeling, IVIVE, and CNS drug development."
 pdf_path: "/assets/digests/2026-03-24-simulation-based-assessment-of-the-p-glycoprotein-expression-activity/PMx_Simulationbased_assessment_of_the_Pglyco_20260324.pdf"
 retroactively_classified: true

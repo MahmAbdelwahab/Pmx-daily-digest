@@ -5,8 +5,8 @@ date: 2026-03-31
 authors: "Xu C, Zhou M, Li Y, Baret-Cormel L, De Benedetti F, Ahmadi M, Kanamaluru V, Meng Z, et al."
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
 doi: "https://doi.org/10.1007/s10928-026-10024-z"
-paper_type: generic
-tags: [generic, dose-response, covariate-analysis, pediatrics, regulatory, clinical-trial-design]
+paper_type: popk
+tags: [popk, dose-response, covariate-analysis, pediatrics, regulatory, clinical-trial-design]
 excerpt_text: "This paper demonstrates a landmark regulatory strategy using adult-to-pediatric extrapolation with PopPK and exposure-response modeling to secure FDA approval for sarilumab in pcJIA without a traditional phase 3 randomized controlled trial. Essential reading for pharmacometricians involved in pediatric drug development, regulatory submissions, and model-informed drug development (MIDD) applications. The approach reduced pediatric enrollment by ~40% and accelerated approval by 2-3 years."
 pdf_path: "/assets/digests/2026-03-31-modeling-simulation-and-extrapolation-to-streamline-pediatric-development/PMx_Modeling_Simulation_and_Extrapolation_to_20260331.pdf"
 retroactively_classified: true

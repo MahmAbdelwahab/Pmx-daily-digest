@@ -5,8 +5,8 @@ date: 2026-04-05
 authors: "Kun Wang, Fengyan Xu, Yaqi Lin, Yuying Gao, Yuanyuan Shen, Chen Hu, Zhihao Kwok, Qingyu Wang, Liang Zhou"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70204"
-paper_type: generic
-tags: [generic, qsp, dose-response, covariate-analysis, oncology, immunology, regulatory]
+paper_type: popk
+tags: [popk, qsp, dose-response, covariate-analysis, oncology, immunology, regulatory]
 excerpt_text: "This comprehensive PopPK analysis of serplulimab (anti-PD-1 mAb) in $2,110$ patients across $11$ trials provides robust quantitative justification for transitioning from weight-based ($3$ mg/kg Q2W, $4.5$ mg/kg Q3W) to flat-dose ($200$ mg Q2W, $300$ mg Q3W) regimens. Essential reading for pharmacometricians supporting regulatory submissions for oncology biologics, particularly those navigating FDA/EMA criteria for dose regimen changes. The integrated E-R analyses and cross-tumor-type modeling approach set a methodological benchmark for flat-dose justification."
 pdf_path: "/assets/digests/2026-04-05-population-pharmacokinetics-of-serplulimab-and-quantitative-assessment-of/PMx_Population_Pharmacokinetics_of_Serplulim_20260405.pdf"
 retroactively_classified: true

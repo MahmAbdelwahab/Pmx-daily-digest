@@ -5,8 +5,8 @@ date: 2026-02-21
 authors: "Franzese RC, Quinn L, Fava S, Roy B, Zang E, Zierhut ML, Van Der Graaf PHA"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70196"
-paper_type: generic
-tags: [generic, qsp, covariate-analysis, oncology, immunology, meta-analysis]
+paper_type: popk
+tags: [popk, qsp, covariate-analysis, oncology, immunology, machine-learning, meta-analysis]
 excerpt_text: "A comprehensive Model-Based Meta-Analysis (MBMA) quantifying the surrogacy of ORR for OS/PFS in mNSCLC across 114 trials. It specifically addresses the debate between PD-1 and PD-L1 inhibitor efficacy, finding numerical trends favoring PD-1 but no statistical significance."
 pdf_path: "/assets/digests/2026-02-21-model-based-meta-analysis-of-objective-response-rate-and-survival-endpoints-to/PMx_ModelBased_MetaAnalysis_of_Objective_Res_20260221.pdf"
 retroactively_classified: true

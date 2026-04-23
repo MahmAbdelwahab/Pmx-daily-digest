@@ -6,7 +6,7 @@ authors: "Feigelman J"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://doi.org/10.1002/psp4.70229"
 paper_type: generic
-tags: [generic, qsp, digital-twins, regulatory]
+tags: [generic, qsp, oncology, digital-twins, regulatory]
 excerpt_text: "This commentary critiques the proliferation of 'digital twin' methodologies in QSP, arguing that current distance-based filtering approaches are essentially Approximate Bayesian Computation (ABC) and are statistically inefficient. Essential reading for QSP modelers using patient-specific parameterization, as it proposes modern Bayesian inference (NUTS/HMC) as the rigorous alternative for generating true posterior distributions."
 retroactively_classified: true
 ---
