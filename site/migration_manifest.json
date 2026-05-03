@@ -664,5 +664,159 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-05-01-evaluation-of-current-and-novel-dosing-strategies-for-anti-thymocyte-globulin.md"
+  },
+  "PMx_Copulas_for_Covariate_Simulation_in_Phar_20260419": {
+    "title": "Copulas for Covariate Simulation in Pharmacometrics",
+    "date": "2026-04-19",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-19-copulas-for-covariate-simulation-in-pharmacometrics.md"
+  },
+  "PMx_Development_of_a_Predictive_Flow_Through_20260428": {
+    "title": "Development of a Predictive Flow Through Cell Dissolution Method for Carbamazepine Modified-Release Tablets",
+    "date": "2026-04-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-28-development-of-a-predictive-flow-through-cell-dissolution-method-for.md"
+  },
+  "PMx_Hybrid_Systems_Modeling_of_Donor_TCell_R_20260418": {
+    "title": "Hybrid Systems Modeling of Donor T-Cell Responses and Graft-Versus-Host-Disease After Posttransplantation Cyclophosphamide Administration",
+    "date": "2026-04-18",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "immunology",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-18-hybrid-systems-modeling-of-donor-t-cell-responses-and-graft-versus-host-disease.md"
+  },
+  "PMx_Integration_of_TimeVarying_Pharmacometri_20260425": {
+    "title": "Integration of Time-Varying Pharmacometric Modeling With Cox Regression for Time-to-Event Analysis in NONMEM",
+    "date": "2026-04-25",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-25-integration-of-time-varying-pharmacometric-modeling-with-cox-regression-for.md"
+  },
+  "PMx_Intestinal_OrganoidBased_Mathematical_Mo_20260426": {
+    "title": "Intestinal Organoid-Based Mathematical Modeling Predicts Clinical Gastrointestinal Toxicity of Oral Oncology Drugs",
+    "date": "2026-04-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "oncology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-26-intestinal-organoid-based-mathematical-modeling-predicts-clinical.md"
+  },
+  "PMx_Issue_Information_20260424": {
+    "title": "Issue Information",
+    "date": "2026-04-24",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-24-issue-information.md"
+  },
+  "PMx_Machine_Learning_Meets_Pharmacokinetics__20260429": {
+    "title": "Machine Learning Meets Pharmacokinetics: A Comparative Analysis of Predictive Models for Plasma Concentration-Time Profiles",
+    "date": "2026-04-29",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-29-machine-learning-meets-pharmacokinetics-a-comparative-analysis-of-predictive.md"
+  },
+  "PMx_Midazolam_Dosing_During_CRRT_A_Combined__20260427": {
+    "title": "Midazolam Dosing During CRRT: A Combined Ex Vivo and Physiologically-Based Pharmacokinetic Approach",
+    "date": "2026-04-27",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-27-midazolam-dosing-during-crrt-a-combined-ex-vivo-and-physiologically-based.md"
+  },
+  "PMx_Objective_First_Method_Second_Why_the_Es_20260420": {
+    "title": "Objective First, Method Second: Why the Estimand Definition Comes First in Pharmacometric Covariate Modeling",
+    "date": "2026-04-20",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-20-objective-first-method-second-why-the-estimand-definition-comes-first-in.md"
+  },
+  "PMx_Pharmacokinetics_Pharmacodynamics_Effica_20260423": {
+    "title": "Pharmacokinetics, Pharmacodynamics, Efficacy and Drug Resistance Selection of Injectable Long-Acting Lenacapavir Pre-Exposure Prophylaxis (PrEP) Against HIV",
+    "date": "2026-04-23",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-23-pharmacokinetics-pharmacodynamics-efficacy-and-drug-resistance-selection-of.md"
+  },
+  "PMx_Population_Pharmacokinetic_Modeling_and__20260502": {
+    "title": "Population Pharmacokinetic Modeling and Exposure-Response Analyses of Nemtabrutinib in Patients With Hematologic Malignancies",
+    "date": "2026-05-02",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-02-population-pharmacokinetic-modeling-and-exposure-response-analyses-of.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Pharmaco_20260422": {
+    "title": "Population Pharmacokinetics and Pharmacokinetics-Pharmacodynamics Analyses of Elafibranor to Support Dose Selection in Primary Biliary Cholangitis",
+    "date": "2026-04-22",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "immunology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-22-population-pharmacokinetics-and-pharmacokinetics-pharmacodynamics-analyses-of.md"
   }
 }
