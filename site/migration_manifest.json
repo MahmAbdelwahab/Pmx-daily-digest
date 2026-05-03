@@ -642,5 +642,27 @@
     ],
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-17-what-is-a-digital-twin-in-qsp-and-are-we-doing-it-right.md"
+  },
+  "PMx_Evaluating_PreclinicaltoHuman_Bioavailab_20260501": {
+    "title": "Evaluating Preclinical-to-Human Bioavailability Classification Using Smooth ROC Curve Estimation",
+    "date": "2026-05-01",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-01-evaluating-preclinical-to-human-bioavailability-classification-using-smooth-roc.md"
+  },
+  "PMx_Evaluation_of_Current_and_Novel_Dosing_S_20260501": {
+    "title": "Evaluation of Current and Novel Dosing Strategies for Anti-Thymocyte Globulin in Adult Allogeneic Hematopoietic Stem Cell Transplantation",
+    "date": "2026-05-01",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-01-evaluation-of-current-and-novel-dosing-strategies-for-anti-thymocyte-globulin.md"
   }
 }
