@@ -97,9 +97,11 @@ Highly relevant for NSCLC regulatory submissions. The methodology is generalizab
 
 **Log-Hazard Ratio Model**
 
+{% raw %}
 $$
 \log(\text{HR}) = \text{covariates} + \text{random\_effect}
 $$
+{% endraw %}
 
 General form of the model relating the hazard ratio to covariates (specifically ECOG PS) and random effects to account for inter-trial variability.
 

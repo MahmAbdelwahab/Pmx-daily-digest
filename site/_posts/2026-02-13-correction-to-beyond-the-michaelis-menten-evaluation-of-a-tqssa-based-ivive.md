@@ -4,7 +4,7 @@ title: "Correction to “Beyond the Michaelis-Menten: Evaluation of a tQSSA-Base
 date: 2026-02-13
 authors: "N.-A. T. Vu, Y. M. Song, S. K. Kim, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026, Vol. 15, No. 2"
-doi: "https://doi.org/10.1002/psp4.70216"
+doi: "10.1002/psp4.70216"
 paper_type: generic
 tags: [generic, qsp, covariate-analysis, regulatory]
 excerpt_text: "This is an administrative correction to a previously published paper on tQSSA-based IVIVE approaches. It adds missing funding acknowledgments but contains no new scientific data."

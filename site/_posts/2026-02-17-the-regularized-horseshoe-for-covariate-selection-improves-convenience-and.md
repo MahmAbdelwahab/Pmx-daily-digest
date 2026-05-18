@@ -101,33 +101,41 @@ High. The hyperparameters were tuned to match sparsity patterns seen in 17 publi
 
 **RHS Hierarchical Prior**
 
+{% raw %}
 $$
 \theta_j \mid \tau, \lambda_j, c \sim \text{Normal}\left(0, \tau \tilde{\lambda}_j\right)
 $$
+{% endraw %}
 
 The conditional distribution of the covariate coefficient, governed by global shrinkage (tau) and local shrinkage (lambda).
 
 **Effective Local Shrinkage**
 
+{% raw %}
 $$
 \tilde{\lambda}_j^2 = \frac{c^2 \lambda_j^2}{c^2 + \tau^2 \lambda_j^2}
 $$
+{% endraw %}
 
 Defines the effective variance for the coefficient, balancing the local signal against the regularization of the slab (c).
 
 **Shrinkage Factor**
 
+{% raw %}
 $$
 \hat{\theta} = (1 - \kappa) \hat{\theta}_{\text{ML}}
 $$
+{% endraw %}
 
 Conceptual representation of how the estimate is shrunk towards zero relative to the Maximum Likelihood estimate.
 
 **Log Pointwise Predictive Density**
 
+{% raw %}
 $$
 \text{lppd}_{\text{logo-cv}} = \sum_{i=1}^n \log \left(\frac{1}{S} \sum_{s=1}^S p\left(y_i \mid \eta_{is}\right)\right)
 $$
+{% endraw %}
 
 The metric used to evaluate predictive performance on held-out data (Leave-One-Group-Out Cross-Validation).
 

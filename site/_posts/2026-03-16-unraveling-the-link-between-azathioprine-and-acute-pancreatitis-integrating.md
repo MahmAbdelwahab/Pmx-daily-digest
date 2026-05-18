@@ -4,9 +4,9 @@ title: "Unraveling the Link Between Azathioprine and Acute Pancreatitis: Integra
 date: 2026-03-16
 authors: "Xie Z, Lei H, Zhang P, Li Z, Tang W, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70178"
-paper_type: generic
-tags: [generic, qsp, machine-learning]
+doi: "10.1002/psp4.70178"
+paper_type: ai-ml
+tags: [ai-ml, qsp, machine-learning]
 excerpt_text: "This study employs an integrative multi-omics strategy combining network toxicology, machine learning, Mendelian randomization, and molecular docking to identify CES1 and CTSK as causal protective factors against azathioprine-induced acute pancreatitis. Pharmacometricians and systems pharmacologists should read this for its novel application of causal inference methods to adverse event prediction and biomarker discovery."
 pdf_path: "/assets/digests/2026-03-16-unraveling-the-link-between-azathioprine-and-acute-pancreatitis-integrating/PMx_Unraveling_the_Link_Between_Azathioprine_20260316.pdf"
 retroactively_classified: true

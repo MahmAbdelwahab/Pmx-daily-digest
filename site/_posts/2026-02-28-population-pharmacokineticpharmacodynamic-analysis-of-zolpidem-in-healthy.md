@@ -4,7 +4,7 @@ title: "Population Pharmacokinetic–Pharmacodynamic Analysis of Zolpidem in Hea
 date: 2026-02-28
 authors: "Kim HC, Seo J, Yu S, Jang IJ, Cho JY"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70208"
+doi: "10.1002/psp4.70208"
 paper_type: popk
 tags: [popk, qsp, covariate-analysis, regulatory]
 excerpt_text: "This study challenges the sex-based dosing paradigm for zolpidem by identifying body weight, albumin, and baseline performance as more mechanistic drivers of variability. It offers a robust framework for modeling psychometric data, specifically addressing learning effects and baseline drifts in healthy volunteers."
@@ -100,41 +100,51 @@ Findings regarding the mechanism of variability (weight/albumin) are likely gene
 
 **DSST Response Model**
 
+{% raw %}
 $$
 \text{DSST} = E_{\text{learn}} \cdot (1 - E_{\text{drug}})
 $$
+{% endraw %}
 
 Observed DSST score combining the learning effect and the drug's inhibitory effect.
 
 **DSST Learning Effect**
 
+{% raw %}
 $$
 E_{\text{learn}} = \text{BASE} + \frac{\text{MAX}_{\text{learn}} \cdot \text{TIME}}{\text{LRPAR} + \text{TIME}}
 $$
+{% endraw %}
 
 Hyperbolic function describing the improvement in test performance over time (practice effect).
 
 **Sigmoid Emax Model (Inhibitory)**
 
+{% raw %}
 $$
 E_{\text{drug}} = \frac{C_p^{\text{HILL}}}{IC_{50}^{\text{HILL}} + C_p^{\text{HILL}}}
 $$
+{% endraw %}
 
 Direct effect model linking plasma concentration to the fractional drug effect.
 
 **VAS Baseline Spline**
 
+{% raw %}
 $$
 \text{VAS}_{\text{baseline}} = 100 \cdot \left(H_1 + \frac{H_2 - H_1}{\text{TAD}_2 - \text{TAD}_1} \cdot (\text{TAD} - \text{TAD}_1)\right)
 $$
+{% endraw %}
 
 Linear interpolation between estimated baseline nodes (H) to capture time-varying baseline sedation.
 
 **Covariate Model (Power)**
 
+{% raw %}
 $$
 P_i = P_{\text{pop}} \cdot \left(\frac{\text{COV}_i}{\text{COV}_{\text{med}}}\right)^{\theta}
 $$
+{% endraw %}
 
 General structure used for continuous covariates like weight and albumin on PK/PD parameters.
 

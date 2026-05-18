@@ -5,8 +5,8 @@ date: 2026-04-29
 authors: "Jost F, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "10.1002/psp4.70226"
-paper_type: generic
-tags: [generic, pbpk, qsp, regulatory, machine-learning]
+paper_type: ai-ml
+tags: [ai-ml, pbpk, qsp, regulatory, machine-learning]
 excerpt_text: "This study systematically compares five machine learning approaches for predicting rat plasma concentration-time profiles from molecular structures using a consistent dataset of 696 compounds. Physics-informed neural networks (CMT-PINN) achieved the highest accuracy ($R^2_{\\log}=0.854$, 65.9% within twofold error), outperforming methods that rely on predicted PK parameters. Training directly on concentration-time profiles proved more effective than using derived parameters, especially with limited data."
 retroactively_classified: true
 ---

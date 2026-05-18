@@ -6,7 +6,7 @@ authors: "Nakada T, Sato R, Tanaka T, Kaneko Y, Matsumoto F"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70221?af=R"
 paper_type: popk
-tags: [popk, pbpk, qsp, covariate-analysis, immunology, digital-twins, regulatory, machine-learning, clinical-trial-design]
+tags: [popk, pbpk, qsp, immunology, digital-twins, regulatory, clinical-trial-design]
 excerpt_text: "A quantitative systems pharmacology (QSP) study comparing inebilizumab (anti-CD19) and rituximab (anti-CD20) in Systemic Sclerosis. It identifies the Plasma Cell-to-Plasmablast ratio as a critical biomarker for predicting treatment response. Essential reading for modelers in immunology and clinicians optimizing B-cell depletion therapies."
 pdf_path: "/assets/digests/2026-02-25-integrating-b-cell-differentiation-model-with-real-world-data-informs/PMx_Integrating_B_Cell_Differentiation_Model_20260225.pdf"
 retroactively_classified: true
@@ -96,25 +96,31 @@ The mechanistic insights regarding CD19 vs CD20 targets are likely generalizable
 
 **Central Compartment Dynamics (Inebilizumab)**
 
+{% raw %}
 $$
 \frac{dC_{s, \text{INEB}}}{dt} = \frac{In(t)_{\text{INEB}}}{V_s} + L_{tot} \cdot \frac{C_{ly, \text{INEB}}}{V_s} - (1-\sigma_{1, \text{INEB}}) \cdot L_1 \cdot \frac{C_{s, \text{INEB}}}{V_s} - CL_{\text{INEB}} \cdot \frac{C_{s, \text{INEB}}}{V_s}
 $$
+{% endraw %}
 
 Describes the rate of change of drug concentration in the central (serum) compartment, accounting for input, lymphatic exchange, and clearance.
 
 **Drug Killing Effect (Emax Model)**
 
+{% raw %}
 $$
 E_{\text{INEB},B,X} = 1 + \frac{k_{kill, \text{INEB}} \cdot C_{X, \text{INEB}}}{KC_{50, \text{INEB}} + C_{X, \text{INEB}}}
 $$
+{% endraw %}
 
 Models the stimulation of cell death rate by the drug, where X represents the compartment (bone marrow, serum, or secondary lymphoid organs).
 
 **Bone Marrow Compartment Dynamics**
 
+{% raw %}
 $$
 \frac{dC_{bm, \text{INEB}}}{dt} = \left(\frac{C_{s, \text{INEB}}}{V_{bm}} - \frac{C_{bm, \text{INEB}}}{V_{bm} \cdot K_{p, bm}}\right) \cdot Q_{bm}
 $$
+{% endraw %}
 
 Describes the distribution of the drug into the bone marrow compartment based on perfusion and partition coefficients.
 

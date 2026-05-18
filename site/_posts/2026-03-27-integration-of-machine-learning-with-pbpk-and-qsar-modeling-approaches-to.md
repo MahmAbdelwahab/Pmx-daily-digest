@@ -4,7 +4,7 @@ title: "Integration of Machine Learning With PBPK and QSAR Modeling Approaches t
 date: 2026-03-27
 authors: "Chen X, Lin Z"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70228"
+doi: "10.1002/psp4.70228"
 paper_type: generic
 tags: [generic, pbpk, qsp, regulatory, machine-learning]
 excerpt_text: "Essential reading for pharmacometricians and computational chemists involved in early drug discovery. This review comprehensively maps the integration of machine learning (particularly graph neural networks and ensemble methods) with PBPK modeling through QSAR intermediates, demonstrating 15-30% improvement in PK prediction accuracy over conventional in vitro inputs. Particularly valuable for those navigating the interpretability-performance trade-off and seeking regulatory-compliant workflows for AI-derived parameters."
@@ -107,33 +107,41 @@ The review's findings are broadly generalizable across small-molecule drug devel
 
 **Maximum Plasma Concentration**
 
+{% raw %}
 $$
 C_{\text{max}} = \max(C(t))
 $$
+{% endraw %}
 
 Standard pharmacokinetic parameter representing the maximum observed drug concentration in plasma following administration, a primary endpoint for safety and efficacy assessment in PBPK modeling.
 
 **Area Under Curve to Last Timepoint**
 
+{% raw %}
 $$
 \text{AUC}_{0-t_{\text{last}}} = \int_{0}^{t_{\text{last}}} C(t)   dt
 $$
+{% endraw %}
 
 Standard metric for total drug exposure, calculated as the area under the concentration-time curve from administration to the last measurable time point, critical for dose optimization and bioequivalence assessment.
 
 **Time to Maximum Concentration**
 
+{% raw %}
 $$
 t_{\text{max}} = \arg\max_{t} C(t)
 $$
+{% endraw %}
 
 Time to reach maximum plasma concentration, indicating absorption rate characteristics and formulation performance in PBPK simulations.
 
 **Tissue-Plasma Partition Coefficient**
 
+{% raw %}
 $$
 K_p = \frac{C_{\text{tissue}}}{C_{\text{plasma}}}
 $$
+{% endraw %}
 
 Tissue-to-plasma partition coefficient, a critical PBPK input parameter representing the equilibrium distribution ratio between tissue and plasma concentrations, often predicted by ML-QSAR models to avoid experimental measurement.
 

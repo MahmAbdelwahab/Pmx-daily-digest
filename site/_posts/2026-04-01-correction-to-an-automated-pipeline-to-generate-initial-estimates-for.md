@@ -4,7 +4,7 @@ title: "Correction to: An automated pipeline to generate initial estimates for p
 date: 2026-04-01
 authors: "Zhonghui Huang, Matthew Fidler, Minshi Lan, Iek Leng Cheng, Frank Kloprogge, Joseph F Standing"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026 Jan 4;53(1):5"
-doi: "https://doi.org/10.1007/s10928-025-10017-4"
+doi: "10.1007/s10928-025-10017-4"
 paper_type: generic
 tags: [generic, covariate-analysis]
 excerpt_text: "This is a correction notice (erratum) for a previously published article; it contains no scientific data or analysis. It corrects the spelling of author Iek Leng Cheng's name (previously rendered as \"lek Leng Cheng\"). Readers interested in the automated pipeline for PopPK initial estimate generation should consult the original 2025 article (DOI: 10.1007/s10928-025-10000-z)."

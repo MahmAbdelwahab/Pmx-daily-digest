@@ -4,7 +4,7 @@ title: "The Potential of Digital Twins for Pediatric Rare Diseases"
 date: 2026-04-04
 authors: "Malik-Sheriff RS, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70234"
+doi: "10.1002/psp4.70234"
 paper_type: generic
 tags: [generic, pbpk, qsp, pediatrics, digital-twins, regulatory, machine-learning]
 excerpt_text: "Pharmacometricians, pediatric drug developers, and rare disease researchers should read this comprehensive review outlining how hybrid mechanistic-AI Digital Twins can overcome ethical and logistical barriers in pediatric rare disease research through in silico trials, synthetic control arms, and precision dosing simulations. The paper synthesizes regulatory guidance (ICH M15, FDA NAMs), technical methodologies (federated learning, synthetic data generation), and pediatric-specific ethical considerations. Essential reading for those navigating the transition from population-based MIDD to individualized virtual patient models."

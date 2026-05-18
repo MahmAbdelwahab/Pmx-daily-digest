@@ -2,7 +2,7 @@
   "PMx_A_QSP_Model_of_Valproic_Acid_Toxicity_in_20260219": {
     "title": "A QSP Model of Valproic Acid Toxicity in Pediatric and Adult Populations: Implications for Formulation Selection and L-Carnitine Supplementation",
     "date": "2026-02-19",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -11,21 +11,21 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-19-a-qsp-model-of-valproic-acid-toxicity-in-pediatric-and-adult-populations.md"
   },
-  "PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260328": {
-    "title": "A hybrid PKPD agent-based model of the human tunour microenvironment",
-    "date": "2026-03-28",
-    "paper_type": "generic",
+  "PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260514": {
+    "title": "A hybrid PKPD agent-based model of the tumour immune interaction: effects of anti-cancer combination therapy",
+    "date": "2026-05-14",
+    "paper_type": "popk",
     "topic_tags": [
       "oncology",
       "immunology"
     ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-03-28-a-hybrid-pkpd-agent-based-model-of-the-human-tunour-microenvironment.md"
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-14-a-hybrid-pkpd-agent-based-model-of-the-tumour-immune-interaction-effects-of.md"
   },
   "PMx_A_physicsinformed_neural_network_approac_20260323": {
     "title": "A physics-informed neural network approach for estimating population pharmacokinetic parameters from aggregated data",
     "date": "2026-03-23",
-    "paper_type": "generic",
+    "paper_type": "ai-ml",
     "topic_tags": [
       "pbpk",
       "machine-learning",
@@ -34,10 +34,47 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-23-a-physics-informed-neural-network-approach-for-estimating-population.md"
   },
+  "PMx_A_semimechanistic_population_pharmacokin_20260517": {
+    "title": "A semi-mechanistic population pharmacokinetic-pharmacodynamic model to assess downstream drug-target effects on erythropoiesis",
+    "date": "2026-05-17",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-17-a-semi-mechanistic-population-pharmacokinetic-pharmacodynamic-model-to-assess.md"
+  },
+  "PMx_Adaptive_Dosing_Trial_Simulation_Framewo_20260513": {
+    "title": "Adaptive Dosing Trial Simulation Framework to Inform Dose Optimization: Case Study Using Longitudinal PKPD Models With PF-06804103 Phase 1 Data in Participants With Human Epidermal Growth Factor Receptor 2 (HER2) Positive and Low Solid Tumors",
+    "date": "2026-05-13",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-13-adaptive-dosing-trial-simulation-framework-to-inform-dose-optimization-case.md"
+  },
+  "PMx_Advancing_drug_development_with_FitforPu_20260516": {
+    "title": "Advancing drug development with \u201cFit-for-Purpose\u201d modeling informed approaches",
+    "date": "2026-05-16",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-16-advancing-drug-development-with-fit-for-purpose-modeling-informed-approaches.md"
+  },
   "PMx_AntiPDL1_Antibodies_Insights_From_QSPBas_20260212": {
     "title": "Anti-PD-(L)1 Antibodies: Insights From QSP-Based Meta-Analysis",
     "date": "2026-02-12",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "oncology",
@@ -50,7 +87,7 @@
   "PMx_Assessing_the_impact_of_bacterial_hetero_20260321": {
     "title": "Assessing the impact of bacterial heterogeneity on bacteriophage population dynamics: a distributed delay differential equation framework",
     "date": "2026-03-21",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [],
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-21-assessing-the-impact-of-bacterial-heterogeneity-on-bacteriophage-population.md"
@@ -71,10 +108,21 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-27-assessment-and-benchmarking-of-model-informed-approaches-in-drug-development.md"
   },
+  "PMx_Autosomal_Dominant_Tubulointerstitial_Ki_20260505": {
+    "title": "Autosomal Dominant Tubulointerstitial Kidney Disease Clinical Trial Simulator: Case Reports of Model-Informed Drug Development",
+    "date": "2026-05-05",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-05-autosomal-dominant-tubulointerstitial-kidney-disease-clinical-trial-simulator.md"
+  },
   "PMx_Comprehensive_Pathophysiology_Repository_20260222": {
     "title": "Comprehensive Pathophysiology Repository for PBPK Modeling in Liver Cirrhosis: Quantifying Continuous Disease Progression and Population Variability",
     "date": "2026-02-22",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "pbpk",
       "qsp",
@@ -84,6 +132,19 @@
     ],
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-22-comprehensive-pathophysiology-repository-for-pbpk-modeling-in-liver-cirrhosis.md"
+  },
+  "PMx_Copulas_for_Covariate_Simulation_in_Phar_20260419": {
+    "title": "Copulas for Covariate Simulation in Pharmacometrics",
+    "date": "2026-04-19",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-19-copulas-for-covariate-simulation-in-pharmacometrics.md"
   },
   "PMx_Correction_to_An_automated_pipeline_to_g_20260401": {
     "title": "Correction to: An automated pipeline to generate initial estimates for population Pharmacokinetic base models",
@@ -107,21 +168,64 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-13-correction-to-beyond-the-michaelis-menten-evaluation-of-a-tqssa-based-ivive.md"
   },
-  "PMx_Early_exposureresponse_modeling_of_an_in_20260329": {
-    "title": "Exposure-response modeling of an anti-interferon-beta monoclonal antibiotic in dermatomyositis: a joint modeling approach for multiple endpoint",
-    "date": "2026-03-29",
-    "paper_type": "generic",
+  "PMx_Development_of_a_Predictive_Flow_Through_20260428": {
+    "title": "Development of a Predictive Flow Through Cell Dissolution Method for Carbamazepine Modified-Release Tablets",
+    "date": "2026-04-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-28-development-of-a-predictive-flow-through-cell-dissolution-method-for.md"
+  },
+  "PMx_Early_exposureresponse_modeling_of_an_in_20260513": {
+    "title": "Early exposure-response modeling of an interferon-beta monoclonal antibody (dazukibart) in adults with dermatomyositis",
+    "date": "2026-05-13",
+    "paper_type": "popk",
     "topic_tags": [
       "dose-response",
-      "meta-analysis"
+      "immunology",
+      "meta-analysis",
+      "clinical-trial-design"
     ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-03-29-exposure-response-modeling-of-an-anti-interferon-beta-monoclonal-antibiotic-in.md"
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-13-early-exposure-response-modeling-of-an-interferon-beta-monoclonal-antibody.md"
+  },
+  "PMx_Evaluating_PreclinicaltoHuman_Bioavailab_20260501": {
+    "title": "Evaluating Preclinical-to-Human Bioavailability Classification Using Smooth ROC Curve Estimation",
+    "date": "2026-05-01",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-01-evaluating-preclinical-to-human-bioavailability-classification-using-smooth-roc.md"
+  },
+  "PMx_Evaluation_of_Current_and_Novel_Dosing_S_20260505": {
+    "title": "Unknown Title",
+    "date": "2026-05-05",
+    "paper_type": "generic",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-05-unknown-title.md"
+  },
+  "PMx_Exposuresafety_Markov_modeling_of_ocular_20260515": {
+    "title": "Exposure-safety Markov modeling of ocular adverse events in patient populations treated with tisotumab vedotin",
+    "date": "2026-05-15",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-15-exposure-safety-markov-modeling-of-ocular-adverse-events-in-patient-populations.md"
   },
   "PMx_FollowUp_Bias_in_Tumor_Dynamic_Modeling__20260403": {
     "title": "Follow-Up Bias in Tumor Dynamic Modeling: A Comparison of Classical and Neural-ODE Approaches",
     "date": "2026-04-03",
-    "paper_type": "generic",
+    "paper_type": "ai-ml",
     "topic_tags": [
       "qsp",
       "oncology",
@@ -131,10 +235,24 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-04-03-follow-up-bias-in-tumor-dynamic-modeling-a-comparison-of-classical-and-neural.md"
   },
+  "PMx_Hybrid_Systems_Modeling_of_Donor_TCell_R_20260418": {
+    "title": "Hybrid Systems Modeling of Donor T-Cell Responses and Graft-Versus-Host-Disease After Posttransplantation Cyclophosphamide Administration",
+    "date": "2026-04-18",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "immunology",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-18-hybrid-systems-modeling-of-donor-t-cell-responses-and-graft-versus-host-disease.md"
+  },
   "PMx_Impact_of_EventRelated_Treatment_Modific_20260316": {
     "title": "Impact of Event-Related Treatment Modifications in Exposure-Response Analyses of Repeated Time-to-Event Data",
     "date": "2026-03-16",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "dose-response",
@@ -147,7 +265,7 @@
   "PMx_Integrating_B_Cell_Differentiation_Model_20260225": {
     "title": "Integrating B Cell Differentiation Model With Real-World Data Informs Determinants for Antibody-Secreting Cell Depletions in Systemic Sclerosis",
     "date": "2026-02-25",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "pbpk",
       "qsp",
@@ -172,22 +290,37 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-27-integration-of-machine-learning-with-pbpk-and-qsar-modeling-approaches-to.md"
   },
-  "PMx_Issue_Information_20260321": {
-    "title": "Content Extraction Failed - Issue Information Page Only",
-    "date": "2026-03-21",
-    "paper_type": "generic",
+  "PMx_Integration_of_TimeVarying_Pharmacometri_20260425": {
+    "title": "Integration of Time-Varying Pharmacometric Modeling With Cox Regression for Time-to-Event Analysis in NONMEM",
+    "date": "2026-04-25",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
+      "dose-response",
       "covariate-analysis",
-      "regulatory"
+      "clinical-trial-design"
     ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-03-21-content-extraction-failed-issue-information-page-only.md"
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-25-integration-of-time-varying-pharmacometric-modeling-with-cox-regression-for.md"
+  },
+  "PMx_Intestinal_OrganoidBased_Mathematical_Mo_20260426": {
+    "title": "Intestinal Organoid-Based Mathematical Modeling Predicts Clinical Gastrointestinal Toxicity of Oral Oncology Drugs",
+    "date": "2026-04-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "oncology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-26-intestinal-organoid-based-mathematical-modeling-predicts-clinical.md"
   },
   "PMx_Learning_Covariate_Relations_in_Disease__20260316": {
     "title": "Learning Covariate Relations in Disease Progression Models Using Symbolic Neural Networks",
     "date": "2026-03-16",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -197,10 +330,23 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-16-learning-covariate-relations-in-disease-progression-models-using-symbolic.md"
   },
+  "PMx_Machine_Learning_Meets_Pharmacokinetics__20260429": {
+    "title": "Machine Learning Meets Pharmacokinetics: A Comparative Analysis of Predictive Models for Plasma Concentration-Time Profiles",
+    "date": "2026-04-29",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": true,
+    "post_file": "_posts/2026-04-29-machine-learning-meets-pharmacokinetics-a-comparative-analysis-of-predictive.md"
+  },
   "PMx_Mathematical_Modeling_of_the_Role_of_Cyt_20260215": {
     "title": "Mathematical Modeling of the Role of Cytokines in Sindbis Virus Treatment of Glioblastoma",
     "date": "2026-02-15",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "oncology",
@@ -209,10 +355,23 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-15-mathematical-modeling-of-the-role-of-cytokines-in-sindbis-virus-treatment-of.md"
   },
+  "PMx_Midazolam_Dosing_During_CRRT_A_Combined__20260427": {
+    "title": "Midazolam Dosing During CRRT: A Combined Ex Vivo and Physiologically-Based Pharmacokinetic Approach",
+    "date": "2026-04-27",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-27-midazolam-dosing-during-crrt-a-combined-ex-vivo-and-physiologically-based.md"
+  },
   "PMx_ModelBased_MetaAnalysis_of_Objective_Res_20260221": {
     "title": "Model-Based Meta-Analysis of Objective Response Rate and Survival Endpoints to Compare PD-1 and PD-L1 Treatment Outcomes in Non-Small Cell Lung Cancer",
     "date": "2026-02-21",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -226,7 +385,7 @@
   "PMx_ModelBased_MetaAnalysis_of_Overall_Survi_20260218": {
     "title": "Model-Based Meta-Analysis of Overall Survival in Vulnerable Platinum-Ineligible NSCLC Populations",
     "date": "2026-02-18",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -241,7 +400,7 @@
   "PMx_Modeling_Simulation_and_Extrapolation_to_20260331": {
     "title": "Modeling, Simulation, and Extrapolation to Streamline Pediatric Development: Sarilumab in Polyarticular-Course Juvenile Idiopathic Arthritis",
     "date": "2026-03-31",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "dose-response",
       "covariate-analysis",
@@ -265,10 +424,23 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-27-modeling-and-simulation-in-development-and-regulatory-approval-of-chimeric.md"
   },
+  "PMx_Objective_First_Method_Second_Why_the_Es_20260420": {
+    "title": "Objective First, Method Second: Why the Estimand Definition Comes First in Pharmacometric Covariate Modeling",
+    "date": "2026-04-20",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-20-objective-first-method-second-why-the-estimand-definition-comes-first-in.md"
+  },
   "PMx_On_the_existence_conditions_of_interacti_20260321": {
     "title": "On the existence conditions of interaction indices in response surface models",
     "date": "2026-03-21",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "oncology",
       "regulatory"
@@ -291,58 +463,21 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-23-open-systems-pharmacology-community-conference-osp-cc-proceedings-2025.md"
   },
-  "PMx_Population_PKPD_Modeling_of_Danicopan_Ad_20260301": {
-    "title": "Population PK\u2013PD Modeling of Danicopan Add-On Therapy in Participants With Paroxysmal Nocturnal Hemoglobinuria Treated With Ravulizumab or Eculizumab",
-    "date": "2026-03-01",
-    "paper_type": "generic",
+  "PMx_Pharmacokinetics_Pharmacodynamics_Effica_20260423": {
+    "title": "Pharmacokinetics, Pharmacodynamics, Efficacy and Drug Resistance Selection of Injectable Long-Acting Lenacapavir Pre-Exposure Prophylaxis (PrEP) Against HIV",
+    "date": "2026-04-23",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
-      "covariate-analysis",
       "regulatory"
     ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-03-01-population-pkpd-modeling-of-danicopan-add-on-therapy-in-participants-with.md"
-  },
-  "PMx_Population_PKPD_Modeling_of_Danicopan_Ad_20260303": {
-    "title": "Population PK\u2013PD Modeling of Danicopan Add-On Therapy in Participants With Paroxysmal Nocturnal Hemoglobinuria Treated With Ravulizumab or Eculizumab",
-    "date": "2026-03-03",
-    "paper_type": "generic",
-    "topic_tags": [
-      "qsp",
-      "covariate-analysis",
-      "regulatory"
-    ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-03-03-population-pkpd-modeling-of-danicopan-add-on-therapy-in-participants-with.md"
-  },
-  "PMx_Population_PharmacokineticPharmacodynami_20260209": {
-    "title": "Population Pharmacokinetic/Pharmacodynamic Modeling of Donidalorsen, an Antisense Oligonucleotide in Development for Prophylaxis of Hereditary Angioedema",
-    "date": "2026-02-09",
-    "paper_type": "generic",
-    "topic_tags": [
-      "covariate-analysis",
-      "regulatory"
-    ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-02-09-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense.md"
-  },
-  "PMx_Population_PharmacokineticPharmacodynami_20260214": {
-    "title": "Population Pharmacokinetic/Pharmacodynamic Modeling of Donidalorsen, an Antisense Oligonucleotide in Development for Prophylaxis of Hereditary Angioedema",
-    "date": "2026-02-14",
-    "paper_type": "generic",
-    "topic_tags": [
-      "qsp",
-      "dose-response",
-      "covariate-analysis",
-      "regulatory"
-    ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-02-14-population-pharmacokineticpharmacodynamic-modeling-of-donidalorsen-an-antisense.md"
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-23-pharmacokinetics-pharmacodynamics-efficacy-and-drug-resistance-selection-of.md"
   },
   "PMx_Population_PharmacokineticPharmacodynami_20260228": {
     "title": "Population Pharmacokinetic\u2013Pharmacodynamic Analysis of Zolpidem in Healthy Volunteers: Covariate Contributions to Variability in CNS Responses",
     "date": "2026-02-28",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -354,7 +489,7 @@
   "PMx_Population_Pharmacokinetic_Analysis_of_V_20260309": {
     "title": "Population Pharmacokinetic Analysis of Vixarelimab in Healthy Volunteers and Patients With Chronic Pruritic Conditions",
     "date": "2026-03-09",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis"
@@ -362,10 +497,51 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-09-population-pharmacokinetic-analysis-of-vixarelimab-in-healthy-volunteers-and.md"
   },
+  "PMx_Population_Pharmacokinetic_Modeling_and__20260504": {
+    "title": "Population Pharmacokinetic Modeling and Exposure-Response Analyses of Nemtabrutinib in Patients With Hematologic Malignancies",
+    "date": "2026-05-04",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-04-population-pharmacokinetic-modeling-and-exposure-response-analyses-of.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Exposure_20260506": {
+    "title": "Population Pharmacokinetics and Exposure-Response Analysis of Ziftomenib in Relapsed or Refractory Acute Myeloid Leukemia Patients With NPM1 Mutation",
+    "date": "2026-05-06",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-06-population-pharmacokinetics-and-exposure-response-analysis-of-ziftomenib-in.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Pharmaco_20260422": {
+    "title": "Population Pharmacokinetics and Pharmacokinetics-Pharmacodynamics Analyses of Elafibranor to Support Dose Selection in Primary Biliary Cholangitis",
+    "date": "2026-04-22",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "immunology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-04-22-population-pharmacokinetics-and-pharmacokinetics-pharmacodynamics-analyses-of.md"
+  },
   "PMx_Population_Pharmacokinetics_of_Serplulim_20260405": {
     "title": "Population Pharmacokinetics of Serplulimab and Quantitative Assessment of Transitioning From Weight-Based to Flat-Dosing Strategy",
     "date": "2026-04-05",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "dose-response",
@@ -430,7 +606,7 @@
   "PMx_Repurposing_Oxfendazole_for_Onchocercias_20260211": {
     "title": "Repurposing Oxfendazole for Onchocerciasis: Population Pharmacokinetics of a Tablet Formulation in Healthy African Adults",
     "date": "2026-02-11",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "covariate-analysis"
@@ -441,7 +617,7 @@
   "PMx_Retrieval_Augmented_Generation_RAG_for_E_20260220": {
     "title": "Retrieval Augmented Generation (RAG) for Evaluating Regulatory Compliance of Drug Information and Clinical Trial Protocols",
     "date": "2026-02-20",
-    "paper_type": "generic",
+    "paper_type": "ai-ml",
     "topic_tags": [
       "qsp",
       "pediatrics",
@@ -453,7 +629,7 @@
   "PMx_Risk_Assessment_for_DrugInduced_Hyperbil_20260226": {
     "title": "Risk Assessment for Drug-Induced Hyperbilirubinemia: A Mechanistic Approach",
     "date": "2026-02-26",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp"
     ],
@@ -463,7 +639,7 @@
   "PMx_Risks_encountered_when_not_adjusting_for_20260325": {
     "title": "Risks encountered when not adjusting for food and clock time in concentration-QTc analyses of Phase I studies",
     "date": "2026-03-25",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "covariate-analysis",
       "regulatory"
@@ -474,7 +650,7 @@
   "PMx_SCOUT_An_Exploratory_Approach_to_Scoutin_20260402": {
     "title": "SCOUT: An Exploratory Approach to Scouting Dose-Relevant Covariates",
     "date": "2026-04-02",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -498,10 +674,24 @@
     "retroactively_classified": true,
     "post_file": "_posts/2026-04-07-scoping-review-of-the-role-of-pharmacometrics-in-model-informed-drug-development.md"
   },
+  "PMx_SemiMechanistic_PKPD_Modeling_of_Platele_20260512": {
+    "title": "Semi-Mechanistic PK/PD Modeling of Platelets and Spleen Volume With Navitoclax in Combination With Ruxolitinib in Patients With Myelofibrosis",
+    "date": "2026-05-12",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "oncology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-12-semi-mechanistic-pkpd-modeling-of-platelets-and-spleen-volume-with-navitoclax.md"
+  },
   "PMx_SemiPhysiological_Population_Pharmacokin_20260224": {
     "title": "Semi-Physiological Population Pharmacokinetic Modeling of Oral and Intravenous Paracetamol to Quantify Presystemic Metabolism and Enterohepatic Recirculation",
     "date": "2026-02-24",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "regulatory"
@@ -512,7 +702,7 @@
   "PMx_Simulationbased_assessment_of_the_Pglyco_20260324": {
     "title": "Simulation-based assessment of the P-glycoprotein expression-activity relationship using a kinetic binding model",
     "date": "2026-03-24",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "pbpk",
       "regulatory"
@@ -523,7 +713,7 @@
   "PMx_Some_Common_DoseExposureResponse_Estiman_20260216": {
     "title": "Some Common Dose\u2013Exposure\u2013Response Estimands and Conditions for Their Causal Identifiability",
     "date": "2026-02-16",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "dose-response",
@@ -537,7 +727,7 @@
   "PMx_Stochastic_Gates_for_Covariate_Selection_20260209": {
     "title": "Stochastic Gates for Covariate Selection in Population Pharmacokinetics Modeling",
     "date": "2026-02-09",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -564,7 +754,7 @@
   "PMx_The_Regularized_Horseshoe_for_Covariate__20260217": {
     "title": "The Regularized Horseshoe for Covariate Selection Improves Convenience and Predictive Performance in Population PK/PD Models",
     "date": "2026-02-17",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "covariate-analysis",
@@ -572,6 +762,20 @@
     ],
     "retroactively_classified": true,
     "post_file": "_posts/2026-02-17-the-regularized-horseshoe-for-covariate-selection-improves-convenience-and.md"
+  },
+  "PMx_Towards_a_Quantitative_Understanding_of__20260510": {
+    "title": "Towards a Quantitative Understanding of Aficamten Clinical Pharmacology: Pharmacokinetic-Cardiodynamic Modeling to Support Safety and Efficacy",
+    "date": "2026-05-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-10-towards-a-quantitative-understanding-of-aficamten-clinical-pharmacology.md"
   },
   "PMx_Uncertainty_undermines_the_validity_of_a_20260322": {
     "title": "Uncertainty Undermines the Validity of Antimicrobial Pharmacokinetic-Pharmacodynamic Models",
@@ -587,7 +791,7 @@
   "PMx_Unraveling_the_Link_Between_Azathioprine_20260316": {
     "title": "Unraveling the Link Between Azathioprine and Acute Pancreatitis: Integrating Network Toxicology, Machine Learning, and Mendelian Randomization",
     "date": "2026-03-16",
-    "paper_type": "generic",
+    "paper_type": "ai-ml",
     "topic_tags": [
       "qsp",
       "machine-learning"
@@ -613,7 +817,7 @@
   "PMx_Utility_of_a_physiologicallybased_pharma_20260330": {
     "title": "Utility of a Physiologically Based Pharmacokinetic Model to Elucidate the Mechanisms Underlying Variability of Fetal-to-Maternal Digoxin Concentration Ratios",
     "date": "2026-03-30",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "pbpk"
     ],
@@ -623,7 +827,7 @@
   "PMx_Utilization_of_ModelInformed_Drug_Develo_20260329": {
     "title": "Utilization of Model-Informed Drug Development in Early Clinical Development: Case Study of a Hb Modulator for Treatment of Sickle Cell Disease",
     "date": "2026-03-29",
-    "paper_type": "generic",
+    "paper_type": "popk",
     "topic_tags": [
       "qsp",
       "regulatory"
@@ -634,7 +838,7 @@
   "PMx_What_Is_a_Digital_Twin_in_QSP_and_Are_We_20260317": {
     "title": "What Is a Digital Twin in QSP, and Are We Doing It Right?",
     "date": "2026-03-17",
-    "paper_type": "generic",
+    "paper_type": "methodology",
     "topic_tags": [
       "qsp",
       "digital-twins",
@@ -642,181 +846,5 @@
     ],
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-17-what-is-a-digital-twin-in-qsp-and-are-we-doing-it-right.md"
-  },
-  "PMx_Evaluating_PreclinicaltoHuman_Bioavailab_20260501": {
-    "title": "Evaluating Preclinical-to-Human Bioavailability Classification Using Smooth ROC Curve Estimation",
-    "date": "2026-05-01",
-    "paper_type": "generic",
-    "topic_tags": [
-      "qsp",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-05-01-evaluating-preclinical-to-human-bioavailability-classification-using-smooth-roc.md"
-  },
-  "PMx_Evaluation_of_Current_and_Novel_Dosing_S_20260501": {
-    "title": "Evaluation of Current and Novel Dosing Strategies for Anti-Thymocyte Globulin in Adult Allogeneic Hematopoietic Stem Cell Transplantation",
-    "date": "2026-05-01",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-05-01-evaluation-of-current-and-novel-dosing-strategies-for-anti-thymocyte-globulin.md"
-  },
-  "PMx_Copulas_for_Covariate_Simulation_in_Phar_20260419": {
-    "title": "Copulas for Covariate Simulation in Pharmacometrics",
-    "date": "2026-04-19",
-    "paper_type": "methodology",
-    "topic_tags": [
-      "pbpk",
-      "qsp",
-      "covariate-analysis",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-19-copulas-for-covariate-simulation-in-pharmacometrics.md"
-  },
-  "PMx_Development_of_a_Predictive_Flow_Through_20260428": {
-    "title": "Development of a Predictive Flow Through Cell Dissolution Method for Carbamazepine Modified-Release Tablets",
-    "date": "2026-04-28",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-28-development-of-a-predictive-flow-through-cell-dissolution-method-for.md"
-  },
-  "PMx_Hybrid_Systems_Modeling_of_Donor_TCell_R_20260418": {
-    "title": "Hybrid Systems Modeling of Donor T-Cell Responses and Graft-Versus-Host-Disease After Posttransplantation Cyclophosphamide Administration",
-    "date": "2026-04-18",
-    "paper_type": "ai-ml",
-    "topic_tags": [
-      "qsp",
-      "oncology",
-      "immunology",
-      "regulatory",
-      "machine-learning"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-18-hybrid-systems-modeling-of-donor-t-cell-responses-and-graft-versus-host-disease.md"
-  },
-  "PMx_Integration_of_TimeVarying_Pharmacometri_20260425": {
-    "title": "Integration of Time-Varying Pharmacometric Modeling With Cox Regression for Time-to-Event Analysis in NONMEM",
-    "date": "2026-04-25",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "dose-response",
-      "covariate-analysis",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-25-integration-of-time-varying-pharmacometric-modeling-with-cox-regression-for.md"
-  },
-  "PMx_Intestinal_OrganoidBased_Mathematical_Mo_20260426": {
-    "title": "Intestinal Organoid-Based Mathematical Modeling Predicts Clinical Gastrointestinal Toxicity of Oral Oncology Drugs",
-    "date": "2026-04-26",
-    "paper_type": "popk",
-    "topic_tags": [
-      "pbpk",
-      "qsp",
-      "oncology",
-      "regulatory",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-26-intestinal-organoid-based-mathematical-modeling-predicts-clinical.md"
-  },
-  "PMx_Issue_Information_20260424": {
-    "title": "Issue Information",
-    "date": "2026-04-24",
-    "paper_type": "generic",
-    "topic_tags": [
-      "qsp"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-24-issue-information.md"
-  },
-  "PMx_Machine_Learning_Meets_Pharmacokinetics__20260429": {
-    "title": "Machine Learning Meets Pharmacokinetics: A Comparative Analysis of Predictive Models for Plasma Concentration-Time Profiles",
-    "date": "2026-04-29",
-    "paper_type": "generic",
-    "topic_tags": [
-      "pbpk",
-      "qsp",
-      "regulatory",
-      "machine-learning"
-    ],
-    "retroactively_classified": true,
-    "post_file": "_posts/2026-04-29-machine-learning-meets-pharmacokinetics-a-comparative-analysis-of-predictive.md"
-  },
-  "PMx_Midazolam_Dosing_During_CRRT_A_Combined__20260427": {
-    "title": "Midazolam Dosing During CRRT: A Combined Ex Vivo and Physiologically-Based Pharmacokinetic Approach",
-    "date": "2026-04-27",
-    "paper_type": "popk",
-    "topic_tags": [
-      "pbpk",
-      "qsp",
-      "pediatrics",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-27-midazolam-dosing-during-crrt-a-combined-ex-vivo-and-physiologically-based.md"
-  },
-  "PMx_Objective_First_Method_Second_Why_the_Es_20260420": {
-    "title": "Objective First, Method Second: Why the Estimand Definition Comes First in Pharmacometric Covariate Modeling",
-    "date": "2026-04-20",
-    "paper_type": "methodology",
-    "topic_tags": [
-      "qsp",
-      "covariate-analysis",
-      "regulatory",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-20-objective-first-method-second-why-the-estimand-definition-comes-first-in.md"
-  },
-  "PMx_Pharmacokinetics_Pharmacodynamics_Effica_20260423": {
-    "title": "Pharmacokinetics, Pharmacodynamics, Efficacy and Drug Resistance Selection of Injectable Long-Acting Lenacapavir Pre-Exposure Prophylaxis (PrEP) Against HIV",
-    "date": "2026-04-23",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-23-pharmacokinetics-pharmacodynamics-efficacy-and-drug-resistance-selection-of.md"
-  },
-  "PMx_Population_Pharmacokinetic_Modeling_and__20260502": {
-    "title": "Population Pharmacokinetic Modeling and Exposure-Response Analyses of Nemtabrutinib in Patients With Hematologic Malignancies",
-    "date": "2026-05-02",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "dose-response",
-      "covariate-analysis",
-      "regulatory",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-05-02-population-pharmacokinetic-modeling-and-exposure-response-analyses-of.md"
-  },
-  "PMx_Population_Pharmacokinetics_and_Pharmaco_20260422": {
-    "title": "Population Pharmacokinetics and Pharmacokinetics-Pharmacodynamics Analyses of Elafibranor to Support Dose Selection in Primary Biliary Cholangitis",
-    "date": "2026-04-22",
-    "paper_type": "popk",
-    "topic_tags": [
-      "qsp",
-      "dose-response",
-      "covariate-analysis",
-      "immunology",
-      "regulatory",
-      "clinical-trial-design"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-04-22-population-pharmacokinetics-and-pharmacokinetics-pharmacodynamics-analyses-of.md"
   }
 }

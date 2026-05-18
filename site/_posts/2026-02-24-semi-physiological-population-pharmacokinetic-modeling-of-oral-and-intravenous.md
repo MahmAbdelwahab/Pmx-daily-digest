@@ -6,7 +6,7 @@ authors: "Lau C, van Kesteren C, Smeenk RM, Beex-Oosterhuis MM, Knibbe CAJ, Huit
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70168"
 paper_type: popk
-tags: [popk, qsp, covariate-analysis]
+tags: [popk, qsp, regulatory]
 excerpt_text: "A comprehensive semi-physiological model quantifying the distinct contributions of intestinal versus hepatic metabolism for paracetamol. Essential reading for scientists modeling high-extraction drugs or investigating metabolic changes in obesity and bariatric surgery contexts."
 pdf_path: "/assets/digests/2026-02-24-semi-physiological-population-pharmacokinetic-modeling-of-oral-and-intravenous/PMx_SemiPhysiological_Population_Pharmacokin_20260224.pdf"
 retroactively_classified: true
@@ -98,25 +98,31 @@ High for adult populations including obesity. Less generalizable to pediatrics o
 
 **Allometric Scaling (General)**
 
+{% raw %}
 $$
 P_i = P_{pop} \cdot \left(\frac{LBW}{65.2}\right)^N \cdot e^{\eta_i}
 $$
+{% endraw %}
 
 Scaling of PK parameters (Volume, Clearance) based on Lean Body Weight (LBW) standardized to 65.2 kg.
 
 **Observation Model**
 
+{% raw %}
 $$
 C_{obs,ij} = C_{pred,ij} \cdot (1 + \varepsilon_{p,ij}) + \varepsilon_{a,ij}
 $$
+{% endraw %}
 
 Combined proportional and additive residual error model describing the difference between observed and predicted concentrations.
 
 **Hepatic Intrinsic Clearance (Glucuronidation)**
 
+{% raw %}
 $$
 CL_{H,GLU} = 0.300 \cdot \left(\frac{LBW}{65.2}\right)^{0.888}
 $$
+{% endraw %}
 
 Population estimate for the intrinsic hepatic clearance of the glucuronidation pathway, scaled by LBW.
 

@@ -4,7 +4,7 @@ title: "Population Pharmacokinetics of Serplulimab and Quantitative Assessment o
 date: 2026-04-05
 authors: "Kun Wang, Fengyan Xu, Yaqi Lin, Yuying Gao, Yuanyuan Shen, Chen Hu, Zhihao Kwok, Qingyu Wang, Liang Zhou"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70204"
+doi: "10.1002/psp4.70204"
 paper_type: popk
 tags: [popk, qsp, dose-response, covariate-analysis, oncology, immunology, regulatory]
 excerpt_text: "This comprehensive PopPK analysis of serplulimab (anti-PD-1 mAb) in $2,110$ patients across $11$ trials provides robust quantitative justification for transitioning from weight-based ($3$ mg/kg Q2W, $4.5$ mg/kg Q3W) to flat-dose ($200$ mg Q2W, $300$ mg Q3W) regimens. Essential reading for pharmacometricians supporting regulatory submissions for oncology biologics, particularly those navigating FDA/EMA criteria for dose regimen changes. The integrated E-R analyses and cross-tumor-type modeling approach set a methodological benchmark for flat-dose justification."
@@ -107,57 +107,71 @@ Findings are highly generalizable to serplulimab's indicated populations (ES-SCL
 
 **Baseline Clearance (CL0) with Covariates**
 
+{% raw %}
 $$
 CL_{0,i} \left(\frac{L}{day}\right) = CL_{TUMTP} \times \left(\frac{WT}{62}\right)^{0.514} \times \left(\frac{ALB}{41.4}\right)^{-0.714} \times \left(\frac{TUMBUR}{73}\right)^{0.0548} \times \left(\frac{ALP}{94}\right)^{0.0553} \times \exp\left[-0.145 \cdot (Female)\right] \times 24
 $$
+{% endraw %}
 
 Baseline clearance for individual i, incorporating allometric scaling on weight, albumin effect (inverse relationship), tumor burden, alkaline phosphatase, and sex effect ($14.5\%$ lower clearance in females). Tumor type-specific typical value $CL_{TUMTP}$ with $24$-hour conversion.
 
 **Time-Varying Clearance**
 
+{% raw %}
 $$
 CL_i = CL_{0,i} \times \exp\left[\frac{E_{max} \cdot \left(\frac{time}{T_{50}}\right)^{\lambda}}{1 + \left(\frac{time}{T_{50}}\right)^{\lambda}} + \eta_{CL,i}\right]
 $$
+{% endraw %}
 
 Sigmoid Emax model describing disease-related clearance changes over treatment time, with $T_{50}=221$ days, $\lambda=2.43$, and $E_{max}=-0.0926$ indicating $9.26\%$ reduction from baseline. Inter-individual variability on clearance included.
 
 **Central Volume of Distribution (Vc)**
 
+{% raw %}
 $$
 V_{c,i} (L) = V_{c,TUMTP} \times \left(\frac{WT}{62}\right)^{0.470} \times \left(\frac{ALB}{41.4}\right)^{-0.320} \times \exp\left[-0.14 \cdot (Female) + \eta_{V_c,i}\right]
 $$
+{% endraw %}
 
 Tumor type-specific central volume with weight allometry, inverse albumin relationship, and $14\%$ reduction in females. Inter-individual variability included.
 
 **Inter-compartmental Clearance (Q)**
 
+{% raw %}
 $$
 Q_i \left(\frac{L}{day}\right) = 0.0169 \times \exp(\eta_{Q,i}) \times 24
 $$
+{% endraw %}
 
 First-order inter-compartmental clearance between central and peripheral compartments, with only inter-individual variability (no covariate effects retained in final model).
 
 **Peripheral Volume of Distribution (Vp)**
 
+{% raw %}
 $$
 V_{p,i} (L) = 2.98 \times \left(\frac{ALB}{41.4}\right)^{-1.05} \times \left(\frac{TUMBUR}{73}\right)^{0.107} \times \exp(\eta_{V_p,i})
 $$
+{% endraw %}
 
 Peripheral compartment volume with strong inverse albumin effect (power $-1.05$) and modest positive tumor burden effect. Fixed typical value with inter-individual variability.
 
 **Time-Varying Clearance Parameters**
 
+{% raw %}
 $$
 T_{50} = 221 \ (day),   \lambda = 2.43
 $$
+{% endraw %}
 
 Sigmoid Emax model parameters: $T_{50}$ is time to $50\%$ of maximum clearance change; $\lambda$ (Hill coefficient) describes steepness of time effect.
 
 **Maximum Clearance Change (Emax)**
 
+{% raw %}
 $$
 E_{max,i} = -0.0926 + \eta_{E_{max},i}
 $$
+{% endraw %}
 
 Population mean maximum fractional change in clearance from baseline ($-9.26\%$ reduction) with inter-individual variability.
 

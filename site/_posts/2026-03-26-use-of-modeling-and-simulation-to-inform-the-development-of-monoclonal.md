@@ -4,7 +4,7 @@ title: "Use of Modeling and Simulation to Inform the Development of Monoclonal A
 date: 2026-03-26
 authors: "Haguet H, Dogné JM, Musuamba FT"
 journal: "CPT Pharmacometrics Syst Pharmacol. 2026;15(4):e70222"
-doi: "https://doi.org/10.1002/psp4.70222"
+doi: "10.1002/psp4.70222"
 paper_type: generic
 tags: [generic, pbpk, qsp, dose-response, pediatrics, regulatory, machine-learning]
 excerpt_text: "This regulatory analysis examines how modeling and simulation (M&S) has supported European approvals of five asthma monoclonal antibodies (2014-2024), finding that M&S addressed 25% of regulatory questions with heavy concentration in PK (78%) versus safety (3%). The study introduces a practical repository framework aligned with ICH M15 for benchmarking M&S credibility against traditional methods, revealing significant heterogeneity in methodological approaches across sponsors. Essential reading for regulatory pharmacometricians, drug development strategists, and sponsors seeking to optimize pediatric extrapolation and MIDD implementation in respiratory biologics."

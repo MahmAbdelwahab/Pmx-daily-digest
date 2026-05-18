@@ -4,7 +4,7 @@ title: "On the existence conditions of interaction indices in response surface m
 date: 2026-03-21
 authors: "Yumuk E, Ionescu C"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
-doi: "https://doi.org/10.1007/s10928-026-10026-x"
+doi: "10.1007/s10928-026-10026-x"
 paper_type: methodology
 tags: [methodology, oncology, regulatory]
 excerpt_text: "This theoretical pharmacometrics paper provides a rigorous mathematical framework for determining when response surface models (RSMs) for drug combinations yield biologically interpretable results. Essential reading for pharmacometricians working with combination therapy models, particularly in anesthesia and oncology drug development, as it identifies parameter constraints that prevent singularities and complex-valued predictions in Greco, Minto, and Finney models."
@@ -104,121 +104,151 @@ The feasibility conditions are mathematically general and apply across any domai
 
 **Hill Function (Emax Model)**
 
+{% raw %}
 $$
 E = E_{max} \cdot \frac{c^n}{c_{50}^n + c^n}
 $$
+{% endraw %}
 
 Foundation for single-agent dose-response relationships in all RSMs, where c is concentration, c_50 is median effective concentration, n is Hill coefficient, and E_max is maximum effect
 
 **Median-Effect Equation**
 
+{% raw %}
 $$
 \frac{E}{1-E} = \left(\frac{c}{c_{50}}\right)^n
 $$
+{% endraw %}
 
 Normalized form with E_max = 1, enabling linear transformation and combination model derivation
 
 **Median-Effect Linearization**
 
+{% raw %}
 $$
 Y = \log_{10}\left(\frac{E}{1-E}\right) = n \cdot \log_{10}(c) - n \cdot \log_{10}(c_{50})
 $$
+{% endraw %}
 
 Linear form relating transformed response Y to log-concentration, with slope m = n and intercept b = -n*log10(c_50)
 
 **Loewe Additivity Model**
 
+{% raw %}
 $$
 \frac{c_1}{c_{x,1}} + \frac{c_2}{c_{x,2}} = 1
 $$
+{% endraw %}
 
 Classical additivity condition where c_x,1 and c_x,2 are single-agent doses producing effect level x; isoboles are straight lines in this formulation
 
 **Greco Model - Isobole Equation**
 
+{% raw %}
 $$
 \frac{c_1}{c_{x,1}} + \frac{c_2}{c_{x,2}} + \alpha \cdot \frac{c_1}{c_{x,1}} \cdot \frac{c_2}{c_{x,2}} = 1
 $$
+{% endraw %}
 
 Extended isobole equation with interaction parameter alpha; reduces to Loewe when alpha = 0
 
 **Greco Model - Effect Equation**
 
+{% raw %}
 $$
 E = \frac{1}{1+I},   I = \left(\frac{c_1}{c_{50,1}}\right)^{n_1} + \left(\frac{c_2}{c_{50,2}}\right)^{n_2} + \alpha \cdot \left(\frac{c_1}{c_{50,1}}\right)^{n_1} \cdot \left(\frac{c_2}{c_{50,2}}\right)^{n_2}
 $$
+{% endraw %}
 
 Normalized index formulation where I represents combined drug effect; alpha > 0 for synergy, alpha = 0 for additivity, alpha < 0 for antagonism
 
 **Minto Model - Normalized Index**
 
+{% raw %}
 $$
 E = \frac{1}{1+I},   I = \frac{u^{1+\alpha} + v^{1+\alpha}}{(u \cdot v)^\alpha}
 $$
+{% endraw %}
 
 Alternative formulation using normalized ratios u and v representing relative contribution of each agent
 
 **Minto Model - Normalized Ratios**
 
+{% raw %}
 $$
 u = \frac{(c_1/c_{50,1})^{n_1}}{(c_1/c_{50,1})^{n_1} + (c_2/c_{50,2})^{n_2}},   v = 1-u
 $$
+{% endraw %}
 
 Definition of normalized ratios mapping input space to [0,1] interval
 
 **Minto Model - Mixture Potency**
 
+{% raw %}
 $$
 \frac{1}{c_{50,mix}^{n_{mix}}} = \frac{1}{c_{50,1}^{n_1} \cdot u^{-\alpha}} + \frac{1}{c_{50,2}^{n_2} \cdot v^{-\alpha}}
 $$
+{% endraw %}
 
 Potency of drug mixture as function of individual potencies and interaction parameter
 
 **Finney Model**
 
+{% raw %}
 $$
 Y = \log_{10}\left(c_1 + \rho \cdot c_2 + \alpha \cdot \sqrt{c_1 \cdot c_2}\right)
 $$
+{% endraw %}
 
 Log-linear model with relative potency rho = c_50,2/c_50,1 and interaction term alpha; requires strict positivity of log argument
 
 **Greco Global Feasibility Condition**
 
+{% raw %}
 $$
 \alpha \geq -1
 $$
+{% endraw %}
 
 Necessary and sufficient condition for global feasibility; when violated, singularities emerge in positive quadrant
 
 **Greco Singularity Lines**
 
+{% raw %}
 $$
 \frac{c_1}{c_{50,1}} = (-1-\alpha)^{1/n_1},   \frac{c_2}{c_{50,2}} = (-1-\alpha)^{1/n_2}
 $$
+{% endraw %}
 
 Vertical and horizontal lines where Greco model becomes singular for alpha < -1
 
 **Minto Singularity Points**
 
+{% raw %}
 $$
 u = \frac{1}{2} \pm \frac{1}{2}\sqrt{1+\alpha}
 $$
+{% endraw %}
 
 Singularity locations in normalized space for alpha < -1; exist within [0,1] when alpha in [-1, 0]
 
 **Finney Global Feasibility Condition**
 
+{% raw %}
 $$
 \alpha \geq -\rho
 $$
+{% endraw %}
 
 Threshold depends on relative potency; at equality, single singularity line; below threshold, undefined sector emerges
 
 **Finney Isobole-Level Feasibility**
 
+{% raw %}
 $$
 \alpha \geq -2\rho\sqrt{\frac{y}{1-y}}
 $$
+{% endraw %}
 
 Effect-dependent threshold where y is ratio of fixed variable terms; always satisfied when alpha >= -rho
 

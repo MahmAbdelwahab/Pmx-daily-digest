@@ -4,7 +4,7 @@ title: "A physics-informed neural network approach for estimating population pha
 date: 2026-03-23
 authors: "Tsiros P, Minadakis V, Sarimveis H"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
-doi: "https://doi.org/10.1007/s10928-026-10019-w"
+doi: "10.1007/s10928-026-10019-w"
 paper_type: ai-ml
 tags: [ai-ml, pbpk, machine-learning, meta-analysis]
 excerpt_text: "This paper introduces Distributional Physics-Informed Neural Networks (D-PINNs), a novel deep learning method that estimates population pharmacokinetic parameters from published mean and variance summaries rather than individual data. Essential reading for pharmacometricians involved in meta-analysis, biosimilar development, or leveraging legacy literature data, as it offers a computationally efficient alternative to MCMC for aggregated data analysis with demonstrated accuracy on both simulated and real monoclonal antibody data."
@@ -107,89 +107,111 @@ The methodology is generalizable to any PK system described by ODEs where aggreg
 
 **One-Compartment Elimination**
 
+{% raw %}
 $$
 \frac{dC(t)}{dt} = -k_{el} \cdot C(t)
 $$
+{% endraw %}
 
 One-compartment IV bolus pharmacokinetic model used in simulation studies (Case Study 1), describing drug elimination from central compartment
 
 **Initial Concentration**
 
+{% raw %}
 $$
 C(0) = \frac{\text{Dose}}{V_d}
 $$
+{% endraw %}
 
 Initial condition for one-compartment model following IV bolus administration, where dose is administered instantaneously at time zero
 
 **D-PINN Total Loss Function**
 
+{% raw %}
 $$
 \mathcal{L}_{\text{total}} = \mathcal{L}_{\mu}^{\text{ODE}} + \mathcal{L}_{\sigma^2}^{\text{ODE}} + \mathcal{L}_{\mu}^{\text{IC}} + \mathcal{L}_{\sigma^2}^{\text{IC}} + \mathcal{L}_{\mu}^{\text{data}} + \mathcal{L}_{\sigma^2}^{\text{data}}
 $$
+{% endraw %}
 
 Total loss function for D-PINN optimization combining ODE constraints, initial conditions, and data fit for both mean and variance predictions
 
 **Mean ODE Loss**
 
+{% raw %}
 $$
 \mathcal{L}_{\mu}^{\text{ODE}} = \frac{1}{N_c N_t} \sum_{i=1}^{N_c} \sum_{j=1}^{N_t} \left| \frac{d\hat{\mu}_{ij}}{dt} - \frac{\tilde{d\mu}_{ij}}{dt} \right|
 $$
+{% endraw %}
 
 ODE loss term for mean predictions comparing automatic differentiation of neural network output with ODE-based derivative estimates
 
 **Mean Derivative Approximation**
 
+{% raw %}
 $$
 \frac{\tilde{d\mu}}{dt} \approx \frac{1}{N_s} \sum_{i=1}^{N_s} f\left(C^{(i)}, \theta^{(i)}, t\right)
 $$
+{% endraw %}
 
 Approximation of ODE-based derivative of concentration mean using Monte Carlo sampling from parameter distributions, where f represents the ODE right-hand side
 
 **Variance Derivative Approximation**
 
+{% raw %}
 $$
 \frac{\tilde{d\sigma^2}}{dt} \approx \frac{2}{N_s} \sum_{i=1}^{N_s} \left(C^{(i)} - \mu\right) \cdot f\left(C^{(i)}, \theta^{(i)}, t\right)
 $$
+{% endraw %}
 
 Approximation of ODE-based derivative of concentration variance using Monte Carlo sampling, accounting for propagation of variability through system dynamics
 
 **Residual Error Model**
 
+{% raw %}
 $$
 C_{obs}(t) = C_{true}(t) \cdot e^{\epsilon}
 $$
+{% endraw %}
 
 Log-normal residual error model relating observed concentration to true (noise-free) concentration through multiplicative error term
 
 **mPBPK Plasma Compartment**
 
+{% raw %}
 $$
 \frac{dC_p}{dt} = \frac{1}{V_p} \left[ L(1-\sigma_L)C_{lymph} - L(1-\sigma_T)C_p - L(1-\sigma_{leaky})C_p + R(t) - CL \cdot C_p \right]
 $$
+{% endraw %}
 
 Minimal PBPK model differential equation for plasma compartment concentration (C_p) accounting for lymphatic return, capillary extravasation, and clearance
 
 **mPBPK Lymph Compartment**
 
+{% raw %}
 $$
 \frac{dC_{lymph}}{dt} = \frac{1}{V_{lymph}} \left[ L(1-\sigma_T)C_{tight} + L(1-\sigma_{leaky})C_{leaky} - L(1-\sigma_L)C_{lymph} \right]
 $$
+{% endraw %}
 
 Minimal PBPK model differential equation for lymph compartment concentration (C_lymph) with return from tight and leaky interstitial fluid compartments
 
 **mPBPK Tight ISF Compartment**
 
+{% raw %}
 $$
 \frac{dC_{tight}}{dt} = \frac{L(1-\sigma_T)}{V_{tight}} \left(C_p - C_{tight}\right)
 $$
+{% endraw %}
 
 Minimal PBPK model differential equation for tight tissue interstitial fluid compartment with convection-driven exchange with plasma
 
 **mPBPK Leaky ISF Compartment**
 
+{% raw %}
 $$
 \frac{dC_{leaky}}{dt} = \frac{L(1-\sigma_{leaky})}{V_{leaky}} \left(C_p - C_{leaky}\right)
 $$
+{% endraw %}
 
 Minimal PBPK model differential equation for leaky tissue interstitial fluid compartment with convection-driven exchange with plasma
 

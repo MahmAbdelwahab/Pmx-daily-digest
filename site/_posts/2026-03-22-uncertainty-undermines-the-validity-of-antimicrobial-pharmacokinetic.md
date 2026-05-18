@@ -4,7 +4,7 @@ title: "Uncertainty Undermines the Validity of Antimicrobial Pharmacokinetic-Pha
 date: 2026-03-22
 authors: "Woodward AP"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026, (epub ahead of print)"
-doi: "https://doi.org/10.1007/s10928-026-10023-0"
+doi: "10.1007/s10928-026-10023-0"
 paper_type: generic
 tags: [generic, dose-response, regulatory]
 excerpt_text: "This essay is essential reading for antimicrobial pharmacometricians, clinical pharmacologists, and regulatory scientists involved in breakpoint setting or model-informed precision dosing (MIPD). Woodward demonstrates through rigorous simulation that current PK/PD workflows—which rely on point estimates for MIC values, PK parameters, and exposure targets—systematically overstate confidence in predictions, leading to potentially unreliable dosing recommendations and clinical breakpoints. The paper argues compellingly for Bayesian uncertainty propagation as a necessary standard in antimicrobial pharmacology."
@@ -105,41 +105,51 @@ The findings generalize broadly to antibacterial drug development and clinical u
 
 **Two-Compartment PK Model (Central Compartment)**
 
+{% raw %}
 $$
 \frac{dA_c}{dt} = k_a \cdot A_a - \left(\frac{CL}{V_c} + \frac{Q}{V_c}\right) \cdot A_c + \frac{Q}{V_p} \cdot A_p
 $$
+{% endraw %}
 
 Describes the rate of change of drug amount in the central compartment, incorporating absorption, elimination, and distribution to the peripheral compartment.
 
 **Two-Compartment PK Model (Peripheral Compartment)**
 
+{% raw %}
 $$
 \frac{dA_p}{dt} = \frac{Q}{V_c} \cdot A_c - \frac{Q}{V_p} \cdot A_p
 $$
+{% endraw %}
 
 Describes the rate of change of drug amount in the peripheral compartment, with intercompartmental clearance Q governing distribution.
 
 **Log-Normal Between-Subject Variability**
 
+{% raw %}
 $$
 CL_i = CL_{\text{pop}} \cdot e^{\eta_{CL,i}},   \eta_{CL,i} \sim N(0, \omega^2_{CL})
 $$
+{% endraw %}
 
 Individual clearance parameter for subject i, where CL_pop is the population median and eta represents the random effect with between-subject variance omega-squared.
 
 **Log-Logistic Exposure-Response Model**
 
+{% raw %}
 $$
 E = E_{\text{min}} + \frac{E_{\text{max}} - E_{\text{min}}}{1 + \left(\frac{ED_{50}}{X}\right)^H}
 $$
+{% endraw %}
 
 Four-parameter model describing the probability of treatment success (E) as a function of PK/PD index X (e.g., AUC/MIC), with minimum and maximum effects, potency parameter ED50, and Hill slope H.
 
 **AUC/MIC Ratio with MIC Uncertainty**
 
+{% raw %}
 $$
 \frac{\text{AUC}}{\text{MIC}} \sim \frac{\text{AUC}}{\text{Logistic-Mollified-Uniform}(L, U, C)}
 $$
+{% endraw %}
 
 Representation of the PK/PD index as a distribution due to interval-censored MIC measurement, where L and U are the lower and upper bounds of the twofold dilution interval and C is the logistic scale parameter for edge softening.
 

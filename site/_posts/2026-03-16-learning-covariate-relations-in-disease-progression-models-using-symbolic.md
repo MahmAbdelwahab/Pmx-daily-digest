@@ -4,9 +4,9 @@ title: "Learning Covariate Relations in Disease Progression Models Using Symboli
 date: 2026-03-16
 authors: "Sundell J, Kjellsson M, Wellhagen G, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70214"
-paper_type: ai-ml
-tags: [ai-ml, qsp, covariate-analysis, regulatory, machine-learning]
+doi: "10.1002/psp4.70214"
+paper_type: methodology
+tags: [methodology, qsp, covariate-analysis, regulatory, machine-learning]
 excerpt_text: "This paper introduces symbolic neural networks (SNNs) as an automated approach for covariate model development in Markov chain disease progression models, demonstrating comparable predictive performance to traditional stepwise methods while using fewer covariates in a type 2 diabetes application. Pharmacometricians working on disease progression modeling, particularly those struggling with high-dimensional covariate selection or non-linear covariate relationships, should examine this novel machine learning integration that produces interpretable equations."
 pdf_path: "/assets/digests/2026-03-16-learning-covariate-relations-in-disease-progression-models-using-symbolic/PMx_Learning_Covariate_Relations_in_Disease__20260316.pdf"
 retroactively_classified: true
@@ -106,73 +106,91 @@ Findings are generalizable to other chronic progressive diseases with interval-c
 
 **Transition Probability Matrix**
 
+{% raw %}
 $$
 P_{\lambda} = \begin{pmatrix} \lambda_{11} & \lambda_{12} & \lambda_{13} & 0 & \lambda_{15} \\ 0 & \lambda_{22} & 0 & \lambda_{24} & \lambda_{25} \\ 0 & 0 & \lambda_{33} & \lambda_{34} & \lambda_{35} \\ 0 & 0 & 0 & \lambda_{44} & \lambda_{45} \\ 0 & 0 & 0 & 0 & 1 \end{pmatrix}
 $$
+{% endraw %}
 
 Upper triangular transition probability matrix for the five-state Markov chain, where \lambda_{mn} represents the probability of transitioning from state m to state n. The structure reflects irreversible disease progression with death as the absorbing state.
 
 **SNN Layer Operation**
 
+{% raw %}
 $$
 \mathbf{z}_l = W_l \mathbf{x}_l + \mathbf{b}_l \\ \mathbf{x}_{l+1} = g_l(\mathbf{z}_l)
 $$
+{% endraw %}
 
 Forward propagation equations for layer l in the symbolic neural network, where W_l represents weight matrices, b_l bias vectors, and g_l custom activation functions.
 
 **SNN Activation Functions**
 
+{% raw %}
 $$
 g_1(\mathbf{z}_1) = \begin{bmatrix} z_{11} \\ z_{12} \cdot z_{13} \\ |z_{14}|^{z_{15}} \end{bmatrix},   g_2(\mathbf{z}_2) = \begin{bmatrix} z_{21} \\ z_{22} \cdot z_{23} \\ \frac{z_{24}}{|z_{25}| + 1} \end{bmatrix},   g_3(\mathbf{z}_3) = \sigma(\mathbf{z}_3)
 $$
+{% endraw %}
 
 Custom activation functions for the three layers of the symbolic neural network. g_1 permits linear, multiplicative, and power operations; g_2 allows division and multiplication; g_3 applies sigmoid to constrain outputs to [0,1] for probability interpretation.
 
 **Likelihood Function**
 
+{% raw %}
 $$
 \mathcal{L}(\lambda | I, K) = \sum_{I^* \in I} \log \left( \sum_{k=k_1^*}^{k_2^*} \lambda \left[ 1 - \sum_{\substack{n=1 \\ n \neq m}}^N \lambda_{mn} \right]^k \right) + \sum_{k^* \in K} \alpha \log \lambda + k^* \log \left( 1 - \sum_{\substack{n=1 \\ n \neq m}}^N \lambda_{mn} \right)
 $$
+{% endraw %}
 
 Negative log-likelihood function for discrete-time Markov model with interval-censored transitions (I) and right-censored observations (K). \alpha indicates whether a transition occurred (1) or censoring (0).
 
 **Brier Score**
 
+{% raw %}
 $$
 \text{BS}(t) = \frac{1}{N_i} \sum_{i=1}^{N_i} (y_i(t) - \pi_i(t))^2
 $$
+{% endraw %}
 
 Brier score for assessing predictive accuracy of state occupation probabilities at time t, where y_i(t) is the observed state indicator and \pi_i(t) is the predicted probability for patient i.
 
 **Kullback-Leibler Divergence**
 
+{% raw %}
 $$
 \mathcal{KL}_i(P_i \| \pi_i) = \sum_{s=1}^{5} P_{i,s}(t) \log \frac{P_{i,s}(t)}{\pi_{i,s}(t)}
 $$
+{% endraw %}
 
 Kullback-Leibler divergence measuring the difference between observed state occupation probabilities P_i and predicted probabilities \pi_i for patient i across all five states.
 
 **Covariate Model Example: State 1 to 2**
 
+{% raw %}
 $$
 f_{12} = \sigma(-7.35 + 3.34 \cdot \text{AGE}^2)
 $$
+{% endraw %}
 
 Final extracted symbolic equation for transition probability from State 1 to State 2 (DKD development) as a function of age, showing a quadratic relationship passed through sigmoid function.
 
 **Covariate Model Example: State 1 to 3**
 
+{% raw %}
 $$
 f_{13} = \sigma\left(-3.77 - \frac{4.41}{(1.61 \cdot \text{AGE})^{2.26 \cdot \text{AGE}}}\right)
 $$
+{% endraw %}
 
 Final extracted symbolic equation for transition probability from State 1 to State 3 (MVC development), showing a complex non-linear relationship with age in both base and exponent.
 
 **Covariate Model Example: State 1 to 5**
 
+{% raw %}
 $$
 f_{15} = \sigma(-5.1 + 2.93T + 3.96 \cdot \text{AGE} - 3.67 \cdot \text{AGE}^{-1.32 \cdot \text{AGE}})
 $$
+{% endraw %}
 
 Final extracted symbolic equation for transition from State 1 to State 5 (death), incorporating both disease duration (T) and age with exponential decay terms.
 

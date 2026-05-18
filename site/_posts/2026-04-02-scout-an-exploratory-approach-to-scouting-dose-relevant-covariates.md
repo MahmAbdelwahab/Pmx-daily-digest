@@ -4,7 +4,7 @@ title: "SCOUT: An Exploratory Approach to Scouting Dose-Relevant Covariates"
 date: 2026-04-02
 authors: "Ideno Y, Kasai H, Tanigawara Y"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026, Early View"
-doi: "https://doi.org/10.1002/psp4.70235"
+doi: "10.1002/psp4.70235"
 paper_type: methodology
 tags: [methodology, qsp, covariate-analysis, digital-twins, regulatory]
 excerpt_text: "Pharmacometricians and clinical pharmacologists seeking efficient covariate screening methods should read this paper. The authors introduce SCOUT (Systematic Covariate Observational Uncovering Technique), which shifts covariate exploration from parameter-level to dose-level analysis, enabling rapid identification of clinically relevant factors that influence optimal dosing. This approach serves as a hypothesis-generating tool to streamline formal model building by focusing on individual optimal doses as the clinically relevant metric."
@@ -109,97 +109,121 @@ High for drugs with linear PK and clear therapeutic targets (concentration or bi
 
 **Allometric Clearance Model**
 
+{% raw %}
 $$
 CL = 0.8 \times \left(\frac{\text{BWT}}{70}\right)^{0.75}
 $$
+{% endraw %}
 
 Clearance allometrically scaled to body weight (BWT) with exponent 0.75, where $CL$ is in $L/h$
 
 **Allometric Volume Model**
 
+{% raw %}
 $$
 V = 10 \times \left(\frac{\text{BWT}}{70}\right)^{1}
 $$
+{% endraw %}
 
 Volume of distribution allometrically scaled to body weight with linear scaling (exponent 1.0), where $V$ is in $L$
 
 **Absorption Rate with IIV**
 
+{% raw %}
 $$
 k_a = 0.5 \times e^{\eta_i}
 $$
+{% endraw %}
 
 First-order absorption rate constant with log-normal inter-individual variability
 
 **IIV Distribution**
 
+{% raw %}
 $$
 \eta_i \sim N(0, 0.2^2)
 $$
+{% endraw %}
 
 Distribution of random effects for absorption rate constant with 20% coefficient of variation
 
 **OFV for Cmax Constraint (Scenario 1)**
 
+{% raw %}
 $$
 \text{OFV} = \int_0^T \left( \frac{\rho}{2} \left(\max(0, C_{\text{central}} - C_{\text{max,target}})\right)^2 - C_{\text{central}} \right) dt
 $$
+{% endraw %}
 
 Objective function for maximizing dose while maintaining central concentration below $C_{max}$ target
 
 **OFV for Trough Constraint (Scenario 2)**
 
+{% raw %}
 $$
 \text{OFV} = \int_0^T \left( \frac{\rho}{2} \left(\max(0, C_{\text{trough,ss,target}} - C_{\text{central}})\right)^2 + C_{\text{central}} \right) dt
 $$
+{% endraw %}
 
 Objective function for minimizing dose while maintaining trough concentration above target at steady state
 
 **Theoretical Dose for Cmax Target**
 
+{% raw %}
 $$
 D_{\text{theoretical}} = C_{\text{max,target}} \times V \times \left(\frac{k_a}{k_e}\right)^{\frac{k_e}{k_a - k_e}}
 $$
+{% endraw %}
 
 Analytical solution for dose achieving target maximum concentration in one-compartment model with first-order absorption
 
 **Theoretical Dose for Trough Target**
 
+{% raw %}
 $$
 D_{\text{theoretical}} = C_{\text{trough,ss,target}} \times V \times \frac{k_a - k_e}{k_a} \times \frac{(1 - e^{-k_e \tau})(1 - e^{-k_a \tau})}{e^{-k_e \tau} - e^{-k_a \tau}}
 $$
+{% endraw %}
 
 Analytical solution for dose achieving target trough concentration at steady state with dosing interval $\tau$
 
 **Prediction Error**
 
+{% raw %}
 $$
 \text{PE}\ (\%) = \frac{D_{\text{estimated}} - D_{\text{theoretical}}}{D_{\text{theoretical}}} \times 100
 $$
+{% endraw %}
 
 Calculation of percentage prediction error comparing SCOUT-estimated dose to theoretical value
 
 **Two-Compartment Dose Equation**
 
+{% raw %}
 $$
 D_{\text{theoretical}} = \frac{C_{\text{max,target}} \times V_1 \times \text{Dur}}{\frac{1}{k_e} - \frac{k_{21} - r_1}{r_1(r_2 - r_1)}e^{-r_1 \times \text{Dur}} - \frac{k_{21} - r_2}{r_2(r_1 - r_2)}e^{-r_2 \times \text{Dur}}}
 $$
+{% endraw %}
 
 Theoretical dose for achieving $C_{max}$ target in two-compartment model with infusion duration $\text{Dur}$, where $r_1$ and $r_2$ are roots of characteristic equation
 
 **Characteristic Equation**
 
+{% raw %}
 $$
 s^2 - (k_e + k_{12} + k_{21})s + k_e k_{21} = 0
 $$
+{% endraw %}
 
 Characteristic equation for two-compartment model where $s$ represents the Laplace variable and roots determine macro-constants
 
 **OFV for Neutropenia Constraint**
 
+{% raw %}
 $$
 \text{OFV} = \int_0^T \left( \frac{\rho}{2} \left(\max(0, 0.5 - \text{Neu})\right)^2 - C_{\text{central}} \right) dt
 $$
+{% endraw %}
 
 Objective function for maximizing eribulin dose while avoiding Grade 4 neutropenia (threshold $0.5 \times 10^9/L$)
 

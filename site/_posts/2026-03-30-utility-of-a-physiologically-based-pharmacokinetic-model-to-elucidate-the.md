@@ -4,7 +4,7 @@ title: "Utility of a Physiologically Based Pharmacokinetic Model to Elucidate th
 date: 2026-03-30
 authors: "Okuba K, Ikeda K"
 journal: "J Pharmacokinet Pharmacodyn. 2026 Mar 24;53(2):89-107"
-doi: "https://doi.org/10.1007/s10928-026-10028-9"
+doi: "10.1007/s10928-026-10028-9"
 paper_type: popk
 tags: [popk, pbpk]
 excerpt_text: "This study uses a maternal-placental-fetal PBPK model to explain the wide variability in reported fetus-to-mat (F/M) ratios of digoxin. It demonstrates that placental P-gp activity selectively modulates the time-averaged F/M (AUC ratio), while instantaneous F/M values fluctuate substantially over the dosing interval. Clinicians and pharmacometricians involved in transplacental therapy should read this to understand why single time-point F/M measurements can be misleading for drugs with limited placental permeability."

@@ -6,7 +6,7 @@ authors: "Makam S, Dobrovolny HM"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
 doi: "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70205?af=R"
 paper_type: popk
-tags: [popk, qsp, covariate-analysis, oncology, immunology, regulatory]
+tags: [popk, qsp, oncology, regulatory]
 excerpt_text: "A mechanistic modeling study quantifying how arming oncolytic viruses with cytokines alters tumor-virus dynamics in glioblastoma. Essential reading for QSP scientists working in immuno-oncology and viral dynamics, highlighting the trade-off between increased infection rates and cytokine-mediated viral suppression."
 pdf_path: "/assets/digests/2026-02-15-mathematical-modeling-of-the-role-of-cytokines-in-sindbis-virus-treatment-of/PMx_Mathematical_Modeling_of_the_Role_of_Cyt_20260215.pdf"
 retroactively_classified: true
@@ -105,25 +105,31 @@ The qualitative finding of the immune-viral trade-off is likely generalizable to
 
 **Tumor-Virus-Cytokine System**
 
+{% raw %}
 $$
 \begin{aligned} \frac{dT}{dt} &= \lambda T - \beta T V - k C T \\ \frac{dI}{dt} &= \beta T V - \delta I \\ \frac{dV}{dt} &= \frac{pI}{1 + eC} - cV \\ \frac{dC}{dt} &= V - \gamma C \end{aligned}
 $$
+{% endraw %}
 
 The core ODE system describing the interaction between Tumor (T), Infected cells (I), Virus (V), and Cytokines (C).
 
 **Basic Reproduction Number / Stability Threshold**
 
+{% raw %}
 $$
 R_0 = \frac{\beta p T_0}{\delta c (1 + e C_0)}
 $$
+{% endraw %}
 
 Derived threshold determining if the virus can establish an infection in the presence of basal cytokines.
 
 **Stability Criterion**
 
+{% raw %}
 $$
 \frac{\gamma}{\gamma + \delta + c} \left(\frac{e}{e\lambda + k + \beta\gamma} + \frac{\beta}{k + \beta\gamma}\right) > 1
 $$
+{% endraw %}
 
 A simplified representation of the complex stability condition (Eq 8 in paper) determining if the chronic infection state is stable.
 

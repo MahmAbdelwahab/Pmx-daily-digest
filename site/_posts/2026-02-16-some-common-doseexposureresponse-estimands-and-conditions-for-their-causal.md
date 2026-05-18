@@ -4,7 +4,7 @@ title: "Some Common Dose–Exposure–Response Estimands and Conditions for Thei
 date: 2026-02-16
 authors: "Bartels C, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70202"
+doi: "10.1002/psp4.70202"
 paper_type: methodology
 tags: [methodology, qsp, dose-response, covariate-analysis, regulatory, clinical-trial-design]
 excerpt_text: "A landmark methodological paper bridging pharmacometrics with the ICH E9(R1) estimand framework. It provides the causal inference justification for pooling data from multiple studies to perform exposure-response analyses for dose selection."
@@ -98,25 +98,31 @@ Highly generalizable framework applicable to any development program requiring d
 
 **Dose-Response Estimand (Identification)**
 
+{% raw %}
 $$
 \Pr(R^d|S=0) = \int_l \Pr(R|L=l, D=d)\Pr(L=l|S=0) dl
 $$
+{% endraw %}
 
 Calculates the probability of response to dose d in the target population (S=0) by integrating the conditional dose-response over the target covariate distribution.
 
 **Dose-Exposure-Response Estimand (Identification)**
 
+{% raw %}
 $$
 \Pr(R^d|S=0) = \int_{l,e} \Pr(R|L_Y=l_Y, E=e)\Pr(E=e|L_E=l_E, D=d)\Pr(L=l|S=0) dl de
 $$
+{% endraw %}
 
 Calculates the same probability but decomposes the effect through exposure (E), integrating over both covariate and exposure distributions.
 
 **Conditional Independence for Pooling**
 
+{% raw %}
 $$
 R^d \perp S \mid L
 $$
+{% endraw %}
 
 The fundamental assumption required to pool data: potential outcomes are independent of the study source given the covariates.
 

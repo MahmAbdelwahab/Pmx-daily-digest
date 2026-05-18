@@ -4,9 +4,9 @@ title: "What Is a Digital Twin in QSP, and Are We Doing It Right?"
 date: 2026-03-17
 authors: "Feigelman J"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70229"
-paper_type: generic
-tags: [generic, qsp, oncology, digital-twins, regulatory]
+doi: "10.1002/psp4.70229"
+paper_type: methodology
+tags: [methodology, qsp, digital-twins, regulatory]
 excerpt_text: "This commentary critiques the proliferation of 'digital twin' methodologies in QSP, arguing that current distance-based filtering approaches are essentially Approximate Bayesian Computation (ABC) and are statistically inefficient. Essential reading for QSP modelers using patient-specific parameterization, as it proposes modern Bayesian inference (NUTS/HMC) as the rigorous alternative for generating true posterior distributions."
 retroactively_classified: true
 ---
@@ -99,33 +99,41 @@ The findings are broadly applicable to any QSP modeling context requiring patien
 
 **ABC Distance Criterion**
 
+{% raw %}
 $$
 d(\theta) = \sum_{t} \left(\log y_{\text{obs}}(t) - \log y_{\text{sim}}(t, \theta)\right)^2 < \epsilon
 $$
+{% endraw %}
 
 ABC distance metric used in QSP digital twin generation, where parameters are accepted if the squared log-transformed L2-norm between simulated and observed trajectories falls below a threshold. This forms the acceptance criterion for Approximate Bayesian Computation.
 
 **Composite Likelihood Function**
 
+{% raw %}
 $$
 L(\theta|D) = \prod_{j=1}^{M} L_j(\theta|D_j) = \prod_{j=1}^{M} P(D_j|\theta)
 $$
+{% endraw %}
 
 Composite likelihood function for multiple uncorrelated biomarkers, expressed as the product of individual likelihood functions. This formulation enables likelihood-based inference for multi-output QSP models.
 
 **Bayesian Posterior**
 
+{% raw %}
 $$
 P(\theta|D) \propto P(D|\theta) \cdot \pi(\theta)
 $$
+{% endraw %}
 
 Bayesian posterior distribution proportional to the product of the likelihood of the data given parameters and the prior probability of the parameters. This represents the target distribution for true Bayesian digital twin generation.
 
 **Gaussian Error Model**
 
+{% raw %}
 $$
 y_{\text{obs}} = y_{\text{sim}}(\theta) + \varepsilon,   \varepsilon \sim N(0, \sigma^2)
 $$
+{% endraw %}
 
 Measurement error model assuming Gaussian residuals, where observed data equals model simulation plus random error. This forms the basis for defining the likelihood function in optimization-based approaches.
 

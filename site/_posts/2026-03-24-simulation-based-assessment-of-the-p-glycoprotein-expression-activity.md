@@ -4,9 +4,9 @@ title: "Simulation-based assessment of the P-glycoprotein expression-activity re
 date: 2026-03-24
 authors: "van Valkengoed DW, Rottschäfer V, de Lange ECM"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026"
-doi: "https://doi.org/10.1007/s10928-025-10015-6"
-paper_type: methodology
-tags: [methodology, pbpk, regulatory]
+doi: "10.1007/s10928-025-10015-6"
+paper_type: popk
+tags: [popk, pbpk, regulatory]
 excerpt_text: "This theoretical study challenges the fundamental assumption that P-glycoprotein (P-gp) expression scales linearly with activity for IVIVE applications. Using a mechanistic kinetic binding model, the authors demonstrate that the expression-activity relationship (EAR) is drug-dependent and becomes non-linear when efflux efficiency (koff/ke ratio) is high or when P-gp expression exceeds drug concentration. Essential reading for scientists involved in transporter-based PBPK modeling, IVIVE, and CNS drug development."
 pdf_path: "/assets/digests/2026-03-24-simulation-based-assessment-of-the-p-glycoprotein-expression-activity/PMx_Simulationbased_assessment_of_the_Pglyco_20260324.pdf"
 retroactively_classified: true
@@ -104,41 +104,51 @@ Findings are generalizable to other efflux transporters with similar kinetic mec
 
 **Total Accessible Apical Volume**
 
+{% raw %}
 $$
 V_{A,\text{tot}} = V_A + V_{AO} \cdot K_{AO}
 $$
+{% endraw %}
 
 Accounts for drug distribution in both aqueous apical chamber and apical outer leaflet membrane, assuming instantaneous equilibrium between phases.
 
 **Drug-P-gp Association Kinetics**
 
+{% raw %}
 $$
 \frac{dC_{Pgp,\text{bound}}}{dt} = k_{on} \cdot C_{IL} \cdot C_{Pgp,\text{free}} - k_{off} \cdot C_{Pgp,\text{bound}} - k_e \cdot C_{Pgp,\text{bound}}
 $$
+{% endraw %}
 
 Describes the rate of change of P-gp-bound drug concentration, accounting for association from inner leaflet, dissociation back to inner leaflet, and efflux to apical chamber.
 
 **Cumulative Drug Efflux**
 
+{% raw %}
 $$
 A_{\text{effluxed,tot}} = \int_{0}^{t_{end}} k_e \cdot C_{Pgp,\text{bound}}(t) \cdot 0.5 \cdot V_{IL}   dt
 $$
+{% endraw %}
 
 Total amount of drug effluxed by P-gp over the simulation period, calculated by integrating the efflux rate over time.
 
 **Relative Expression-Activity Relationship**
 
+{% raw %}
 $$
 rEAR_{x\%} = \frac{A_{\text{effluxed,tot}} \text{ at } x\% \text{ P-gp}}{A_{\text{effluxed,tot}} \text{ at } 100\% \text{ P-gp}} \times 100\%
 $$
+{% endraw %}
 
 Metric to assess linearity of the EAR. If rEARx% equals x%, the relationship is linear; deviations indicate non-linearity.
 
 **Inner Leaflet Drug Concentration**
 
+{% raw %}
 $$
 C_{IL} = C_{CP} \cdot K_{IL}
 $$
+{% endraw %}
 
 Assumption of instantaneous equilibrium between cytoplasm and inner leaflet membrane, where drug concentration in inner leaflet equals cytoplasmic concentration times partition coefficient.
 

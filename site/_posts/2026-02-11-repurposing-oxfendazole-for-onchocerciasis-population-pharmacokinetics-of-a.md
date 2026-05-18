@@ -97,25 +97,31 @@ Findings are specific to the tablet formulation in African adults. Extrapolation
 
 **Dose-Dependent Bioavailability**
 
+{% raw %}
 $$
 F_{\text{rel}} = \left(\frac{\text{Dose}}{34.7 \text{mg}}\right)^{-0.541}
 $$
+{% endraw %}
 
 Describes the reduction in relative bioavailability as dose increases, likely due to solubility limitations.
 
 **Individual Bioavailability**
 
+{% raw %}
 $$
 F_i = F_{\text{pop}} \cdot F_{\text{rel}} \cdot e^{\eta_{i,F}}
 $$
+{% endraw %}
 
 The individual bioavailability incorporating the population value, the dose-dependent scaling factor, and inter-individual variability.
 
 **Inter-individual Variability (CV%)**
 
+{% raw %}
 $$
 CV_{\%} = 100 \cdot \sqrt{e^{\omega^2}-1}
 $$
+{% endraw %}
 
 Conversion of the variance of the log-normal distribution to a coefficient of variation percentage.
 

@@ -4,7 +4,7 @@ title: "Impact of Event-Related Treatment Modifications in Exposure-Response Ana
 date: 2026-03-16
 authors: "Goulooze SC, Garmann D, Eissing T, Snelder N"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70231"
+doi: "10.1002/psp4.70231"
 paper_type: methodology
 tags: [methodology, qsp, dose-response, covariate-analysis, regulatory]
 excerpt_text: "Pharmacometricians analyzing RTTE data with potential event-related treatment modifications should read this paper. It identifies a critical bias mechanism when discontinuations precede events due to unobserved clinical worsening, and proposes AUCavg + BlindedStudyTreatmentrank as a solution. The work has immediate relevance for cardiovascular outcome trials and other settings where clinical deterioration drives treatment changes."
@@ -110,33 +110,41 @@ Findings generalize well to placebo-controlled RTTE studies with event-related t
 
 **Blinded Study Treatment Rank**
 
+{% raw %}
 $$
 \mathrm{BlindedStudyTreatment}_{\mathrm{rank}} = \left(\mathrm{rank}_i - 0.5\right)/n
 $$
+{% endraw %}
 
 Percentile-rank transformation of blinded study treatment history, where rank_i is the individual's rank and n is total subjects. This normalization enables comparison across studies and removes scale dependency.
 
 **Time-Varying AUC**
 
+{% raw %}
 $$
 \mathrm{AUC}(t) = \mathrm{DOSE}(t)/\mathrm{ICL}
 $$
+{% endraw %}
 
 Time-varying area under the curve calculated from dose and individual clearance, representing instantaneous drug exposure at time t.
 
 **Hazard Function**
 
+{% raw %}
 $$
 h(t) = h_0(t) \times \mathrm{EFF} \times \mathrm{DEFF} \times e^{\eta_i}
 $$
+{% endraw %}
 
 Hazard function for RTTE model incorporating baseline hazard h_0(t), pharmacological effect EFF, discontinuation effect DEFF, and individual frailty term with log-normal distribution.
 
 **Event Density Function**
 
+{% raw %}
 $$
 f(t) = h(t) \times S(t) = h(t) \times \exp\left(-\int_{t_{j-1}}^{t} h(t)   dt\right)
 $$
+{% endraw %}
 
 Probability density function for time-to-event, where S(t) is survival function and the integral accumulates hazard from previous event time t_{j-1}.
 

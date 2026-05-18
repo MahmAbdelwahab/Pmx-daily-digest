@@ -4,9 +4,9 @@ title: "Model-Based Meta-Analysis of Objective Response Rate and Survival Endpoi
 date: 2026-02-21
 authors: "Franzese RC, Quinn L, Fava S, Roy B, Zang E, Zierhut ML, Van Der Graaf PHA"
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70196"
+doi: "10.1002/psp4.70196"
 paper_type: popk
-tags: [popk, qsp, covariate-analysis, oncology, immunology, machine-learning, meta-analysis]
+tags: [popk, qsp, covariate-analysis, oncology, immunology, meta-analysis]
 excerpt_text: "A comprehensive Model-Based Meta-Analysis (MBMA) quantifying the surrogacy of ORR for OS/PFS in mNSCLC across 114 trials. It specifically addresses the debate between PD-1 and PD-L1 inhibitor efficacy, finding numerical trends favoring PD-1 but no statistical significance."
 pdf_path: "/assets/digests/2026-02-21-model-based-meta-analysis-of-objective-response-rate-and-survival-endpoints-to/PMx_ModelBased_MetaAnalysis_of_Objective_Res_20260221.pdf"
 retroactively_classified: true
@@ -104,25 +104,31 @@ Highly generalizable to mNSCLC drug development; the framework is applicable to 
 
 **ORR Logistic Regression Model**
 
+{% raw %}
 $$
 P(\text{event})_{ij} = \text{logit}^{-1}\left(\theta_{\text{treat}} + \theta_{\text{cov}} \cdot \text{Cov}_{ij} + f(\text{PDL1}) + \eta_i\right)
 $$
+{% endraw %}
 
 Predicts the probability of response based on treatment, covariates, and random study effects.
 
 **Survival Hazard Model**
 
+{% raw %}
 $$
 h(t) = h_0(t) \cdot \exp\left(\beta_{\text{treat}} + \lambda_{\text{class}} \cdot \text{ORR}_{\text{pred}} + \gamma \cdot \text{Cov} + \eta_{\text{study}}\right)
 $$
+{% endraw %}
 
 Proportional hazards model linking the predicted ORR to the hazard of death or progression.
 
 **Binomial Error Model**
 
+{% raw %}
 $$
 \sigma_{ij}^2 = \frac{P_{ij}(1 - P_{ij})}{N_{ij}}
 $$
+{% endraw %}
 
 Variance of the observed proportion (ORR) used for weighting in the meta-analysis.
 

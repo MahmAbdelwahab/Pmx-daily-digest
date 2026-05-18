@@ -4,7 +4,7 @@ title: "A QSP Model of Valproic Acid Toxicity in Pediatric and Adult Populations
 date: 2026-02-19
 authors: "Schiavo A, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70200"
+doi: "10.1002/psp4.70200"
 paper_type: popk
 tags: [popk, qsp, covariate-analysis, pediatrics]
 excerpt_text: "A quantitative systems pharmacology (QSP) model extending valproic acid (VPA) toxicity predictions to pediatric populations. It provides a mechanistic rationale for using extended-release formulations and establishes a concrete dosing rule for L-carnitine supplementation to prevent hyperammonemia."
@@ -98,33 +98,41 @@ High generalizability for Caucasian populations based on the virtual population 
 
 **Allometric Scaling of Parameters**
 
+{% raw %}
 $$
 \theta_i = \theta_{\text{pop}} \times \left(\frac{\text{WT}_i}{70}\right)^{\beta}
 $$
+{% endraw %}
 
 Standard allometric scaling used to adjust PK parameters based on body weight.
 
 **UGT2B7 Maturation Function**
 
+{% raw %}
 $$
 AF_{\text{UGT2B7}} = 0.113 + 0.0425 \times \text{AGE}_i   \text{if } \text{AGE}_i < 20
 $$
+{% endraw %}
 
 Describes the age-dependent maturation of the glucuronidation pathway, reaching full capacity at 20 years.
 
 **Sex/Age Effect on Carnitine Turnover**
 
+{% raw %}
 $$
 Ro_{\text{carnitine},i} = Ro_{\text{carnitine},\text{male}} \times e^{\gamma}
 $$
+{% endraw %}
 
 Adjusts the baseline production/turnover of carnitine based on sex and age group (gamma factor).
 
 **Odds Ratio Calculation**
 
+{% raw %}
 $$
 OR = \frac{EA_R \times (1 - EA_T)}{EA_T \times (1 - EA_R)}
 $$
+{% endraw %}
 
 Calculates the odds ratio of adverse events (EA) comparing reference (R) and test (T) formulations.
 

@@ -4,7 +4,7 @@ title: "Population Pharmacokinetic Analysis of Vixarelimab in Healthy Volunteers
 date: 2026-03-09
 authors: "Fei Tang et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026, Volume 15, Issue 3, Pages 1–12"
-doi: "https://doi.org/10.1002/psp4.70230"
+doi: "10.1002/psp4.70230"
 paper_type: popk
 tags: [popk, qsp, covariate-analysis]
 excerpt_text: "This paper presents the first detailed population pharmacokinetic (PopPK) model for vixarelimab, a first-in-class monoclonal antibody targeting OSMRβ, using pooled data from Phase 1/2 studies. A two-compartment target-mediated drug disposition (TMDD) model with quasi-steady-state (QSS) approximation was successfully developed. Body weight was the only significant covariate, but its clinical impact on exposure was minimal—supporting flat dosing in future trials."
@@ -102,49 +102,61 @@ The model is highly generalizable across the studied chronic pruritic conditions
 
 **Individual Parameter Model**
 
+{% raw %}
 $$
 \theta_i = \theta_{\mathrm{Typical}} e^{\eta_i}
 $$
+{% endraw %}
 
 Log-normal model for inter-individual variability, where θ_i is the individual parameter, θ_Typical is the population typical value, and η_i ~ N(0, ω²) is the random effect.
 
 **Subcutaneous Depot Compartment**
 
+{% raw %}
 $$
 \frac{dA_{\mathrm{SC}}}{dt} = -K_a \times A_{\mathrm{SC}}
 $$
+{% endraw %}
 
 First-order absorption from the subcutaneous depot compartment (A_SC) into the central compartment.
 
 **Central Compartment Mass Balance**
 
+{% raw %}
 $$
 \frac{dA_C}{dt} = K_a \times A_{\mathrm{SC}} - \left(K_{\mathrm{el}} + K_{\mathrm{pt}}\right) \times C_{\mathrm{free}} \times V_c + K_{\mathrm{tp}} \times A_p - \frac{R_{\mathrm{tot}} \times K_{\mathrm{int}} \times C_{\mathrm{free}} \times V_c}{K_{\mathrm{ss}} + C_{\mathrm{free}}}
 $$
+{% endraw %}
 
 Mass balance for the central compartment (A_C), including absorption, linear distribution/clearance, peripheral exchange, and nonlinear target-mediated elimination.
 
 **Peripheral Compartment Mass Balance**
 
+{% raw %}
 $$
 \frac{dA_p}{dt} = K_{\mathrm{pt}} \times C_{\mathrm{free}} \times V_c - K_{\mathrm{tp}} \times A_p
 $$
+{% endraw %}
 
 Mass balance for the peripheral compartment (A_p), with distribution from and to the central compartment.
 
 **Total Receptor Dynamics**
 
+{% raw %}
 $$
 \frac{dR_{\mathrm{tot}}}{dt} = K_{\mathrm{syn}} - K_{\mathrm{deg}} \times R_{\mathrm{tot}} - \left(K_{\mathrm{int}} - K_{\mathrm{deg}}\right) \times \frac{R_{\mathrm{tot}} \times C_{\mathrm{free}}}{K_{\mathrm{ss}} + C_{\mathrm{free}}}
 $$
+{% endraw %}
 
 Differential equation for total receptor concentration (R_tot), including synthesis, degradation, and internalization of the drug-receptor complex.
 
 **Free Drug Concentration (QSS Approximation)**
 
+{% raw %}
 $$
 C_{\mathrm{free}} = \frac{1}{2} \left[ \left(C_{\mathrm{tot}} - R_{\mathrm{tot}} - K_{\mathrm{ss}}\right) + \sqrt{\left(C_{\mathrm{tot}} - R_{\mathrm{tot}} - K_{\mathrm{ss}}\right)^2 + 4 \times K_{\mathrm{ss}} \times C_{\mathrm{tot}}} \right]
 $$
+{% endraw %}
 
 Algebraic solution for free drug concentration under the quasi-steady-state assumption, derived from total drug (C_tot) and total receptor (R_tot).
 

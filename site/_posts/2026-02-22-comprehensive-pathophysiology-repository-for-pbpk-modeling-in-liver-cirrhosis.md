@@ -4,7 +4,7 @@ title: "Comprehensive Pathophysiology Repository for PBPK Modeling in Liver Cirr
 date: 2026-02-22
 authors: "Schneider ARP, et al."
 journal: "CPT: Pharmacometrics & Systems Pharmacology, 2026"
-doi: "https://doi.org/10.1002/psp4.70215"
+doi: "10.1002/psp4.70215"
 paper_type: popk
 tags: [popk, pbpk, qsp, covariate-analysis, regulatory, clinical-trial-design]
 excerpt_text: "A landmark study establishing a continuous, probabilistic physiology repository for liver cirrhosis PBPK modeling. By moving beyond discrete Child-Pugh class means to continuous scoring (CP 5-15) with population variability, this work enables high-fidelity virtual clinical trials for hepatically impaired populations."

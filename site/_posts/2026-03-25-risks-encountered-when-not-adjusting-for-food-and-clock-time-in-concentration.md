@@ -4,7 +4,7 @@ title: "Risks encountered when not adjusting for food and clock time in concentr
 date: 2026-03-25
 authors: "Bardol M, Laveille C, Sarr C, Hooker AC"
 journal: "Journal of Pharmacokinetics and Pharmacodynamics, 2026, 53(1):10012-9"
-doi: "https://doi.org/10.1007/s10928-025-10012-9"
+doi: "10.1007/s10928-025-10012-9"
 paper_type: methodology
 tags: [methodology, covariate-analysis, regulatory]
 excerpt_text: "This simulation study demonstrates that uncontrolled and unbalanced food intake or clock time variations in Phase I studies can inflate false-negative rates in concentration-QTc analyses by up to 50% when using the standard pre-specified linear model (PLM). Pharmacometricians and cardiac safety scientists should read this to understand how simple adjustments for food status and diurnal variation can rescue TQT waiver strategies from suboptimal study designs."
@@ -106,57 +106,71 @@ Findings are highly generalizable to standard Phase I SAD/MAD studies in healthy
 
 **Drug Effect on QTcF (Slope Model)**
 
+{% raw %}
 $$
 E_{\text{drug},ij} = \beta \cdot C_{ij}
 $$
+{% endraw %}
 
 Linear concentration-QTcF relationship where beta is the population slope parameter (0.2 for mild effect, 0.5 for moderate effect) and C_ij is the drug concentration for individual i at time j.
 
 **Combined QTcF Model**
 
+{% raw %}
 $$
 QTcF_{ij} = \text{Placebo}_{ij} + \beta \cdot C_{ij}
 $$
+{% endraw %}
 
 Additive combination of placebo model (comprising baseline, circadian rhythm, and food effects) with drug effect for total QTcF prediction.
 
 **Unadjusted Pre-specified Linear Model (PLM)**
 
+{% raw %}
 $$
 \Delta QTcF_{ij} = \theta_0 + \theta_1 \cdot TRT_i + \theta_2 \cdot C_{ij} + \theta_{3,j} + \theta_4 \cdot (QTcF_{0,i} - QTcF_{0,\text{median}}) + \eta_{0,i} + \eta_{2,i} \cdot C_{ij} + \epsilon_{ij}
 $$
+{% endraw %}
 
 Core mixed-effects model with placebo intercept (theta_0), treatment intercept (theta_1), concentration slope (theta_2), nominal time-after-dose categorical effects (theta_3,j), baseline QTcF covariate (theta_4), inter-individual random effects on intercept and slope (eta), and residual error (epsilon).
 
 **Residual Error Model**
 
+{% raw %}
 $$
 y_{ij} = \hat{y}_{ij} + \epsilon_{\text{add},ij}
 $$
+{% endraw %}
 
 Additive residual unexplained variability where epsilon_add is normally distributed with mean 0 and standard deviation sigma_add.
 
 **Mean Signal Prediction**
 
+{% raw %}
 $$
 \Delta\Delta QTcF = \hat{\theta}_1 + \hat{\theta}_2 \cdot C
 $$
+{% endraw %}
 
 Predicted placebo-corrected change from baseline QTcF at concentration C, representing the point estimate of drug effect from the PLM.
 
 **Upper Bound of 90% Confidence Interval**
 
+{% raw %}
 $$
 UB = \hat{\theta}_1 + \hat{\theta}_2 \cdot C + t \cdot SE
 $$
+{% endraw %}
 
 Calculation of the upper bound for regulatory decision-making, where t is the critical value from t-distribution and SE is the standard error of the prediction.
 
 **Standard Error of Prediction**
 
+{% raw %}
 $$
 SE = \sqrt{\sigma_{\theta_1}^2 + C^2 \cdot \sigma_{\theta_2}^2 + 2 \cdot C \cdot \sigma_{\theta_1,\theta_2}}
 $$
+{% endraw %}
 
 Standard error accounting for variance in intercept (sigma_theta1), variance in slope (sigma_theta2), and their covariance, evaluated at concentration C.
 
