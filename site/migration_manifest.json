@@ -846,5 +846,121 @@
     ],
     "retroactively_classified": true,
     "post_file": "_posts/2026-03-17-what-is-a-digital-twin-in-qsp-and-are-we-doing-it-right.md"
+  },
+  "PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260518": {
+    "title": "A hybrid PKPD agent-based model of the tumour immune interaction: effects of anti-cancer combination therapy",
+    "date": "2026-05-18",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "immunology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-18-a-hybrid-pkpd-agent-based-model-of-the-tumour-immune-interaction-effects-of.md"
+  },
+  "PMx_A_hybrid_PKPD_agentbased_model_of_the_tu_20260519": {
+    "title": "A hybrid PKPD agent-based model of the tumour immune interaction: effects of anti-cancer combination therapy",
+    "date": "2026-05-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "oncology",
+      "immunology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-19-a-hybrid-pkpd-agent-based-model-of-the-tumour-immune-interaction-effects-of.md"
+  },
+  "PMx_Correction_Crossspecies_translational_mo_20260518": {
+    "title": "Correction: Cross-species translational modelling of targeted therapeutic oligonucleotides using physiologically based pharmacokinetics",
+    "date": "2026-05-18",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-18-correction-cross-species-translational-modelling-of-targeted-therapeutic.md"
+  },
+  "PMx_Development_of_the_WeightTiered_Q3W_Regi_20260522": {
+    "title": "Development of the Weight-Tiered Q3W Regimen of Amivantamab in Combination With Carboplatin-Pemetrexed in EGFR-Mutated Non-Small Cell Lung Cancer",
+    "date": "2026-05-22",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-22-development-of-the-weight-tiered-q3w-regimen-of-amivantamab-in-combination-with.md"
+  },
+  "PMx_Early_exposureresponse_modeling_of_an_in_20260519": {
+    "title": "Unable to Access Full Text - reCAPTCHA Block",
+    "date": "2026-05-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-19-unable-to-access-full-text-recaptcha-block.md"
+  },
+  "PMx_Multiobjective_optimization_in_populatio_20260522": {
+    "title": "Multi-objective optimization in population pharmacokinetic model selection using NSGA-II and pyDarwin",
+    "date": "2026-05-22",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "covariate-analysis",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-22-multi-objective-optimization-in-population-pharmacokinetic-model-selection.md"
+  },
+  "PMx_OpenPMX_Software_for_Nonlinear_MixedEffe_20260522": {
+    "title": "OpenPMX Software for Nonlinear Mixed-Effect Models in Pharmacometrics: Precision Compared With NONMEM First-Order Conditional Estimation",
+    "date": "2026-05-22",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-22-openpmx-software-for-nonlinear-mixed-effect-models-in-pharmacometrics-precision.md"
+  },
+  "PMx_Optimizing_Venous_Thromboembolism_Prophy_20260519": {
+    "title": "Optimizing Venous Thromboembolism Prophylaxis in Burn Patients Using Enoxaparin Through PBPK Modeling",
+    "date": "2026-05-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-19-optimizing-venous-thromboembolism-prophylaxis-in-burn-patients-using-enoxaparin.md"
+  },
+  "PMx_Physiologicallybased_pharmacokinetic_mod_20260520": {
+    "title": "Unknown (Paper inaccessible)",
+    "date": "2026-05-20",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-20-unknown-paper-inaccessible.md"
+  },
+  "PMx_The_dawn_of_a_new_era_can_machine_learni_20260522": {
+    "title": "The dawn of a new era: can machine learning and large language models reshape QSP modeling?",
+    "date": "2026-05-22",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "digital-twins",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-22-the-dawn-of-a-new-era-can-machine-learning-and-large-language-models-reshape.md"
   }
 }
