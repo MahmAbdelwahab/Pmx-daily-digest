@@ -962,5 +962,236 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-05-22-the-dawn-of-a-new-era-can-machine-learning-and-large-language-models-reshape.md"
+  },
+  "PMx_An_Interactive_PharmacokineticPharmacody_20260526": {
+    "title": "An Interactive Pharmacokinetic-Pharmacodynamic Framework to Evaluate Bedaquiline Dose Modifications in Adults With Tuberculosis",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-an-interactive-pharmacokinetic-pharmacodynamic-framework-to-evaluate.md"
+  },
+  "PMx_Assessing_Covariate_Clinical_Relevance_i_20260526": {
+    "title": "Assessing Covariate Clinical Relevance in High-Dimensional Population PK Modeling: A Comparison of SCM+, FFEM, and FREM Approaches",
+    "date": "2026-05-26",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-assessing-covariate-clinical-relevance-in-high-dimensional-population-pk.md"
+  },
+  "PMx_Assessment_and_Benchmarking_of_Model_Inf_20260526": {
+    "title": "Assessment and Benchmarking of Model Informed Approaches in Drug Development for Hemoglobinopathies: A Review of Scientific Advices From January 2000 to December 2024",
+    "date": "2026-05-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-assessment-and-benchmarking-of-model-informed-approaches-in-drug-development.md"
+  },
+  "PMx_Breaking_Barriers_Between_Species_Integr_20260524": {
+    "title": "Breaking Barriers Between Species: Integrated Multi-Species PK Models Improve Human PK Predictions",
+    "date": "2026-05-24",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-24-breaking-barriers-between-species-integrated-multi-species-pk-models-improve.md"
+  },
+  "PMx_Causal_Directed_Acyclic_Graphs_to_Mitiga_20260526": {
+    "title": "Causal Directed Acyclic Graphs to Mitigate Confounding Bias in Exposure-Response Analyses",
+    "date": "2026-05-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "dose-response",
+      "covariate-analysis",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-causal-directed-acyclic-graphs-to-mitigate-confounding-bias-in-exposure.md"
+  },
+  "PMx_Evaluation_of_Current_and_Novel_Dosing_S_20260528": {
+    "title": "Evaluation of Current and Novel Dosing Strategies for Anti-Thymocyte Globulin in Adult Allogeneic Hematopoietic Stem Cell Transplantation",
+    "date": "2026-05-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-28-evaluation-of-current-and-novel-dosing-strategies-for-anti-thymocyte-globulin.md"
+  },
+  "PMx_External_Evaluation_of_Population_Pharma_20260525": {
+    "title": "External Evaluation of Population Pharmacokinetic Models of Cabotegravir, During Its Oral and Intramuscular Administration in HIV-Infected Patients",
+    "date": "2026-05-25",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-25-external-evaluation-of-population-pharmacokinetic-models-of-cabotegravir-during.md"
+  },
+  "PMx_FDAs_insights_implementing_new_strategie_20260523": {
+    "title": "FDA\u2019s insights on implementing new strategies for QTc assessment: a review of QT study reports from 2016 to 2024",
+    "date": "2026-05-23",
+    "paper_type": "generic",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-23-fdas-insights-on-implementing-new-strategies-for-qtc-assessment-a-review-of-qt.md"
+  },
+  "PMx_Integrating_B_Cell_Differentiation_Model_20260526": {
+    "title": "Integrating B Cell Differentiation Model With Real-World Data Informs Determinants for Antibody-Secreting Cell Depletions in Systemic Sclerosis",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "immunology",
+      "digital-twins",
+      "regulatory",
+      "machine-learning",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-integrating-b-cell-differentiation-model-with-real-world-data-informs.md"
+  },
+  "PMx_MBMA_Bridging_Models_as_a_Tool_for_Explo_20260526": {
+    "title": "MBMA Bridging Models as a Tool for Exploration of Clinical Endpoints in Unstudied Indications",
+    "date": "2026-05-26",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "regulatory",
+      "meta-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-mbma-bridging-models-as-a-tool-for-exploration-of-clinical-endpoints-in.md"
+  },
+  "PMx_ModelInformed_Dosing_Regimen_of_Sugemali_20260526": {
+    "title": "Model-Informed Dosing Regimen of Sugemalimab for European Patients With Non-Small Cell Lung Cancer: Bridging From Asian Clinical Data",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-model-informed-dosing-regimen-of-sugemalimab-for-european-patients-with-non.md"
+  },
+  "PMx_PhysiologicallyBased_Pharmacokinetic_Mod_20260526": {
+    "title": "Physiologically-Based Pharmacokinetic Model-Informed Labeling for Cariprazine Drug Interactions With CYP3A Inhibitors",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-physiologically-based-pharmacokinetic-model-informed-labeling-for-cariprazine.md"
+  },
+  "PMx_Physiologically_Based_Pharmacokinetic_Mo_20260526": {
+    "title": "Physiologically Based Pharmacokinetic Modeling of Elexacaftor/Tezacaftor/Ivacaftor in Infants With Cystic Fibrosis",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-physiologically-based-pharmacokinetic-modeling-of.md"
+  },
+  "PMx_Population_PKPD_Modeling_for_Evaluation__20260526": {
+    "title": "Population PK/PD Modeling for Evaluation of Intertwining Effects of Drug and Disease on Thrombocytopenia in Acute Leukemias",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-population-pkpd-modeling-for-evaluation-of-intertwining-effects-of-drug-and.md"
+  },
+  "PMx_Population_Pharmacokinetics_of_Trastuzum_20260526": {
+    "title": "Population Pharmacokinetics of Trastuzumab Rezetecan in Patients With HER2-Expressing or Mutated Advanced Solid Tumors",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "oncology",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-population-pharmacokinetics-of-trastuzumab-rezetecan-in-patients-with-her2.md"
+  },
+  "PMx_Quantifying_clinical_and_genetic_factors_20260526": {
+    "title": "Quantifying clinical and genetic factors influencing rate and severity of autosomal dominant tubulointerstitial kidney disease progression",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-quantifying-clinical-and-genetic-factors-influencing-rate-and-severity-of.md"
+  },
+  "PMx_SemiPhysiological_Population_Pharmacokin_20260526": {
+    "title": "Semi-Physiological Population Pharmacokinetic Modeling of Oral and Intravenous Paracetamol to Quantify Presystemic Metabolism and Enterohepatic Recirculation",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "covariate-analysis",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-semi-physiological-population-pharmacokinetic-modeling-of-oral-and-intravenous.md"
+  },
+  "PMx_The_Role_of_Estradiol_in_Oxidative_Stres_20260526": {
+    "title": "The Role of Estradiol in Oxidative Stress in Health and Cystathionine $\\beta$-Synthase Deficiency: A Mechanistic Model",
+    "date": "2026-05-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-the-role-of-estradiol-in-oxidative-stress-in-health-and-cystathionine-beta.md"
+  },
+  "PMx_Translational_Modeling_of_Gut_Microbiome_20260526": {
+    "title": "Translational Modeling of Gut Microbiome-Mediated Drug Metabolism: A Case Example of Sulfasalazine",
+    "date": "2026-05-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-05-26-translational-modeling-of-gut-microbiome-mediated-drug-metabolism-a-case.md"
   }
 }
