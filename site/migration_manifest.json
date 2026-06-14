@@ -1839,5 +1839,23 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-05-30-validating-physiologically-based-pharmacokinetic-models-using-the-continuous.md"
+  },
+  "PMx_More_Than_a_Question_of_Correlation_Char_20260613": {
+    "title": "More Than a Question of Correlation? The Evidentiary Basis for Biomarker Surrogates First Used as Primary Endpoints for Cardiovascular and Metabolic Medicines in the European Union",
+    "date": "2026-06-13",
+    "paper_type": "generic",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-13-more-than-a-question-of-correlation-the-evidentiary-basis-for-biomarker.md"
+  },
+  "PMx_Serious_Infection_in_Crohns_Disease_Pati_20260614": {
+    "title": "Serious Infection in Crohn's Disease Patients Treated With Ustekinumab: US Food and Drug Administration Active Postmarket Risk Identification and Analysis in the Sentinel Initiative",
+    "date": "2026-06-14",
+    "paper_type": "generic",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-14-serious-infection-in-crohns-disease-patients-treated-with-ustekinumab-us-food.md"
   }
 }
