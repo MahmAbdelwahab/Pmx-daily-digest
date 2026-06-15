@@ -1857,5 +1857,35 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-14-serious-infection-in-crohns-disease-patients-treated-with-ustekinumab-us-food.md"
+  },
+  "PMx_A_MechanismBased_MultiLevel_Population_P_20260615": {
+    "title": "A Mechanism-Based Multi-Level Population PK/PD Model for Potassium-Competitive Acid Blockers",
+    "date": "2026-06-15",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-15-a-mechanism-based-multi-level-population-pkpd-model-for-potassium-competitive.md"
+  },
+  "PMx_Association_of_Neurodevelopmental_Disord_20260614": {
+    "title": "Association of Neurodevelopmental Disorders and Congenital Anomalies With Prenatal Multiple Sclerosis Treatment\u2014Real-World Historical Cohort Study",
+    "date": "2026-06-14",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-14-association-of-neurodevelopmental-disorders-and-congenital-anomalies-with.md"
+  },
+  "PMx_ModelBased_MetaAnalysis_of_the_Relations_20260614": {
+    "title": "Model-Based Meta-Analysis of the Relationship Between Pioglitazone and Histological Outcomes in Metabolic Dysfunction-Associated Steatohepatitis Patients",
+    "date": "2026-06-14",
+    "paper_type": "generic",
+    "topic_tags": [
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-14-model-based-meta-analysis-of-the-relationship-between-pioglitazone-and.md"
   }
 }
