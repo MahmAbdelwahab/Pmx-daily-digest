@@ -1887,5 +1887,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-14-model-based-meta-analysis-of-the-relationship-between-pioglitazone-and.md"
+  },
+  "PMx_Integrating_Population_Approaches_With_P_20260616": {
+    "title": "Integrating Population Approaches With Physiologically Based Pharmacokinetic Models: A Novel Framework for Parameter Estimation",
+    "date": "2026-06-16",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk",
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-16-integrating-population-approaches-with-physiologically-based-pharmacokinetic.md"
   }
 }
