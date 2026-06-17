@@ -1898,5 +1898,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-16-integrating-population-approaches-with-physiologically-based-pharmacokinetic.md"
+  },
+  "PMx_Cellular_Heterogeneity_in_Drug_Uptake_Am_20260617": {
+    "title": "Cellular Heterogeneity in Drug Uptake Amplifies Pharmacodynamic Variability: A Stochastic PK-PD Analysis",
+    "date": "2026-06-17",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-17-cellular-heterogeneity-in-drug-uptake-amplifies-pharmacodynamic-variability-a.md"
   }
 }
