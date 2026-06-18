@@ -1906,5 +1906,17 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-17-cellular-heterogeneity-in-drug-uptake-amplifies-pharmacodynamic-variability-a.md"
+  },
+  "PMx_AIPowered_LesionLevel_Tumor_Growth_Inhib_20260618": {
+    "title": "AI-Powered Lesion-Level Tumor Growth Inhibition Modeling Improves Model Stability and Prognostic Association With PFS",
+    "date": "2026-06-18",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "oncology",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-18-ai-powered-lesion-level-tumor-growth-inhibition-modeling-improves-model.md"
   }
 }
