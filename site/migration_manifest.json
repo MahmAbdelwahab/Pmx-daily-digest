@@ -1918,5 +1918,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-18-ai-powered-lesion-level-tumor-growth-inhibition-modeling-improves-model.md"
+  },
+  "PMx_Physiologically_Based_Pharmacokinetic_Mo_20260619": {
+    "title": "Physiologically Based Pharmacokinetic Modeling in Patients With Hepatic Impairment: Are Changes in Bosutinib Exposure Profiles Driven by Altered Absorption or Distribution?",
+    "date": "2026-06-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-19-physiologically-based-pharmacokinetic-modeling-in-patients-with-hepatic.md"
   }
 }
