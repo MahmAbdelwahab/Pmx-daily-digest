@@ -1928,5 +1928,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-19-physiologically-based-pharmacokinetic-modeling-in-patients-with-hepatic.md"
+  },
+  "PMx_PhysiologicallyBased_Pharmacokinetic_Mod_20260620": {
+    "title": "Physiologically-Based Pharmacokinetic Modeling of the PARP Inhibitor Niraparib",
+    "date": "2026-06-20",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-20-physiologically-based-pharmacokinetic-modeling-of-the-parp-inhibitor-niraparib.md"
   }
 }
