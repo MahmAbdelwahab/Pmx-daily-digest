@@ -1939,5 +1939,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-20-physiologically-based-pharmacokinetic-modeling-of-the-parp-inhibitor-niraparib.md"
+  },
+  "PMx_Talazoparib_Formulation_Bridging_in_Canc_20260621": {
+    "title": "Talazoparib Formulation Bridging in Cancer Patients\u2014Challenges and the Critical Role of Model-Informed Drug Development in Approval Despite Failed Bioequivalence",
+    "date": "2026-06-21",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-21-talazoparib-formulation-bridging-in-cancer-patientschallenges-and-the-critical.md"
   }
 }
