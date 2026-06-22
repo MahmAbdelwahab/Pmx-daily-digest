@@ -1950,5 +1950,26 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-21-talazoparib-formulation-bridging-in-cancer-patientschallenges-and-the-critical.md"
+  },
+  "PMx_Pharmacokinetics_of_Odronextamab_A_Bispe_20260622": {
+    "title": "Pharmacokinetics of Odronextamab, A Bispecific T-Cell-Engaging Antibody, in Adult Patients With Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma",
+    "date": "2026-06-22",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-22-pharmacokinetics-of-odronextamab-a-bispecific-t-cell-engaging-antibody-in-adult.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Exposure_20260621": {
+    "title": "Population Pharmacokinetics and Exposure-Response Model-Based Bayesian Extrapolation of FVC-Based Efficacy Endpoints From Adults to Pediatric Patients Receiving Nintedanib",
+    "date": "2026-06-21",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-21-population-pharmacokinetics-and-exposure-response-model-based-bayesian.md"
   }
 }
