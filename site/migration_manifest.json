@@ -1971,5 +1971,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-21-population-pharmacokinetics-and-exposure-response-model-based-bayesian.md"
+  },
+  "PMx_Analyzing_Pharmacodynamic_Count_Data_Tha_20260623": {
+    "title": "Analyzing Pharmacodynamic Count Data That Rapidly Decrease to Zero",
+    "date": "2026-06-23",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-23-analyzing-pharmacodynamic-count-data-that-rapidly-decrease-to-zero.md"
   }
 }
