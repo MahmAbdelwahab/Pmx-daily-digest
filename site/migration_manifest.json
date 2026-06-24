@@ -1979,5 +1979,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-23-analyzing-pharmacodynamic-count-data-that-rapidly-decrease-to-zero.md"
+  },
+  "PMx_A_Nonparametric_Population_Pharmacokinet_20260624": {
+    "title": "A Nonparametric Population Pharmacokinetic Model of Selumetinib in Pediatric Patients Diagnosed With Neurofibromatosis-I or Plexiform Neurofibromas",
+    "date": "2026-06-24",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-24-a-nonparametric-population-pharmacokinetic-model-of-selumetinib-in-pediatric.md"
   }
 }
