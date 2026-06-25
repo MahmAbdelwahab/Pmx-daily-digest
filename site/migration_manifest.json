@@ -1990,5 +1990,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-24-a-nonparametric-population-pharmacokinetic-model-of-selumetinib-in-pediatric.md"
+  },
+  "PMx_B_Cell_Differentiation_Model_for_Identif_20260625": {
+    "title": "B Cell Differentiation Model for Identifying Predictors of Responses to Rituximab-Mediated B Cell Depletion in Rheumatic Diseases",
+    "date": "2026-06-25",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-25-b-cell-differentiation-model-for-identifying-predictors-of-responses-to.md"
   }
 }
