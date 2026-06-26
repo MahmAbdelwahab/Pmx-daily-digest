@@ -2000,5 +2000,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-25-b-cell-differentiation-model-for-identifying-predictors-of-responses-to.md"
+  },
+  "PMx_Characterizing_Apixaban_Pharmacokinetics_20260626": {
+    "title": "Characterizing Apixaban Pharmacokinetics Through Physiologically-Based Pharmacokinetic Modeling: Critical Role of Biliary Secretion and Enterohepatic Circulation in Humans",
+    "date": "2026-06-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-26-characterizing-apixaban-pharmacokinetics-through-physiologically-based.md"
   }
 }
