@@ -2011,5 +2011,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-26-characterizing-apixaban-pharmacokinetics-through-physiologically-based.md"
+  },
+  "PMx_Comparison_of_Metformin_PBPK_Models_Inco_20260627": {
+    "title": "Comparison of Metformin PBPK Models Incorporating Placental Transfer to Predict Fetal and Maternal Exposure",
+    "date": "2026-06-27",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-27-comparison-of-metformin-pbpk-models-incorporating-placental-transfer-to-predict.md"
   }
 }
