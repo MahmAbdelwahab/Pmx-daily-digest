@@ -2022,5 +2022,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-27-comparison-of-metformin-pbpk-models-incorporating-placental-transfer-to-predict.md"
+  },
+  "PMx_ExposureResponse_Modeling_of_Monthly_Mig_20260628": {
+    "title": "Exposure\u2013Response Modeling of Monthly Migraine Days for Efficacy of Atogepant in Patients With Episodic or Chronic Migraine",
+    "date": "2026-06-28",
+    "paper_type": "generic",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-28-exposureresponse-modeling-of-monthly-migraine-days-for-efficacy-of-atogepant-in.md"
   }
 }
