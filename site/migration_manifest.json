@@ -2032,5 +2032,24 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-28-exposureresponse-modeling-of-monthly-migraine-days-for-efficacy-of-atogepant-in.md"
+  },
+  "PMx_Butorphanol_Pharmacokinetics_Across_Spec_20260701": {
+    "title": "Butorphanol Pharmacokinetics Across Species: Meta-Analysis Integrating Allometric Scaling and Minimal Physiologically Based Pharmacokinetic Modeling",
+    "date": "2026-07-01",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-01-butorphanol-pharmacokinetics-across-species-meta-analysis-integrating.md"
+  },
+  "PMx_Pharmacokinetic_Model_Selection_for_Pers_20260630": {
+    "title": "Pharmacokinetic Model Selection for Personalized Infliximab Dosing in IBD",
+    "date": "2026-06-30",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-06-30-pharmacokinetic-model-selection-for-personalized-infliximab-dosing-in-ibd.md"
   }
 }
