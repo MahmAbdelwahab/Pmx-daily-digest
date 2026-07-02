@@ -2051,5 +2051,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-06-30-pharmacokinetic-model-selection-for-personalized-infliximab-dosing-in-ibd.md"
+  },
+  "PMx_Development_and_Use_of_a_Population_Phar_20260702": {
+    "title": "Development and Use of a Population Pharmacokinetic Model for Characterizing the Pharmacokinetics of Vonoprazan in Pediatric Patients",
+    "date": "2026-07-02",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-02-development-and-use-of-a-population-pharmacokinetic-model-for-characterizing.md"
   }
 }
