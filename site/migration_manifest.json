@@ -2061,5 +2061,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-02-development-and-use-of-a-population-pharmacokinetic-model-for-characterizing.md"
+  },
+  "PMx_Integrated_Population_Pharmacokinetic_An_20260704": {
+    "title": "Integrated Population Pharmacokinetic Analysis of Intravitreal Aflibercept Drug Products",
+    "date": "2026-07-04",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-04-integrated-population-pharmacokinetic-analysis-of-intravitreal-aflibercept-drug.md"
   }
 }
