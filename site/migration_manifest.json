@@ -2069,5 +2069,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-04-integrated-population-pharmacokinetic-analysis-of-intravitreal-aflibercept-drug.md"
+  },
+  "PMx_Accelerating_Subcutaneous_Drug_Developme_20260705": {
+    "title": "Accelerating Subcutaneous Drug Development: A Mechanistic Absorption Model for the Open Systems Pharmacology Framework",
+    "date": "2026-07-05",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk",
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-05-accelerating-subcutaneous-drug-development-a-mechanistic-absorption-model-for.md"
   }
 }
