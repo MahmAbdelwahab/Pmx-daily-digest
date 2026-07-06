@@ -2080,5 +2080,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-05-accelerating-subcutaneous-drug-development-a-mechanistic-absorption-model-for.md"
+  },
+  "PMx_Best_Practices_in_Physiologically_Based__20260706": {
+    "title": "Best Practices in Physiologically Based Pharmacokinetic (PBPK) Modeling",
+    "date": "2026-07-06",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-06-best-practices-in-physiologically-based-pharmacokinetic-pbpk-modeling.md"
   }
 }
