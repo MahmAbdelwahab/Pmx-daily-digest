@@ -2091,5 +2091,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-06-best-practices-in-physiologically-based-pharmacokinetic-pbpk-modeling.md"
+  },
+  "PMx_Automated_Pharmacometric_Model_Developme_20260708": {
+    "title": "Automated Pharmacometric Model Development by Leveraging Low-Dimensional Neural ODEs and LASSO Regression",
+    "date": "2026-07-08",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-08-automated-pharmacometric-model-development-by-leveraging-low-dimensional-neural.md"
   }
 }
