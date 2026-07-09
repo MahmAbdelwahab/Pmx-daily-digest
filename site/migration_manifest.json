@@ -2099,5 +2099,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-08-automated-pharmacometric-model-development-by-leveraging-low-dimensional-neural.md"
+  },
+  "PMx_Optimizing_Clinical_Study_Designs_for_CA_20260709": {
+    "title": "Optimizing Clinical Study Designs for CAR-T Cell Therapy: Development of an Efficient Sampling Strategy Through Optimal Experimental Design",
+    "date": "2026-07-09",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-09-optimizing-clinical-study-designs-for-car-t-cell-therapy-development-of-an.md"
   }
 }
