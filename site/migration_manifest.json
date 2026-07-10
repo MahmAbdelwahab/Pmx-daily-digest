@@ -2109,5 +2109,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-09-optimizing-clinical-study-designs-for-car-t-cell-therapy-development-of-an.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Pharmaco_20260710": {
+    "title": "Population Pharmacokinetics and Pharmacodynamics of Paracetamol in Malaysian Patients With Plasmodium knowlesi Malaria",
+    "date": "2026-07-10",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-10-population-pharmacokinetics-and-pharmacodynamics-of-paracetamol-in-malaysian.md"
   }
 }
