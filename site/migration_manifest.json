@@ -2117,5 +2117,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-10-population-pharmacokinetics-and-pharmacodynamics-of-paracetamol-in-malaysian.md"
+  },
+  "PMx_Development_of_an_AgentBased_Model_to_In_20260711": {
+    "title": "Development of an Agent-Based Model to Investigate Durability of Factor IX Activity in Hemophilia B Patients Treated With Etranacogene Dezaparvovec",
+    "date": "2026-07-11",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-11-development-of-an-agent-based-model-to-investigate-durability-of-factor-ix.md"
   }
 }
