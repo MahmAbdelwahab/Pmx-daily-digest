@@ -2125,5 +2125,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-11-development-of-an-agent-based-model-to-investigate-durability-of-factor-ix.md"
+  },
+  "PMx_PMXCovEval_A_Framework_Including_a_Simul_20260712": {
+    "title": "PMX-CovEval: A Framework Including a Simulated Pharmacokinetic Database for Covariate Model Building Methods Benchmarking",
+    "date": "2026-07-12",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "covariate-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-12-pmx-coveval-a-framework-including-a-simulated-pharmacokinetic-database-for.md"
   }
 }
