@@ -2136,5 +2136,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-12-pmx-coveval-a-framework-including-a-simulated-pharmacokinetic-database-for.md"
+  },
+  "PMx_The_Empirical_Bayes_Variational_Autoenco_20260713": {
+    "title": "The Empirical Bayes Variational Autoencoder\u2014A Neural ODE Approach for Population Modeling in Pharmacology",
+    "date": "2026-07-13",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-13-the-empirical-bayes-variational-autoencodera-neural-ode-approach-for-population.md"
   }
 }
