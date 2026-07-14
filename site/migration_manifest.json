@@ -2146,5 +2146,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-13-the-empirical-bayes-variational-autoencodera-neural-ode-approach-for-population.md"
+  },
+  "PMx_PK_and_PKPD_Modeling_of_Bcl2_Inhibitor_S_20260714": {
+    "title": "PK and PK/PD Modeling of Bcl2 Inhibitor S65487 in Patients With AML and Investigation of Nonlinearity With Microdosing",
+    "date": "2026-07-14",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-14-pk-and-pkpd-modeling-of-bcl2-inhibitor-s65487-in-patients-with-aml-and.md"
   }
 }
