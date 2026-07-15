@@ -2154,5 +2154,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-14-pk-and-pkpd-modeling-of-bcl2-inhibitor-s65487-in-patients-with-aml-and.md"
+  },
+  "PMx_A_Longitudinal_Disease_Progression_Model_20260715": {
+    "title": "A Longitudinal Disease Progression Model Characterizing Endoscopic Response and Remission in Crohn\u2019s Disease",
+    "date": "2026-07-15",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-15-a-longitudinal-disease-progression-model-characterizing-endoscopic-response-and.md"
   }
 }
