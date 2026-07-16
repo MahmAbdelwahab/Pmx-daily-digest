@@ -2164,5 +2164,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-15-a-longitudinal-disease-progression-model-characterizing-endoscopic-response-and.md"
+  },
+  "PMx_Model_Ensembling_and_Machine_Learning_Ap_20260716": {
+    "title": "Model Ensembling and Machine Learning Approaches to Predict the First Dose of Amoxicillin in Intensive Care",
+    "date": "2026-07-16",
+    "paper_type": "popk",
+    "topic_tags": [
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-16-model-ensembling-and-machine-learning-approaches-to-predict-the-first-dose-of.md"
   }
 }
