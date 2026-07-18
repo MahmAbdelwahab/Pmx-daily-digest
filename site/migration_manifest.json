@@ -2182,5 +2182,17 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-17-a-combined-experimental-and-predictive-modeling-study-of-diltiazem-release-from.md"
+  },
+  "PMx_Current_StateoftheArt_and_Future_Advance_20260718": {
+    "title": "Current State-of-the-Art and Future Advancements of Model-Based Meta-Analysis",
+    "date": "2026-07-18",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "covariate-analysis",
+      "regulatory",
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-18-current-state-of-the-art-and-future-advancements-of-model-based-meta-analysis.md"
   }
 }
