@@ -2194,5 +2194,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-18-current-state-of-the-art-and-future-advancements-of-model-based-meta-analysis.md"
+  },
+  "PMx_The_evolution_of_nonlinear_mixed_effects_20260719": {
+    "title": "The evolution of nonlinear mixed effects modeling in pharmacometrics: toward AI-based variational autoencoders",
+    "date": "2026-07-19",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-19-the-evolution-of-nonlinear-mixed-effects-modeling-in-pharmacometrics-toward-ai.md"
   }
 }
