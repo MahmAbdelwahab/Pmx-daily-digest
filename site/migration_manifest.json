@@ -2202,5 +2202,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-19-the-evolution-of-nonlinear-mixed-effects-modeling-in-pharmacometrics-toward-ai.md"
+  },
+  "PMx_Polymyxin_B_Intravenous_Administration_S_20260720": {
+    "title": "Polymyxin B Intravenous Administration Strategy Guided by Minimum Inhibitory Concentration in Critically Ill Patients With Pulmonary Infection: Insights From PBPK Modeling",
+    "date": "2026-07-20",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-20-polymyxin-b-intravenous-administration-strategy-guided-by-minimum-inhibitory.md"
   }
 }
