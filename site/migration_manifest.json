@@ -2212,5 +2212,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-20-polymyxin-b-intravenous-administration-strategy-guided-by-minimum-inhibitory.md"
+  },
+  "PMx_A_simple_algebraic_expression_can_determ_20260721": {
+    "title": "A simple algebraic expression can determine if a drug's clearance is non-specific or target-mediated",
+    "date": "2026-07-21",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-21-a-simple-algebraic-expression-can-determine-if-a-drugs-clearance-is-non.md"
   }
 }
