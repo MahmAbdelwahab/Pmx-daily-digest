@@ -2220,5 +2220,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-21-a-simple-algebraic-expression-can-determine-if-a-drugs-clearance-is-non.md"
+  },
+  "PMx_On_the_structural_identifiability_of_non_20260722": {
+    "title": "On the structural identifiability of nonlinear models of ligand binding dynamics",
+    "date": "2026-07-22",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-22-on-the-structural-identifiability-of-nonlinear-models-of-ligand-binding-dynamics.md"
   }
 }
