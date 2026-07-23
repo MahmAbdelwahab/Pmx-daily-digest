@@ -2228,5 +2228,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-22-on-the-structural-identifiability-of-nonlinear-models-of-ligand-binding-dynamics.md"
+  },
+  "PMx_QSP_model_for_AAVmediated_antibody_deliv_20260723": {
+    "title": "QSP model for AAV-mediated antibody delivery in rat brain",
+    "date": "2026-07-23",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-23-qsp-model-for-aav-mediated-antibody-delivery-in-rat-brain.md"
   }
 }
