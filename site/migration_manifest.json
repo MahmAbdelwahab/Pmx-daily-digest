@@ -2238,5 +2238,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-23-qsp-model-for-aav-mediated-antibody-delivery-in-rat-brain.md"
+  },
+  "PMx_Cohort_population_analysis_of_sparse_dat_20260724": {
+    "title": "Cohort population analysis of sparse data: Dexamethasone pharmacokinetics in mother and fetus based on blood sampling at birth",
+    "date": "2026-07-24",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-24-cohort-population-analysis-of-sparse-data-dexamethasone-pharmacokinetics-in.md"
   }
 }
