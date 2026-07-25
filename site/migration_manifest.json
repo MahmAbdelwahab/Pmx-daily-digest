@@ -2246,5 +2246,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-24-cohort-population-analysis-of-sparse-data-dexamethasone-pharmacokinetics-in.md"
+  },
+  "PMx_Optimizing_Subcutaneous_Antibody_Dosing__20260725": {
+    "title": "Optimizing Subcutaneous Antibody Dosing Regimens Through Operating Space Maps: rHuPH20 Case Study",
+    "date": "2026-07-25",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-25-optimizing-subcutaneous-antibody-dosing-regimens-through-operating-space-maps.md"
   }
 }
