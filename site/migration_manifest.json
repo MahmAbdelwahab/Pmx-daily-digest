@@ -2353,5 +2353,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-ai-for-nonmem-coding-in-pharmacometrics-research-and-education-shortcut-or.md"
+  },
+  "PMx_Redefining_Parameter_Estimation_and_Cova_20260726": {
+    "title": "Redefining Parameter Estimation and Covariate Selection via Variational Autoencoders: One Run Is All You Need",
+    "date": "2026-07-26",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-redefining-parameter-estimation-and-covariate-selection-via-variational.md"
   }
 }
