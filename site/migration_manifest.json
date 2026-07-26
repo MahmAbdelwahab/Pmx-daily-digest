@@ -2363,5 +2363,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-redefining-parameter-estimation-and-covariate-selection-via-variational.md"
+  },
+  "PMx_LSTMBased_Prediction_of_Human_PK_Profile_20260726": {
+    "title": "LSTM-Based Prediction of Human PK Profiles and Parameters for Intravenous Small Molecule Drugs Using ADME and Physicochemical Properties",
+    "date": "2026-07-26",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-lstm-based-prediction-of-human-pk-profiles-and-parameters-for-intravenous-small.md"
   }
 }
