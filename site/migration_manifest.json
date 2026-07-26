@@ -2275,5 +2275,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-exposure-response-analysis-for-time-to-event-data-in-the-presence-of-adaptive.md"
+  },
+  "PMx_PhysiologicallyBased_Pharmacokinetic_Mod_20260726": {
+    "title": "Physiologically-Based Pharmacokinetic Modeling to Support Pediatric Clinical Development: An IQ Working Group Perspective on the Current Status and Challenges",
+    "date": "2026-07-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-physiologically-based-pharmacokinetic-modeling-to-support-pediatric-clinical.md"
   }
 }
