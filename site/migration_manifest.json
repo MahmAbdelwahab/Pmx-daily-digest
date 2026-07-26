@@ -2265,5 +2265,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-exposure-efficacy-meta-model-of-nintedanib-in-adult-patients-with-chronic.md"
+  },
+  "PMx_ExposureResponse_Analysis_for_TimetoEven_20260726": {
+    "title": "Exposure-Response Analysis for Time-to-Event Data in the Presence of Adaptive Dosing: Efficient Approaches and Pitfalls",
+    "date": "2026-07-26",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-exposure-response-analysis-for-time-to-event-data-in-the-presence-of-adaptive.md"
   }
 }
