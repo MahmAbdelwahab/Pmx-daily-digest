@@ -2254,5 +2254,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-25-optimizing-subcutaneous-antibody-dosing-regimens-through-operating-space-maps.md"
+  },
+  "PMx_ExposureEfficacy_MetaModel_of_Nintedanib_20260726": {
+    "title": "Exposure-Efficacy Meta-Model of Nintedanib in Adult Patients With Chronic Fibrosing Interstitial Lung Diseases",
+    "date": "2026-07-26",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics",
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-exposure-efficacy-meta-model-of-nintedanib-in-adult-patients-with-chronic.md"
   }
 }
