@@ -2337,5 +2337,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-building-hybrid-pharmacometric-machine-learning-models-in-oncology-drug.md"
+  },
+  "PMx_Predictors_of_Ability_to_Work_in_Multipl_20260726": {
+    "title": "Predictors of Ability to Work in Multiple Sclerosis",
+    "date": "2026-07-26",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-predictors-of-ability-to-work-in-multiple-sclerosis.md"
   }
 }
