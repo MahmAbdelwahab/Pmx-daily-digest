@@ -2315,5 +2315,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-differential-expression-of-monoclonal-antibody-in-rat-brain-following-systemic.md"
+  },
+  "PMx_Predictive_AI_in_Clinical_Pharmacology_A_20260726": {
+    "title": "Predictive AI in Clinical Pharmacology: A Call to Action to Develop Robust Benchmarking Practices",
+    "date": "2026-07-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-predictive-ai-in-clinical-pharmacology-a-call-to-action-to-develop-robust.md"
   }
 }
