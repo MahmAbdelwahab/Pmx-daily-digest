@@ -2325,5 +2325,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-predictive-ai-in-clinical-pharmacology-a-call-to-action-to-develop-robust.md"
+  },
+  "PMx_Building_Hybrid_PharmacometricMachine_Le_20260726": {
+    "title": "Building Hybrid Pharmacometric-Machine Learning Models in Oncology Drug Development: Current State and Recommendations",
+    "date": "2026-07-26",
+    "paper_type": "generic",
+    "topic_tags": [
+      "oncology",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-building-hybrid-pharmacometric-machine-learning-models-in-oncology-drug.md"
   }
 }
