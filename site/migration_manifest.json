@@ -2297,5 +2297,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-from-radiocopper-to-cold-copper-mechanistic-modeling-and-simulation-to-define.md"
+  },
+  "PMx_Neural_Controlled_Differential_Equation__20260726": {
+    "title": "Neural Controlled Differential Equation and Its Application in Pharmacokinetics and Pharmacodynamics",
+    "date": "2026-07-26",
+    "paper_type": "ai-ml",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-26-neural-controlled-differential-equation-and-its-application-in-pharmacokinetics.md"
   }
 }
