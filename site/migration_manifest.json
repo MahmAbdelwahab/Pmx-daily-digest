@@ -2384,5 +2384,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-26-application-of-physiologically-based-pharmacokinetic-modeling-to-predict-cyp3a4.md"
+  },
+  "PMx_The_Evolving_Role_of_InVitroIn_Vivo_Corr_20260727": {
+    "title": "The Evolving Role of In Vitro\u2013In Vivo Correlation in Model-Informed Drug Development: A Multi-Stakeholder Perspective",
+    "date": "2026-07-27",
+    "paper_type": "generic",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-27-the-evolving-role-of-in-vitroin-vivo-correlation-in-model-informed-drug.md"
   }
 }
