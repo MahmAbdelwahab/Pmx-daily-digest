@@ -2394,5 +2394,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-27-the-evolving-role-of-in-vitroin-vivo-correlation-in-model-informed-drug.md"
+  },
+  "PMx_Comparative_Analysis_of_Isavuconazole_DD_20260728": {
+    "title": "Comparative Analysis of Isavuconazole DDIs With Other Azole Antifungal Drugs and PBPK Model-Informed Dosing Recommendations for Anticancer Drugs",
+    "date": "2026-07-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-28-comparative-analysis-of-isavuconazole-ddis-with-other-azole-antifungal-drugs.md"
   }
 }
