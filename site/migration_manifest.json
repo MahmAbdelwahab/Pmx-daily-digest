@@ -2405,5 +2405,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-28-comparative-analysis-of-isavuconazole-ddis-with-other-azole-antifungal-drugs.md"
+  },
+  "PMx_Optimizing_Ibrutinib_Posology_in_Chronic_20260729": {
+    "title": "Optimizing Ibrutinib Posology in Chronic Lymphocytic Leukemia Using a Semi-Mechanistic Pharmacometric Framework",
+    "date": "2026-07-29",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-29-optimizing-ibrutinib-posology-in-chronic-lymphocytic-leukemia-using-a-semi.md"
   }
 }
