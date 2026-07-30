@@ -2416,5 +2416,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-29-optimizing-ibrutinib-posology-in-chronic-lymphocytic-leukemia-using-a-semi.md"
+  },
+  "PMx_A_StepbyStep_Workflow_for_Performing_In__20260730": {
+    "title": "A Step-by-Step Workflow for Performing In Silico Clinical Trials With Nonlinear Mixed Effects Models",
+    "date": "2026-07-30",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-30-a-step-by-step-workflow-for-performing-in-silico-clinical-trials-with-nonlinear.md"
   }
 }
