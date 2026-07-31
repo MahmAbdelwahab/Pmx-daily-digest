@@ -2427,5 +2427,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-30-a-step-by-step-workflow-for-performing-in-silico-clinical-trials-with-nonlinear.md"
+  },
+  "PMx_A_Unified_Whole_Lung_PBK_Model_for_Inhal_20260731": {
+    "title": "A Unified Whole Lung PBK Model for Inhalational Uptake of Gases and Aerosols in Men",
+    "date": "2026-07-31",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-07-31-a-unified-whole-lung-pbk-model-for-inhalational-uptake-of-gases-and-aerosols-in.md"
   }
 }
