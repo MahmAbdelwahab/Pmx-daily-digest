@@ -2435,5 +2435,28 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-07-31-a-unified-whole-lung-pbk-model-for-inhalational-uptake-of-gases-and-aerosols-in.md"
+  },
+  "PMx_Machine_Learning_Enables_Rapid_Predictio_20260803": {
+    "title": "Machine Learning Enables Rapid Prediction of Acid-Reducing Agent Drug Interactions: A Streamlined Complement to PBPK Modeling",
+    "date": "2026-08-03",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "pbpk",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-03-machine-learning-enables-rapid-prediction-of-acid-reducing-agent-drug.md"
+  },
+  "PMx_Utilizing_Virtual_Clinical_Trials_to_Inf_20260803": {
+    "title": "Utilizing Virtual Clinical Trials to Inform Target Coverage That Drives RSV Antiviral Efficacy",
+    "date": "2026-08-03",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "pediatrics",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-03-utilizing-virtual-clinical-trials-to-inform-target-coverage-that-drives-rsv.md"
   }
 }
