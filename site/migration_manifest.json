@@ -2458,5 +2458,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-03-utilizing-virtual-clinical-trials-to-inform-target-coverage-that-drives-rsv.md"
+  },
+  "PMx_Bayesian_Workflow_for_Minimal_PBPK_Model_20260804": {
+    "title": "Bayesian Workflow for Minimal PBPK Models: Case Study of Dapagliflozin",
+    "date": "2026-08-04",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-04-bayesian-workflow-for-minimal-pbpk-models-case-study-of-dapagliflozin.md"
   }
 }
