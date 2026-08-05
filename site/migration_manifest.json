@@ -2468,5 +2468,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-04-bayesian-workflow-for-minimal-pbpk-models-case-study-of-dapagliflozin.md"
+  },
+  "PMx_Structured_Schemas_for_ProvenanceRich_LL_20260805": {
+    "title": "Structured Schemas for Provenance-Rich, LLM-Assisted QSP Model Calibration",
+    "date": "2026-08-05",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-05-structured-schemas-for-provenance-rich-llm-assisted-qsp-model-calibration.md"
   }
 }
