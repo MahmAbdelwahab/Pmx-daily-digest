@@ -2478,5 +2478,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-05-structured-schemas-for-provenance-rich-llm-assisted-qsp-model-calibration.md"
+  },
+  "PMx_Beyond_Traditional_Covariates_An_Interpr_20260806": {
+    "title": "Beyond Traditional Covariates: An Interpretable Machine Learning Workflow for Improved Hybrid Pharmacometric Modeling",
+    "date": "2026-08-06",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "covariate-analysis",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-06-beyond-traditional-covariates-an-interpretable-machine-learning-workflow-for.md"
   }
 }
