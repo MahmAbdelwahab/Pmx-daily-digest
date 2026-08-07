@@ -2489,5 +2489,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-06-beyond-traditional-covariates-an-interpretable-machine-learning-workflow-for.md"
+  },
+  "PMx_Refinement_of_Operating_Characteristics__20260807": {
+    "title": "Refinement of Operating Characteristics for Model-Based TGI Metrics Decision Support to Ungate a Pivotal Trial in Oncology",
+    "date": "2026-08-07",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-07-refinement-of-operating-characteristics-for-model-based-tgi-metrics-decision.md"
   }
 }
