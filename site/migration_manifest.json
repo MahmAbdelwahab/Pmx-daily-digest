@@ -2499,5 +2499,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-07-refinement-of-operating-characteristics-for-model-based-tgi-metrics-decision.md"
+  },
+  "PMx_Context_Engineering_for_AIAssisted_Pharm_20260808": {
+    "title": "Context Engineering for AI-Assisted Pharmacometrics: A Practical Tutorial",
+    "date": "2026-08-08",
+    "paper_type": "ai-ml",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-08-context-engineering-for-ai-assisted-pharmacometrics-a-practical-tutorial.md"
   }
 }
