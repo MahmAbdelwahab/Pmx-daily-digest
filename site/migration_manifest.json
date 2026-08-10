@@ -2517,5 +2517,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-09-sex-related-differences-in-physiologically-based-biopharmaceutics-modeling.md"
+  },
+  "PMx_DDIappA_WebBased_Application_for_Static__20260810": {
+    "title": "DDIapp\u2014A Web-Based Application for Static Drug\u2013Drug Interaction Assessment",
+    "date": "2026-08-10",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-10-ddiappa-web-based-application-for-static-drugdrug-interaction-assessment.md"
   }
 }
