@@ -2545,5 +2545,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-15-reliable-apparent-permeability-prediction-through-benchmarking-stability.md"
+  },
+  "PMx_RelevanceBased_Score_for_MIPD_Model_Sele_20260816": {
+    "title": "Relevance-Based Score for MIPD Model Selection: Systematic Review and External Evaluation of popPK Tacrolimus Models in Adult Transplant Recipients",
+    "date": "2026-08-16",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-16-relevance-based-score-for-mipd-model-selection-systematic-review-and-external.md"
   }
 }
