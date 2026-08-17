@@ -2553,5 +2553,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-16-relevance-based-score-for-mipd-model-selection-systematic-review-and-external.md"
+  },
+  "PMx_Modeling_Treatment_Response_in_Tuberculo_20260817": {
+    "title": "Modeling Treatment Response in Tuberculosis Early Bactericidal Activity Trials",
+    "date": "2026-08-17",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-17-modeling-treatment-response-in-tuberculosis-early-bactericidal-activity-trials.md"
   }
 }
