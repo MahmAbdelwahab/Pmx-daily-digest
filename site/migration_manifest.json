@@ -2563,5 +2563,44 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-17-modeling-treatment-response-in-tuberculosis-early-bactericidal-activity-trials.md"
+  },
+  "PMx_A_Systematic_Review_of_Published_Physiol_20260820": {
+    "title": "A Systematic Review of Published Physiologically Based Pharmacokinetic Models for Drug Excretion Into Human Breastmilk: Knowledge Gaps and Opportunities to Optimize Reporting and Modeling Practices",
+    "date": "2026-08-20",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-20-a-systematic-review-of-published-physiologically-based-pharmacokinetic-models.md"
+  },
+  "PMx_Modeling_Treatment_Response_in_Tuberculo_20260819": {
+    "title": "Modeling Treatment Response in Tuberculosis Early Bactericidal Activity Trials",
+    "date": "2026-08-19",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-19-modeling-treatment-response-in-tuberculosis-early-bactericidal-activity-trials.md"
+  },
+  "PMx_Physiologically_Based_Pharmacokinetic_Mo_20260819": {
+    "title": "Physiologically Based Pharmacokinetic Model of Brigatinib in Healthy Volunteers and Patients With Cancer",
+    "date": "2026-08-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-19-physiologically-based-pharmacokinetic-model-of-brigatinib-in-healthy-volunteers.md"
+  },
+  "PMx_Using_Stochastic_SimulationEstimation_an_20260820": {
+    "title": "Using Stochastic Simulation-Estimation and Automated Model Development to Assess Power and Accuracy for Covariate Identification",
+    "date": "2026-08-20",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-20-using-stochastic-simulation-estimation-and-automated-model-development-to.md"
   }
 }
