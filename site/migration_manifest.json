@@ -2602,5 +2602,35 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-20-using-stochastic-simulation-estimation-and-automated-model-development-to.md"
+  },
+  "PMx_A_Systematic_Review_of_Published_Physiol_20260821": {
+    "title": "A Systematic Review of Published Physiologically Based Pharmacokinetic Models for Drug Excretion Into Human Breastmilk: Knowledge Gaps and Opportunities to Optimize Reporting and Modeling Practices",
+    "date": "2026-08-21",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-21-a-systematic-review-of-published-physiologically-based-pharmacokinetic-models.md"
+  },
+  "PMx_Application_of_PopulationBased_MetaHeuri_20260821": {
+    "title": "Application of Population-Based Meta-Heuristic Algorithms for Robust Initialization in Mechanistic Pharmacometric Modeling",
+    "date": "2026-08-21",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-21-application-of-population-based-meta-heuristic-algorithms-for-robust.md"
+  },
+  "PMx_PostMarketing_Requirements_for_Anticance_20260821": {
+    "title": "Characterization of post-marketing requirements for anticancer drugs approved in Japan: A cross-sectional study",
+    "date": "2026-08-21",
+    "paper_type": "generic",
+    "topic_tags": [
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-21-characterization-of-post-marketing-requirements-for-anticancer-drugs-approved.md"
   }
 }
