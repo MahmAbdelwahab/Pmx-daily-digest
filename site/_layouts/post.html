@@ -8,15 +8,27 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
       {% if page.authors %}<span class="authors">{{ page.authors }}</span>{% endif %}
       {% if page.journal %}<span class="journal">{{ page.journal }}</span>{% endif %}
-      {% if page.doi %}<span class="doi"><a href="{{ page.doi }}">DOI</a></span>{% endif %}
+      {% assign doi = page.doi | default: '' | strip %}
+      {% assign normalized_doi = doi | downcase %}
+      {% assign doi_https_prefix = normalized_doi | slice: 0, 8 %}
+      {% assign doi_http_prefix = normalized_doi | slice: 0, 7 %}
+      {% if doi != empty and normalized_doi != 'n/a' and normalized_doi != 'na' %}
+        <span class="doi"><a href="{% if doi_https_prefix == 'https://' or doi_http_prefix == 'http://' %}{{ doi }}{% else %}https://doi.org/{{ doi }}{% endif %}">DOI</a></span>
+      {% endif %}
     </div>
     <div class="post-tags">
       {% if page.paper_type %}
-        <span class="tag tag-paper-type"><a href="{{ '/tags/' | append: page.paper_type | append: '/' | relative_url }}">{{ page.paper_type }}</a></span>
+        {% assign paper_type_path = '/tags/' | append: page.paper_type | append: '/' %}
+        {% assign paper_type_page_exists = false %}
+        {% for tag_page in site.pages %}{% if tag_page.dir == paper_type_path %}{% assign paper_type_page_exists = true %}{% endif %}{% endfor %}
+        <span class="tag tag-paper-type">{% if paper_type_page_exists %}<a href="{{ paper_type_path | relative_url }}">{{ page.paper_type }}</a>{% else %}{{ page.paper_type }}{% endif %}</span>
       {% endif %}
       {% for tag in page.tags %}
         {% unless tag == page.paper_type %}
-        <span class="tag tag-topic"><a href="{{ '/tags/' | append: tag | append: '/' | relative_url }}">{{ tag }}</a></span>
+        {% assign tag_path = '/tags/' | append: tag | append: '/' %}
+        {% assign tag_page_exists = false %}
+        {% for tag_page in site.pages %}{% if tag_page.dir == tag_path %}{% assign tag_page_exists = true %}{% endif %}{% endfor %}
+        <span class="tag tag-topic">{% if tag_page_exists %}<a href="{{ tag_path | relative_url }}">{{ tag }}</a>{% else %}{{ tag }}{% endif %}</span>
         {% endunless %}
       {% endfor %}
     </div>
