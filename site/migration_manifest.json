@@ -2632,5 +2632,12 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-21-characterization-of-post-marketing-requirements-for-anticancer-drugs-approved.md"
+  },
+  "PMx_Application_of_PopulationBased_MetaHeuri_20260822": {
+    "title": "Application of Population-Based Meta-Heuristic Algorithms for Robust Initialization in Mechanistic Pharmacometric Modeling",
+    "date": "2026-08-22",
+    "doi": "10.1002/psp4.70301",
+    "status": "skipped_duplicate",
+    "duplicate_of": "_posts/2026-08-21-application-of-population-based-meta-heuristic-algorithms-for-robust.md"
   }
 }
