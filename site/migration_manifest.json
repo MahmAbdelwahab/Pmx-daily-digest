@@ -2646,5 +2646,16 @@
     "doi": "10.1002/psp4.70309",
     "status": "skipped_duplicate",
     "duplicate_of": "_posts/2026-08-21-characterization-of-post-marketing-requirements-for-anticancer-drugs-approved.md"
+  },
+  "PMx_Extrapolating_VincristineInduced_Periphe_20260825": {
+    "title": "Extrapolating Vincristine-Induced Peripheral Neuropathy From Caucasian to Kenyan Populations: Impact of Type I and Type II Selection Bias",
+    "date": "2026-08-25",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-25-extrapolating-vincristine-induced-peripheral-neuropathy-from-caucasian-to.md"
   }
 }
