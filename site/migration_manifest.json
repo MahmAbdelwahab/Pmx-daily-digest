@@ -2657,5 +2657,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-25-extrapolating-vincristine-induced-peripheral-neuropathy-from-caucasian-to.md"
+  },
+  "PMx_Diffusion_models_for_virtual_populations_20260826": {
+    "title": "Diffusion models for virtual populations and pharmacometric simulations",
+    "date": "2026-08-26",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "digital-twins"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-26-diffusion-models-for-virtual-populations-and-pharmacometric-simulations.md"
   }
 }
