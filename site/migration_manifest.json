@@ -2667,5 +2667,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-26-diffusion-models-for-virtual-populations-and-pharmacometric-simulations.md"
+  },
+  "PMx_Strategies_for_pediatric_dose_derivation_20260827": {
+    "title": "Strategies for pediatric dose derivation from population pharmacokinetic models",
+    "date": "2026-08-27",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-27-strategies-for-pediatric-dose-derivation-from-population-pharmacokinetic-models.md"
   }
 }
