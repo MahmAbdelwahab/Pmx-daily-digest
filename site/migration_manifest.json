@@ -2677,5 +2677,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-27-strategies-for-pediatric-dose-derivation-from-population-pharmacokinetic-models.md"
+  },
+  "PMx_Tracer_kinetic_modeling_of_a_14_kDa_anti_20260828": {
+    "title": "Tracer kinetic modeling of a 14 kDa anti-CD8 PET tracer (2C8v144) for in vivo estimation of CD8 expression in tissue and blood, binding affinity, and total body receptor occupancy",
+    "date": "2026-08-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-28-tracer-kinetic-modeling-of-a-14-kda-anti-cd8-pet-tracer-2c8v144-for-in-vivo.md"
   }
 }
