@@ -2687,5 +2687,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-28-tracer-kinetic-modeling-of-a-14-kda-anti-cd8-pet-tracer-2c8v144-for-in-vivo.md"
+  },
+  "PMx_Population_Pharmacokinetic_and_Pharmacod_20260829": {
+    "title": "Population Pharmacokinetic and Pharmacodynamic Modeling for the Prediction of the Extended Amlitelimab Phase 3 Dosing Regimen in Atopic Dermatitis",
+    "date": "2026-08-29",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-29-population-pharmacokinetic-and-pharmacodynamic-modeling-for-the-prediction-of.md"
   }
 }
