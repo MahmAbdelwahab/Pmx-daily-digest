@@ -2698,5 +2698,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-29-population-pharmacokinetic-and-pharmacodynamic-modeling-for-the-prediction-of.md"
+  },
+  "PMx_A_Physiologically_Based_Pharmacokinetic__20260830": {
+    "title": "A Physiologically Based Pharmacokinetic Model to Predict Potential Drug\u2013Drug Interactions of TPN171, a Novel Phosphodiesterase Type 5 Inhibitor",
+    "date": "2026-08-30",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-30-a-physiologically-based-pharmacokinetic-model-to-predict-potential-drugdrug.md"
   }
 }
