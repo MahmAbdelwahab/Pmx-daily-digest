@@ -2708,5 +2708,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-08-30-a-physiologically-based-pharmacokinetic-model-to-predict-potential-drugdrug.md"
+  },
+  "PMx_Population_Pharmacokinetic_Analysis_of_D_20260831": {
+    "title": "Population Pharmacokinetic Analysis of Datopotamab Deruxtecan and DXd in Patients with Advanced Solid Tumors",
+    "date": "2026-08-31",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-08-31-population-pharmacokinetic-analysis-of-datopotamab-deruxtecan-and-dxd-in.md"
   }
 }
