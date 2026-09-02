@@ -2724,5 +2724,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-01-a-generalization-of-the-ternary-binding-model-to-membrane-confined-systems-with.md"
+  },
+  "PMx_The_95_CDIRAs_a_Credible_Interval_Based__20260902": {
+    "title": "The 95% CDIRAs, a Credible Interval Based Method to Capture Uncertainty in Population Modeling: Pharmacokinetics Versus Sum of Exponentials Case Study",
+    "date": "2026-09-02",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-02-the-95-cdiras-a-credible-interval-based-method-to-capture-uncertainty-in.md"
   }
 }
