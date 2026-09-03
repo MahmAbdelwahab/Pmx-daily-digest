@@ -2732,5 +2732,19 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-02-the-95-cdiras-a-credible-interval-based-method-to-capture-uncertainty-in.md"
+  },
+  "PMx_ModelInformed_Drug_Development_for_Ligel_20260903": {
+    "title": "Model-Informed Drug Development for Ligelizumab in Patients With Chronic Spontaneous Urticaria",
+    "date": "2026-09-03",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "pediatrics",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-03-model-informed-drug-development-for-ligelizumab-in-patients-with-chronic.md"
   }
 }
