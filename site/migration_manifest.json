@@ -2746,5 +2746,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-03-model-informed-drug-development-for-ligelizumab-in-patients-with-chronic.md"
+  },
+  "PMx_Adjoint_and_Unrolled_Automatic_Different_20260904": {
+    "title": "Adjoint and Unrolled Automatic Differentiation for Laplace-Approximated Likelihoods in Population PK and PK/PD Models",
+    "date": "2026-09-04",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-04-adjoint-and-unrolled-automatic-differentiation-for-laplace-approximated.md"
   }
 }
