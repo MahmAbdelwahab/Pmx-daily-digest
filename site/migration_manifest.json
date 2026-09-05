@@ -2754,5 +2754,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-04-adjoint-and-unrolled-automatic-differentiation-for-laplace-approximated.md"
+  },
+  "PMx_Using_Virtual_Patients_to_Evaluate_Dosin_20260905": {
+    "title": "Using Virtual Patients to Evaluate Dosing Strategies for Bispecifics With a Bell-Shaped Efficacy Curve",
+    "date": "2026-09-05",
+    "paper_type": "popk",
+    "topic_tags": [
+      "digital-twins",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-05-using-virtual-patients-to-evaluate-dosing-strategies-for-bispecifics-with-a.md"
   }
 }
