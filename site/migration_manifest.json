@@ -2776,5 +2776,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-06-semi-mechanistic-modeling-of-s-531011-a-humanized-anti-ccr8-monoclonal-antibody.md"
+  },
+  "PMx_Pharmaceutical_Industry_Perspectives_on__20260906": {
+    "title": "Pharmaceutical Industry Perspectives on Exposure-Response Confounding in Large Molecule Therapeutics: Results From an IQ Consortium Survey",
+    "date": "2026-09-06",
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-06-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
   }
 }
