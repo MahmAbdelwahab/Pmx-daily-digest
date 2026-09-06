@@ -2765,5 +2765,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-05-using-virtual-patients-to-evaluate-dosing-strategies-for-bispecifics-with-a.md"
+  },
+  "PMx_SemiMechanistic_Modeling_of_S531011_a_Hu_20260906": {
+    "title": "Semi-Mechanistic Modeling of S-531011, a Humanized Anti-CCR8 Monoclonal Antibody, for Prediction of CCR8 Receptor Occupancy in Human Tumor Tissues",
+    "date": "2026-09-06",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-06-semi-mechanistic-modeling-of-s-531011-a-humanized-anti-ccr8-monoclonal-antibody.md"
   }
 }
