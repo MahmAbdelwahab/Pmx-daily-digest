@@ -2788,5 +2788,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-06-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
+  },
+  "PMx_Construction_of_a_translational_wholebod_20260907": {
+    "title": "A Translational Whole-Body PBPK Model for mRNA-LNP Therapeutics: Mechanistic Endothelial Transport, Intracellular Processing, and Cross-Species Scaling",
+    "date": "2026-09-07",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-07-a-translational-whole-body-pbpk-model-for-mrna-lnp-therapeutics-mechanistic.md"
   }
 }
