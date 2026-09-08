@@ -2798,5 +2798,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-07-a-translational-whole-body-pbpk-model-for-mrna-lnp-therapeutics-mechanistic.md"
+  },
+  "PMx_Precision_Dosing_of_Tacrolimus_in_Liver__20260908": {
+    "title": "Precision Dosing of Tacrolimus in Liver Transplantation: Integrating Donor-Recipient CYP3A5 Pharmacogenomics and Drug Interactions",
+    "date": "2026-09-08",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-08-precision-dosing-of-tacrolimus-in-liver-transplantation-integrating-donor.md"
   }
 }
