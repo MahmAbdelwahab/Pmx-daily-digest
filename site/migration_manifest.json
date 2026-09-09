@@ -2808,5 +2808,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-08-precision-dosing-of-tacrolimus-in-liver-transplantation-integrating-donor.md"
+  },
+  "PMx_Net_Renal_Drug_Secretion_Critically_Requ_20260909": {
+    "title": "Net Renal Drug Secretion Critically Requires Significant Contribution of Basal Uptake Transporters: Perspective From Mechanistic Kidney Model Simulation and Integration of Clinical and In Vitro Data",
+    "date": "2026-09-09",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-09-net-renal-drug-secretion-critically-requires-significant-contribution-of-basal.md"
   }
 }
