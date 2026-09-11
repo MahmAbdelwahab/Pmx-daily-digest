@@ -2818,5 +2818,18 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-09-net-renal-drug-secretion-critically-requires-significant-contribution-of-basal.md"
+  },
+  "PMx_Population_Pharmacokinetic_Analysis_of_B_20260911": {
+    "title": "Population Pharmacokinetic Analysis of Brensocatib",
+    "date": "2026-09-11",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "covariate-analysis",
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-11-population-pharmacokinetic-analysis-of-brensocatib.md"
   }
 }
