@@ -2831,5 +2831,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-11-population-pharmacokinetic-analysis-of-brensocatib.md"
+  },
+  "PMx_ModelBased_Tacrolimus_Dosing_Using_the_P_20260912": {
+    "title": "Model-Based Tacrolimus Dosing Using the PBPK Approach: Optimizing Immediate-Release and Extended-Release Formulation Strategies",
+    "date": "2026-09-12",
+    "paper_type": "pbpk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-12-model-based-tacrolimus-dosing-using-the-pbpk-approach-optimizing-immediate.md"
   }
 }
