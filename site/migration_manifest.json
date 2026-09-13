@@ -2841,5 +2841,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-12-model-based-tacrolimus-dosing-using-the-pbpk-approach-optimizing-immediate.md"
+  },
+  "PMx_A_Practical_Alternative_to_Refine_the_Es_20260913": {
+    "title": "A Practical Alternative to Refine the Estimate of fmCYP3A4 and Evaluate Drug\u2013Drug Interaction Potential for Ziftomenib Using PBPK Modeling to Inform Labeling",
+    "date": "2026-09-13",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-13-a-practical-alternative-to-refine-the-estimate-of-fmcyp3a4-and-evaluate.md"
   }
 }
