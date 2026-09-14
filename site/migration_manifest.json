@@ -2853,5 +2853,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-13-a-practical-alternative-to-refine-the-estimate-of-fmcyp3a4-and-evaluate.md"
+  },
+  "PMx_Integrating_CRRT_as_a_Virtual_Organ_Into_20260914": {
+    "title": "Integrating CRRT as a Virtual Organ Into Physiologically Based Pharmacokinetic Modeling to Optimize Antimicrobial Dosing in Septic Patients",
+    "date": "2026-09-14",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-14-integrating-crrt-as-a-virtual-organ-into-physiologically-based-pharmacokinetic.md"
   }
 }
