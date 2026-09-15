@@ -2863,5 +2863,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-14-integrating-crrt-as-a-virtual-organ-into-physiologically-based-pharmacokinetic.md"
+  },
+  "PMx_Development_of_Integrated_ParentMetaboli_20260915": {
+    "title": "Development of Integrated Parent-Metabolite Population Pharmacokinetic Model",
+    "date": "2026-09-15",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-15-development-of-integrated-parent-metabolite-population-pharmacokinetic-model.md"
   }
 }
