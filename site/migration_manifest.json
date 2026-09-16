@@ -2873,5 +2873,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-15-development-of-integrated-parent-metabolite-population-pharmacokinetic-model.md"
+  },
+  "PMx_SemiMechanistic_Joint_Population_Pharmac_20260916": {
+    "title": "Semi-Mechanistic Joint Population Pharmacokinetic Modeling of the Novel Antituberculosis Drug Sorfequiline",
+    "date": "2026-09-16",
+    "paper_type": "popk",
+    "topic_tags": [
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-16-semi-mechanistic-joint-population-pharmacokinetic-modeling-of-the-novel.md"
   }
 }
