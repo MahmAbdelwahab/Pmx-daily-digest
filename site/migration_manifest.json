@@ -2883,5 +2883,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-16-semi-mechanistic-joint-population-pharmacokinetic-modeling-of-the-novel.md"
+  },
+  "PMx_TransporterDrive_Interstitial_Tissue_Exp_20260917": {
+    "title": "Transporter-Drive Interstitial Tissue Exposure and Pharmacodynamic Response of Meropenem in Sepsis: A Mechanistic PBPK Modeling Study",
+    "date": "2026-09-17",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-17-transporter-drive-interstitial-tissue-exposure-and-pharmacodynamic-response-of.md"
   }
 }
