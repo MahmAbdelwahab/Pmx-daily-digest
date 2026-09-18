@@ -2893,5 +2893,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-17-transporter-drive-interstitial-tissue-exposure-and-pharmacodynamic-response-of.md"
+  },
+  "PMx_Application_of_Physiologically_Based_Pha_20260918": {
+    "title": "Application of Physiologically Based Pharmacokinetic Modeling to Optimize Assessment of Age-Related Fluoxetine Accumulation in the Elderly",
+    "date": "2026-09-18",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-18-application-of-physiologically-based-pharmacokinetic-modeling-to-optimize.md"
   }
 }
