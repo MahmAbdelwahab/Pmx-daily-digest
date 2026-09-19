@@ -2904,5 +2904,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-18-application-of-physiologically-based-pharmacokinetic-modeling-to-optimize.md"
+  },
+  "PMx_Introduction_to_SingleCell_Physiological_20260919": {
+    "title": "Introduction to Single-Cell Physiologically-Based Pharmacokinetic (scPBPK) Models",
+    "date": "2026-09-19",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-19-introduction-to-single-cell-physiologically-based-pharmacokinetic-scpbpk-models.md"
   }
 }
