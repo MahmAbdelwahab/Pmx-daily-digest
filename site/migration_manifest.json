@@ -2914,5 +2914,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-19-introduction-to-single-cell-physiologically-based-pharmacokinetic-scpbpk-models.md"
+  },
+  "PMx_Transitioning_from_Transcriptomics_to_Pr_20260920": {
+    "title": "Transitioning from Transcriptomics to Proteomics: Enhancing Mechanistic Accuracy in PBPK Modeling via Absolute Protein Abundances",
+    "date": "2026-09-20",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-20-transitioning-from-transcriptomics-to-proteomics-enhancing-mechanistic-accuracy.md"
   }
 }
