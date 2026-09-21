@@ -2924,5 +2924,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-20-transitioning-from-transcriptomics-to-proteomics-enhancing-mechanistic-accuracy.md"
+  },
+  "PMx_PD1Cis_IL2R_Agonism_Determines_the_Predi_20260921": {
+    "title": "PD-1/IL-2v: A Pharmacometric Analysis of Cis-Bound IL-2 Receptor Occupancy on CD8 T Cells",
+    "date": "2026-09-21",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-21-pd-1il-2v-a-pharmacometric-analysis-of-cis-bound-il-2-receptor-occupancy-on-cd8.md"
   }
 }
