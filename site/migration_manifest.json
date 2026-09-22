@@ -2934,5 +2934,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-21-pd-1il-2v-a-pharmacometric-analysis-of-cis-bound-il-2-receptor-occupancy-on-cd8.md"
+  },
+  "PMx_Development_of_a_DiseaseSpecific_Virtual_20260922": {
+    "title": "Development of a Disease-Specific Virtual Malaria Population for Physiologically-Based Pharmacokinetic Modeling",
+    "date": "2026-09-22",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-22-development-of-a-disease-specific-virtual-malaria-population-for.md"
   }
 }
