@@ -2944,5 +2944,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-22-development-of-a-disease-specific-virtual-malaria-population-for.md"
+  },
+  "PMx_Impact_of_Obesity_and_MASH_on_Zonal_Hepa_20260923": {
+    "title": "Impact of Obesity and MASH on Zonal Hepatocyte Concentrations of Statins: A Physiologically-Based Pharmacokinetic Modeling Analysis",
+    "date": "2026-09-23",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-23-impact-of-obesity-and-mash-on-zonal-hepatocyte-concentrations-of-statins-a.md"
   }
 }
