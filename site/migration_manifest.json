@@ -2954,5 +2954,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-23-impact-of-obesity-and-mash-on-zonal-hepatocyte-concentrations-of-statins-a.md"
+  },
+  "PMx_Evaluation_and_Mitigation_of_TimeDepende_20260924": {
+    "title": "Evaluation and Mitigation of Time-Dependent Confounding Effects in Conventional Exposure-Response Analyses for Oncology Drugs",
+    "date": "2026-09-24",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-24-evaluation-and-mitigation-of-time-dependent-confounding-effects-in-conventional.md"
   }
 }
