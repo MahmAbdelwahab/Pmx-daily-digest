@@ -2965,5 +2965,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-24-evaluation-and-mitigation-of-time-dependent-confounding-effects-in-conventional.md"
+  },
+  "PMx_A_Population_Pharmacokinetic_Approach_to_20260925": {
+    "title": "A Population Pharmacokinetic Approach to Understand the Effect of Efavirenz on CYP3A Activity in Healthy Volunteers Using Midazolam as a Probe",
+    "date": "2026-09-25",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-25-a-population-pharmacokinetic-approach-to-understand-the-effect-of-efavirenz-on.md"
   }
 }
