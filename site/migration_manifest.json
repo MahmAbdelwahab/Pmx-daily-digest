@@ -2780,14 +2780,10 @@
   "PMx_Pharmaceutical_Industry_Perspectives_on__20260906": {
     "title": "Pharmaceutical Industry Perspectives on Exposure-Response Confounding in Large Molecule Therapeutics: Results From an IQ Consortium Survey",
     "date": "2026-09-06",
-    "paper_type": "generic",
-    "topic_tags": [
-      "dose-response",
-      "oncology",
-      "regulatory"
-    ],
-    "retroactively_classified": false,
-    "post_file": "_posts/2026-09-06-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
+    "doi": "10.1002/psp4.70318",
+    "status": "withdrawn_test_digest",
+    "note": "2026-09-26: withdrawn by the owner (analysis 240). Produced by a --force kimi-k3 verification run on 2026-09-06, not by production; leaked to the site through push_to_github.sh step 0. Replaced by PMx_Pharmaceutical_Industry_Perspectives_on__20260926.",
+    "former_post_file": "_posts/2026-09-06-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
   },
   "PMx_Construction_of_a_translational_wholebod_20260907": {
     "title": "A Translational Whole-Body PBPK Model for mRNA-LNP Therapeutics: Mechanistic Endothelial Transport, Intracellular Processing, and Cross-Species Scaling",
@@ -2979,8 +2975,11 @@
   "PMx_Pharmaceutical_Industry_Perspectives_on__20260926": {
     "title": "Pharmaceutical Industry Perspectives on Exposure-Response Confounding in Large Molecule Therapeutics: Results From an IQ Consortium Survey",
     "date": "2026-09-26",
-    "doi": "10.1002/psp4.70318",
-    "status": "skipped_duplicate",
-    "duplicate_of": "_posts/2026-09-06-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
+    "paper_type": "generic",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-26-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
   }
 }
