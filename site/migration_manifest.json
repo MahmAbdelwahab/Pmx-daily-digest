@@ -2981,5 +2981,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-26-pharmaceutical-industry-perspectives-on-exposure-response-confounding-in-large.md"
+  },
+  "PMx_Evaluation_of_a_model_averaging_algorith_20260927": {
+    "title": "Evaluation of a model averaging algorithm for model-informed precision dosing in the context of parameter misspecifications",
+    "date": "2026-09-27",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-27-evaluation-of-a-model-averaging-algorithm-for-model-informed-precision-dosing.md"
   }
 }
