@@ -2989,5 +2989,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-27-evaluation-of-a-model-averaging-algorithm-for-model-informed-precision-dosing.md"
+  },
+  "PMx_Modelling_the_tailphase_pharmacokinetics_20260928": {
+    "title": "Modelling the tail-phase pharmacokinetics of long-acting cabotegravir and rilpivirine from early pregnancy to postpartum at steady state",
+    "date": "2026-09-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-28-modelling-the-tail-phase-pharmacokinetics-of-long-acting-cabotegravir-and.md"
   }
 }
