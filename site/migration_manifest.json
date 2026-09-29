@@ -2999,5 +2999,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-28-modelling-the-tail-phase-pharmacokinetics-of-long-acting-cabotegravir-and.md"
+  },
+  "PMx_Formalizing_method_choice_a_datadriven_s_20260929": {
+    "title": "Formalizing method choice: a data-driven selection of mechanistic models for predicting human heart drug partitioning",
+    "date": "2026-09-29",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-29-formalizing-method-choice-a-data-driven-selection-of-mechanistic-models-for.md"
   }
 }
