@@ -3009,5 +3009,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-29-formalizing-method-choice-a-data-driven-selection-of-mechanistic-models-for.md"
+  },
+  "PMx_Priorinformed_population_pharmacokinetic_20260930": {
+    "title": "Prior-informed population pharmacokinetic-pharmacodynamic modeling of dexamethasone in horses",
+    "date": "2026-09-30",
+    "paper_type": "popk",
+    "topic_tags": [
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-09-30-prior-informed-population-pharmacokinetic-pharmacodynamic-modeling-of.md"
   }
 }
