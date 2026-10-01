@@ -3019,5 +3019,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-09-30-prior-informed-population-pharmacokinetic-pharmacodynamic-modeling-of.md"
+  },
+  "PMx_PMxAgent_An_Agentic_Platform_for_Pharmac_20261001": {
+    "title": "PMxAgent: An Agentic Platform for Pharmacometrics",
+    "date": "2026-10-01",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-01-pmxagent-an-agentic-platform-for-pharmacometrics.md"
   }
 }
