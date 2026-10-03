@@ -3035,5 +3035,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-02-simultaneous-population-pkpd-analysis-of-belantamab-mafodotin-soluble-bcma-and.md"
+  },
+  "PMx_A_Practical_Tutorial_on_PhysicsInformed__20261003": {
+    "title": "A Practical Tutorial on Physics-Informed Networks for Pharmacometrics and Quantitative Systems Pharmacology",
+    "date": "2026-10-03",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-03-a-practical-tutorial-on-physics-informed-networks-for-pharmacometrics-and.md"
   }
 }
