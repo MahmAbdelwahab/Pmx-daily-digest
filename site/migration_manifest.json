@@ -3045,5 +3045,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-03-a-practical-tutorial-on-physics-informed-networks-for-pharmacometrics-and.md"
+  },
+  "PMx_Population_Pharmacokinetics_of_Topical_T_20261004": {
+    "title": "Population Pharmacokinetics of Topical Timolol Maleate Gel in Healthy Volunteers and Infants With Superficial Infantile Hemangioma",
+    "date": "2026-10-04",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-04-population-pharmacokinetics-of-topical-timolol-maleate-gel-in-healthy.md"
   }
 }
