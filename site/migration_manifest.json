@@ -3053,5 +3053,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-04-population-pharmacokinetics-of-topical-timolol-maleate-gel-in-healthy.md"
+  },
+  "PMx_Population_Pharmacokinetics_of_Dolutegra_20261005": {
+    "title": "Population Pharmacokinetics of Dolutegravir in Plasma and Cerebrospinal Fluid in Adults Living With HIV",
+    "date": "2026-10-05",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-05-population-pharmacokinetics-of-dolutegravir-in-plasma-and-cerebrospinal-fluid.md"
   }
 }
