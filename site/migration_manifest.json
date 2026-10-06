@@ -3061,5 +3061,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-05-population-pharmacokinetics-of-dolutegravir-in-plasma-and-cerebrospinal-fluid.md"
+  },
+  "PMx_A_mechanismbased_model_of_immune_status__20261006": {
+    "title": "A mechanism-based model of immune status effects on antibiotic PK/PD targets in bacteremia",
+    "date": "2026-10-06",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "immunology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-06-a-mechanism-based-model-of-immune-status-effects-on-antibiotic-pkpd-targets-in.md"
   }
 }
