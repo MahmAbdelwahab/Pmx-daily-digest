@@ -3071,5 +3071,27 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-06-a-mechanism-based-model-of-immune-status-effects-on-antibiotic-pkpd-targets-in.md"
+  },
+  "PMx_An_OpenSource_Framework_for_Virtual_Bioe_20261009": {
+    "title": "An Open-Source Framework for Virtual Bioequivalence Modeling and Clinical Trial Design",
+    "date": "2026-10-09",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "qsp",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-09-an-open-source-framework-for-virtual-bioequivalence-modeling-and-clinical-trial.md"
+  },
+  "PMx_Application_of_an_OpenSource_Modular_Fra_20261008": {
+    "title": "Application of an Open-Source Modular Framework for Pharmacokinetic, Pharmacodynamic, and Safety Simulations to Anti-Tuberculosis Drugs",
+    "date": "2026-10-08",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-08-application-of-an-open-source-modular-framework-for-pharmacokinetic.md"
   }
 }
