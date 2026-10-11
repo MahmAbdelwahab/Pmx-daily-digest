@@ -3104,5 +3104,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-10-model-informed-drug-development-of-subcutaneous-nivolumab-comparison-of.md"
+  },
+  "PMx_A_Quantitative_Systems_Pharmacology_Mode_20261011": {
+    "title": "A Quantitative Systems Pharmacology Model of Human Leucine Metabolism",
+    "date": "2026-10-11",
+    "paper_type": "qsp_pkpd",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-11-a-quantitative-systems-pharmacology-model-of-human-leucine-metabolism.md"
   }
 }
