@@ -3114,5 +3114,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-11-a-quantitative-systems-pharmacology-model-of-human-leucine-metabolism.md"
+  },
+  "PMx_Causal_ExposureResponse_Analysis_Estiman_20261012": {
+    "title": "A Bayesian Approach to Dose-Finding with Escalation with Overdose Control (EWOC)",
+    "date": "2026-10-12",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-12-a-bayesian-approach-to-dose-finding-with-escalation-with-overdose-control-ewoc.md"
   }
 }
