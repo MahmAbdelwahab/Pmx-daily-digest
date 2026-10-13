@@ -3124,5 +3124,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-12-a-bayesian-approach-to-dose-finding-with-escalation-with-overdose-control-ewoc.md"
+  },
+  "PMx_Dynamic_Prediction_of_Clinical_Endpoints_20261013": {
+    "title": "Dynamic Prediction of Clinical Endpoints in Survival Analysis With Machine and Deep Learning: A Systematic Review and Regulatory Perspective.",
+    "date": "2026-10-13",
+    "paper_type": "generic",
+    "topic_tags": [
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-13-dynamic-prediction-of-clinical-endpoints-in-survival-analysis-with-machine-and.md"
   }
 }
