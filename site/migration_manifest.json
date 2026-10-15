@@ -3143,5 +3143,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-14-in-silico-modeling-of-methadone-related-ion-current-effects-to-predict-qt.md"
+  },
+  "PMx_Preclinical_PharmacokineticPharmacodynam_20261015": {
+    "title": "Preclinical Pharmacokinetic-Pharmacodynamic Modeling of Antibody Nanoconjugates for Breast Cancer Treatment.",
+    "date": "2026-10-15",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-15-preclinical-pharmacokinetic-pharmacodynamic-modeling-of-antibody-nanoconjugates.md"
   }
 }
