@@ -3153,5 +3153,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-15-preclinical-pharmacokinetic-pharmacodynamic-modeling-of-antibody-nanoconjugates.md"
+  },
+  "PMx_Development_Early_Verification_and_Appli_20261016": {
+    "title": "Development, Early Verification and Application of a North American Pediatric PBPK Model, Comparison With the North European Pediatric Population.",
+    "date": "2026-10-16",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-16-development-early-verification-and-application-of-a-north-american-pediatric.md"
   }
 }
