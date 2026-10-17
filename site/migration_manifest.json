@@ -3165,5 +3165,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-16-development-early-verification-and-application-of-a-north-american-pediatric.md"
+  },
+  "PMx_A_DoseAware_Model_for_Revealing_DoseRisk_20261017": {
+    "title": "A Dose-Aware Model for Revealing Dose-Risk Relationship of Drug-Drug Interaction.",
+    "date": "2026-10-17",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-17-a-dose-aware-model-for-revealing-dose-risk-relationship-of-drug-drug-interaction.md"
   }
 }
