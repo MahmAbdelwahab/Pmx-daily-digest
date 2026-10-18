@@ -3175,5 +3175,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-17-a-dose-aware-model-for-revealing-dose-risk-relationship-of-drug-drug-interaction.md"
+  },
+  "PMx_Nipocalimab_Dose_Selection_in_Generalize_20261018": {
+    "title": "Nipocalimab Dose Selection in Generalized Myasthenia Gravis.",
+    "date": "2026-10-18",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-18-nipocalimab-dose-selection-in-generalized-myasthenia-gravis.md"
   }
 }
