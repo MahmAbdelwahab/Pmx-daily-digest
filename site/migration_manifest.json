@@ -3186,5 +3186,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-18-nipocalimab-dose-selection-in-generalized-myasthenia-gravis.md"
+  },
+  "PMx_Integrating_a_Tumor_SizeOverall_Survival_20261019": {
+    "title": "Integrating a Tumor Size-Overall Survival Model Into a Spatial Quantitative Systems Pharmacology Framework for Antibody-Drug Conjugates in Non-Small Cell Lung Cancer.",
+    "date": "2026-10-19",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-19-integrating-a-tumor-size-overall-survival-model-into-a-spatial-quantitative.md"
   }
 }
