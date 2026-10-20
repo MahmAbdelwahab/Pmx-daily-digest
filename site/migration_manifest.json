@@ -3198,5 +3198,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-19-integrating-a-tumor-size-overall-survival-model-into-a-spatial-quantitative.md"
+  },
+  "PMx_QPRapp_A_WebBased_Platform_for_PKPD_Simu_20261020": {
+    "title": "QPRapp: A Web-Based Platform for PK/PD Simulations and Early Feasibility Analysis.",
+    "date": "2026-10-20",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-20-qprapp-a-web-based-platform-for-pkpd-simulations-and-early-feasibility-analysis.md"
   }
 }
