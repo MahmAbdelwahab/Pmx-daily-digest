@@ -3208,5 +3208,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-20-qprapp-a-web-based-platform-for-pkpd-simulations-and-early-feasibility-analysis.md"
+  },
+  "PMx_Development_of_an_isavuconazole_physiolo_20261021": {
+    "title": "Development of an isavuconazole physiologically-based pharmacokinetic model for adult and pediatric populations.",
+    "date": "2026-10-21",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-21-development-of-an-isavuconazole-physiologically-based-pharmacokinetic-model-for.md"
   }
 }
