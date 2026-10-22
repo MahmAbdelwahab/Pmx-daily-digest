@@ -3220,5 +3220,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-21-development-of-an-isavuconazole-physiologically-based-pharmacokinetic-model-for.md"
+  },
+  "PMx_A_Bayesian_Approach_to_Compare_Accumulat_20261022": {
+    "title": "A Bayesian Approach to Compare Accumulating Survival Data From Clinical Practice With RCT Data: A Case Study in Non-Small Cell Lung Cancer Patients.",
+    "date": "2026-10-22",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-22-a-bayesian-approach-to-compare-accumulating-survival-data-from-clinical.md"
   }
 }
