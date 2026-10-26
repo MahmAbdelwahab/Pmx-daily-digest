@@ -3230,5 +3230,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-22-a-bayesian-approach-to-compare-accumulating-survival-data-from-clinical.md"
+  },
+  "PMx_Population_Pharmacokinetic_Model_of_Pegb_20261026": {
+    "title": "Population Pharmacokinetic Model of Pegbing in Healthy Subjects and Chronic Hepatitis B Patients.",
+    "date": "2026-10-26",
+    "paper_type": "popk",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-26-population-pharmacokinetic-model-of-pegbing-in-healthy-subjects-and-chronic.md"
   }
 }
