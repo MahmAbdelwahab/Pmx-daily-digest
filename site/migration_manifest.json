@@ -3254,5 +3254,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-29-mathematical-modeling-of-neuroinflammation-in-neurodegenerative-diseases.md"
+  },
+  "PMx_A_Perspective_on_the_Use_of_Poisson_Vers_20261030": {
+    "title": "A Perspective on the Use of Poisson Versus Logistic Regression in Exposure-Response Analysis: Insights and Considerations.",
+    "date": "2026-10-30",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-10-30-a-perspective-on-the-use-of-poisson-versus-logistic-regression-in-exposure.md"
   }
 }
