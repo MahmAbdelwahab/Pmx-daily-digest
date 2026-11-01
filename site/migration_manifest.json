@@ -3264,5 +3264,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-10-30-a-perspective-on-the-use-of-poisson-versus-logistic-regression-in-exposure.md"
+  },
+  "PMx_Longitudinal_Modeling_of_Cardiometabolic_20261101": {
+    "title": "Longitudinal Modeling of Cardiometabolic Dysfunction in Patients With Type 2 Diabetes Using Item Response Theory.",
+    "date": "2026-11-01",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-01-longitudinal-modeling-of-cardiometabolic-dysfunction-in-patients-with-type-2.md"
   }
 }
