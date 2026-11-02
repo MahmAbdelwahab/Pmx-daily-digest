@@ -3272,5 +3272,13 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-01-longitudinal-modeling-of-cardiometabolic-dysfunction-in-patients-with-type-2.md"
+  },
+  "PMx_TargetEngagement_Prediction_From_Molecul_20261102": {
+    "title": "Target-Engagement Prediction From Molecular Structure, In Vitro and Animal Data: A Tutorial for Early Assessment of Clinical Drug Exposure and Therapeutic/Adverse Potential Using the ANDROMEDA and PLATO Software on the InSilicoTrials Platform.",
+    "date": "2026-11-02",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-02-target-engagement-prediction-from-molecular-structure-in-vitro-and-animal-data.md"
   }
 }
