@@ -3280,5 +3280,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-02-target-engagement-prediction-from-molecular-structure-in-vitro-and-animal-data.md"
+  },
+  "PMx_Identifying_DoseRelevant_Covariates_With_20261103": {
+    "title": "Identifying Dose-Relevant Covariates With SCOUT: A Case Study of Lorlatinib.",
+    "date": "2026-11-03",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-03-identifying-dose-relevant-covariates-with-scout-a-case-study-of-lorlatinib.md"
   }
 }
