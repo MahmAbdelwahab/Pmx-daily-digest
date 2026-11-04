@@ -3290,5 +3290,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-03-identifying-dose-relevant-covariates-with-scout-a-case-study-of-lorlatinib.md"
+  },
+  "PMx_Reframing_QSP_AIDriven_MultiModal_Data_a_20261104": {
+    "title": "Reframing QSP: AI-Driven Multi-Modal Data as a New Measurement Layer.",
+    "date": "2026-11-04",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-04-reframing-qsp-ai-driven-multi-modal-data-as-a-new-measurement-layer.md"
   }
 }
