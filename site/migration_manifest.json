@@ -3300,5 +3300,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-04-reframing-qsp-ai-driven-multi-modal-data-as-a-new-measurement-layer.md"
+  },
+  "PMx_Machine_LearningAugmented_Precision_Dosi_20261107": {
+    "title": "Machine Learning-Augmented Precision Dosing: Integrating Pharmacokinetic Modeling With Clinical Decision Support.",
+    "date": "2026-11-07",
+    "paper_type": "generic",
+    "topic_tags": [
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-07-machine-learning-augmented-precision-dosing-integrating-pharmacokinetic.md"
   }
 }
