@@ -3311,5 +3311,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-07-machine-learning-augmented-precision-dosing-integrating-pharmacokinetic.md"
+  },
+  "PMx_ExposureResponse_Analysis_of_Repotrectin_20261108": {
+    "title": "Exposure-Response Analysis of Repotrectinib to Support the Dose Recommendation for Patients With ROS1-Positive NSCLC or NTRK-Positive Solid Tumors.",
+    "date": "2026-11-08",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-08-exposure-response-analysis-of-repotrectinib-to-support-the-dose-recommendation.md"
   }
 }
