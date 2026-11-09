@@ -3322,5 +3322,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-08-exposure-response-analysis-of-repotrectinib-to-support-the-dose-recommendation.md"
+  },
+  "PMx_Assessment_of_Allometric_Scaling_Methods_20261109": {
+    "title": "Assessment of Allometric Scaling Methods for the Prediction of Human Pharmacokinetic of LNA-i-miR-221.",
+    "date": "2026-11-09",
+    "paper_type": "popk",
+    "topic_tags": [
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-09-assessment-of-allometric-scaling-methods-for-the-prediction-of-human.md"
   }
 }
