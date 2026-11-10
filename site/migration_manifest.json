@@ -3491,5 +3491,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-a-case-study-of-model-informed-drug-development-of-a-novel-pcsk9-antisense.md"
+  },
+  "PMx_Pharmacometric_ModelBased_Sample_Size_Al_20261110": {
+    "title": "Pharmacometric Model-Based Sample Size Allocation for a Region of Interest in a Multi-Regional Phase 2 Trial: A Case Study of an Anti-Psoriatic Drug.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-pharmacometric-model-based-sample-size-allocation-for-a-region-of-interest-in-a.md"
   }
 }
