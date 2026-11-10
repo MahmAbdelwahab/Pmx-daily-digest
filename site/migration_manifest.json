@@ -3371,5 +3371,18 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-population-pharmacokinetics-of-asundexian-in-people-at-risk-for.md"
+  },
+  "PMx_The_Advance_of_In_Silico_Evidence_to_Tra_20261110": {
+    "title": "The Advance of In Silico Evidence to Transform Pediatric Drug Development for Rare Diseases.",
+    "date": "2026-11-10",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "pediatrics",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-the-advance-of-in-silico-evidence-to-transform-pediatric-drug-development-for.md"
   }
 }
