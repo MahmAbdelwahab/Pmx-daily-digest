@@ -3468,5 +3468,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-a-model-informed-clinical-trial-simulation-tool-with-a-graphical-user-interface.md"
+  },
+  "PMx_StateoftheArt_on_ModelInformed_Drug_Deve_20261110": {
+    "title": "State-of-the-Art on Model-Informed Drug Development Approaches for Pediatric Rare Diseases.",
+    "date": "2026-11-10",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-state-of-the-art-on-model-informed-drug-development-approaches-for-pediatric.md"
   }
 }
