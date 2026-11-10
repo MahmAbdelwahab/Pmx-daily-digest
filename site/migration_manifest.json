@@ -3384,5 +3384,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-the-advance-of-in-silico-evidence-to-transform-pediatric-drug-development-for.md"
+  },
+  "PMx_QSPCopilot_An_AIAugmented_Platform_for_A_20261110": {
+    "title": "QSP-Copilot: An AI-Augmented Platform for Accelerating Quantitative Systems Pharmacology Model Development.",
+    "date": "2026-11-10",
+    "paper_type": "ai-ml",
+    "topic_tags": [
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-qsp-copilot-an-ai-augmented-platform-for-accelerating-quantitative-systems.md"
   }
 }
