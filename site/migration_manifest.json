@@ -3501,5 +3501,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-pharmacometric-model-based-sample-size-allocation-for-a-region-of-interest-in-a.md"
+  },
+  "PMx_The_Impact_of_QSP_Modeling_on_the_Design_20261110": {
+    "title": "The Impact of QSP Modeling on the Design and Optimization of Gene Therapy Approaches.",
+    "date": "2026-11-10",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-the-impact-of-qsp-modeling-on-the-design-and-optimization-of-gene-therapy.md"
   }
 }
