@@ -3428,5 +3428,17 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-integrated-modeling-of-digital-motor-and-clinician-reported-outcomes-using-item.md"
+  },
+  "PMx_Clinical_modeling_of_motor_function_to_p_20261110": {
+    "title": "Clinical modeling of motor function to predict treatment efficacy and enable in silico treatment comparisons in infantile-onset Pompe disease.",
+    "date": "2026-11-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "qsp",
+      "pediatrics",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-clinical-modeling-of-motor-function-to-predict-treatment-efficacy-and-enable-in.md"
   }
 }
