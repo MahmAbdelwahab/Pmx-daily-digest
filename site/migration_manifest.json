@@ -3343,5 +3343,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-a-combined-modeling-approach-to-predict-the-effect-of-gastric-emptying-delay-on.md"
+  },
+  "PMx_A_Systematic_Comparative_Analysis_of_Tum_20261110": {
+    "title": "A Systematic Comparative Analysis of Tumor Size Models Based on Erlotinib Clinical Data in Advanced NSCLC.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-a-systematic-comparative-analysis-of-tumor-size-models-based-on-erlotinib.md"
   }
 }
