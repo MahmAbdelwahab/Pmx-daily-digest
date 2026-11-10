@@ -3361,5 +3361,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-generating-control-groups-for-organ-impairment-studies-a-case-study-comparing.md"
+  },
+  "PMx_Population_Pharmacokinetics_of_Asundexia_20261110": {
+    "title": "Population Pharmacokinetics of Asundexian in People at Risk for Thromboembolic/Cardiovascular Events.",
+    "date": "2026-11-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "covariate-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-population-pharmacokinetics-of-asundexian-in-people-at-risk-for.md"
   }
 }
