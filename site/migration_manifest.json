@@ -3480,5 +3480,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-state-of-the-art-on-model-informed-drug-development-approaches-for-pediatric.md"
+  },
+  "PMx_A_Case_Study_of_ModelInformed_Drug_Devel_20261110": {
+    "title": "A Case Study of Model-Informed Drug Development of a Novel PCSK9 Antisense Oligonucleotide. Part 2: Phase 2 to Phase 3.",
+    "date": "2026-11-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "regulatory",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-a-case-study-of-model-informed-drug-development-of-a-novel-pcsk9-antisense.md"
   }
 }
