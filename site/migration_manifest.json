@@ -3448,5 +3448,15 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-target-mediated-drug-disposition-revisited-michaelis-menten-approximations-for.md"
+  },
+  "PMx_A_computational_tool_to_optimize_clinica_20261110": {
+    "title": "A computational tool to optimize clinical trial parameter selection in Duchenne muscular dystrophy: A practical guide and case studies.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-a-computational-tool-to-optimize-clinical-trial-parameter-selection-in-duchenne.md"
   }
 }
