@@ -3458,5 +3458,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-a-computational-tool-to-optimize-clinical-trial-parameter-selection-in-duchenne.md"
+  },
+  "PMx_A_modelinformed_clinical_trial_simulatio_20261110": {
+    "title": "A model-informed clinical trial simulation tool with a graphical user interface for Duchenne muscular dystrophy.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-a-model-informed-clinical-trial-simulation-tool-with-a-graphical-user-interface.md"
   }
 }
