@@ -3353,5 +3353,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-a-systematic-comparative-analysis-of-tumor-size-models-based-on-erlotinib.md"
+  },
+  "PMx_Generating_Control_Groups_for_Organ_Impa_20261110": {
+    "title": "Generating Control Groups for Organ Impairment Studies: A Case-Study Comparing Statistical and Population Pharmacokinetic-Based Matching Approaches.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-generating-control-groups-for-organ-impairment-studies-a-case-study-comparing.md"
   }
 }
