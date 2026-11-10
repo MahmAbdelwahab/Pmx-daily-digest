@@ -3440,5 +3440,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-clinical-modeling-of-motor-function-to-predict-treatment-efficacy-and-enable-in.md"
+  },
+  "PMx_TargetMediated_Drug_Disposition_Revisite_20261110": {
+    "title": "Target-Mediated Drug Disposition Revisited: Michaelis-Menten Approximations for Bivalent Drug Molecules.",
+    "date": "2026-11-10",
+    "paper_type": "methodology",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-target-mediated-drug-disposition-revisited-michaelis-menten-approximations-for.md"
   }
 }
