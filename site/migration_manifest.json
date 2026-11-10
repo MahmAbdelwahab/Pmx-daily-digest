@@ -3332,5 +3332,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-09-assessment-of-allometric-scaling-methods-for-the-prediction-of-human.md"
+  },
+  "PMx_A_Combined_Modeling_Approach_to_Predict__20261110": {
+    "title": "A Combined Modeling Approach to Predict the Effect of Gastric Emptying Delay on the Pharmacokinetics of Small Molecules.",
+    "date": "2026-11-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-a-combined-modeling-approach-to-predict-the-effect-of-gastric-emptying-delay-on.md"
   }
 }
