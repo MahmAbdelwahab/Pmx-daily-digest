@@ -3394,5 +3394,21 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-qsp-copilot-an-ai-augmented-platform-for-accelerating-quantitative-systems.md"
+  },
+  "PMx_Mitigate_Japans_Drug_Loss_With_ModelInfo_20261110": {
+    "title": "Mitigate Japan's Drug Loss With Model-Informed Drug Development.",
+    "date": "2026-11-10",
+    "paper_type": "generic",
+    "topic_tags": [
+      "pbpk",
+      "qsp",
+      "pediatrics",
+      "oncology",
+      "regulatory",
+      "machine-learning",
+      "meta-analysis"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-mitigate-japans-drug-loss-with-model-informed-drug-development.md"
   }
 }
