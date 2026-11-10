@@ -3410,5 +3410,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-mitigate-japans-drug-loss-with-model-informed-drug-development.md"
+  },
+  "PMx_Population_Pharmacokinetic_Modeling_and__20261110": {
+    "title": "Population Pharmacokinetic Modeling and Pediatric Exposure of Dexamethasone Sodium Phosphate Encapsulated in Erythrocytes (eDSP) Administered Monthly for Treatment of Neurological Symptoms of Patients With Ataxia Telangiectasia.",
+    "date": "2026-11-10",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-10-population-pharmacokinetic-modeling-and-pediatric-exposure-of-dexamethasone.md"
   }
 }
