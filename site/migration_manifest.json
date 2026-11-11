@@ -3512,5 +3512,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-10-the-impact-of-qsp-modeling-on-the-design-and-optimization-of-gene-therapy.md"
+  },
+  "PMx_ModelInformed_FirstInHuman_Dose_Selectio_20261111": {
+    "title": "Model-Informed First-In-Human Dose Selection for AZD2796, a High-Affinity Anti-LILRB2 Antibody.",
+    "date": "2026-11-11",
+    "paper_type": "popk",
+    "topic_tags": [
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-11-model-informed-first-in-human-dose-selection-for-azd2796-a-high-affinity-anti.md"
   }
 }
