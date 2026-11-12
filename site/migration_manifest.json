@@ -3522,5 +3522,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-11-model-informed-first-in-human-dose-selection-for-azd2796-a-high-affinity-anti.md"
+  },
+  "PMx_Comparing_the_Effectiveness_of_a_Longitu_20261112": {
+    "title": "Comparing the Effectiveness of a Longitudinal Model With Logistic Regression for Binary Endpoints to Support Better Clinical Decision Making.",
+    "date": "2026-11-12",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "dose-response",
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-12-comparing-the-effectiveness-of-a-longitudinal-model-with-logistic-regression.md"
   }
 }
