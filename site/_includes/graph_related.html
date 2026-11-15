@@ -1,0 +1,26 @@
+{% comment %}
+  Plan 274 S1: Related papers from the PMx knowledge graph.
+  Data: site/_data/graph.json, written by push_to_github.sh step 0b. Ranking and cap are
+  computed by pmx_weekly/graph_site_export.py; this include is a lookup only.
+  Nil-safe: a post with no entry, or an empty related list, renders nothing.
+  Every exported string is escaped.
+{% endcomment %}
+{% assign graph = site.data.graph %}
+{% assign graph_entry = graph.posts[page.doi] %}
+{% if graph_entry and graph_entry.r.size > 0 %}
+<section class="graph-related" aria-labelledby="graph-related-heading">
+  <h2 id="graph-related-heading">Related papers</h2>
+  <ul>
+  {% for item in graph_entry.r %}
+    {% assign related_post = site.posts | where: "doi", item.d | first %}
+    {% if related_post %}
+    <li>
+      <a href="{{ related_post.url | relative_url }}">{{ related_post.title | escape }}</a>
+      <span class="graph-related-reason">shares: {% for code in item.p %}{% unless forloop.first %}, {% endunless %}{{ graph.populations[code].label | default: code | escape }}{% endfor %}{% if item.p.size > 0 and item.m.size > 0 %}, {% endif %}{% for code in item.m %}{% unless forloop.first %}, {% endunless %}{{ graph.models[code].label | default: code | escape }}{% endfor %}</span>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <p class="graph-provenance"><strong>Model types and populations.</strong> Assigned automatically by a language model from the paper's PubMed title and abstract, not by PubMed or the digest's authors.{% if graph.provenance.model != empty and graph.provenance.model %} Model: {{ graph.provenance.model | escape }}.{% endif %} Knowledge-graph snapshot {{ graph.provenance.snapshot | escape }}{% if graph.provenance.activated != empty and graph.provenance.activated %}, activated {{ graph.provenance.activated | escape }}{% endif %}. They may be incomplete or wrong; check the paper.</p>
+</section>
+{% endif %}

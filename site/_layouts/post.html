@@ -49,4 +49,6 @@ layout: default
     <a href="{{ page.pdf_path | relative_url }}" class="btn">Download PDF</a>
   </div>
   {% endif %}
+
+  {% if site.data.graph and site.data.graph.features.related %}{% include graph_related.html %}{% endif %}
 </article>
