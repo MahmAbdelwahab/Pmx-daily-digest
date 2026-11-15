@@ -3533,5 +3533,18 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-12-comparing-the-effectiveness-of-a-longitudinal-model-with-logistic-regression.md"
+  },
+  "PMx_Transforming_Pediatric_Rare_Disease_Drug_20261115": {
+    "title": "Transforming Pediatric Rare Disease Drug Development: Enhancing Clinical Trials and Regulatory Evidence With Virtual Patients.",
+    "date": "2026-11-15",
+    "paper_type": "generic",
+    "topic_tags": [
+      "qsp",
+      "pediatrics",
+      "regulatory",
+      "machine-learning"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-15-transforming-pediatric-rare-disease-drug-development-enhancing-clinical-trials.md"
   }
 }
