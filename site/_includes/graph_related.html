@@ -4,7 +4,7 @@
   computed by pmx_weekly/graph_site_export.py; this include is a lookup only.
   Nil-safe: a post with no entry, or an empty related list, renders nothing.
   Every exported string is escaped.
-{% endcomment %}
+{% endcomment %}{% unless site.data.graph.features.nlm %}
 {% assign graph = site.data.graph %}
 {% assign graph_entry = graph.posts[page.doi] %}
 {% if graph_entry and graph_entry.r.size > 0 %}
@@ -23,4 +23,4 @@
   </ul>
   <p class="graph-provenance"><strong>Model types and populations.</strong> Assigned automatically by a language model from the paper's PubMed title and abstract, not by PubMed or the digest's authors.{% if graph.provenance.model != empty and graph.provenance.model %} Model: {{ graph.provenance.model | escape }}.{% endif %} Knowledge-graph snapshot {{ graph.provenance.snapshot | escape }}{% if graph.provenance.activated != empty and graph.provenance.activated %}, activated {{ graph.provenance.activated | escape }}{% endif %}. They may be incomplete or wrong; check the paper.</p>
 </section>
-{% endif %}
+{% endif %}{% endunless %}

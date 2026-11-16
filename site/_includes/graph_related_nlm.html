@@ -1,0 +1,22 @@
+{% comment %}Plan 275: topic co-occurrence lists pre-ranked by the exporter.{% endcomment %}
+{% assign graph = site.data.graph %}
+{% assign nlm = graph.nlm %}
+{% assign entry = nlm.posts[page.doi] %}
+{% if graph.features.related and graph.features.nlm and entry.r.size > 0 %}
+<section class="graph-related" aria-labelledby="graph-related-nlm-heading">
+  <h2 id="graph-related-nlm-heading">Related papers</h2>
+  <ul>
+  {% for item in entry.r %}
+    {% assign related_post = site.posts | where: "doi", item.d | first %}
+    {% if related_post %}
+    <li>
+      <a href="{{ related_post.url | relative_url | escape }}">{{ related_post.title | escape }}</a>
+      <span class="graph-related-reason">shares {% if item.dr.size > 0 %}drug: {% for ui in item.dr %}{% unless forloop.first %}, {% endunless %}{{ nlm.labels[ui] | default: ui | escape }}{% endfor %}{% endif %}{% if item.co.size > 0 %}{% if item.dr.size > 0 %}; {% endif %}condition: {% for ui in item.co %}{% unless forloop.first %}, {% endunless %}{{ nlm.labels[ui] | default: ui | escape }}{% endfor %}{% endif %}{% if item.fw.size > 0 %}{% if item.dr.size > 0 or item.co.size > 0 %}; {% endif %}framework: {% for value in item.fw %}{% unless forloop.first %}, {% endunless %}{{ value | escape }}{% endfor %}{% endif %}</span>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <p>Ranked by shared drug, then shared condition, then shared framework; a value found on more than 15% of papers counts a quarter as much.</p>
+  <p class="graph-provenance">Drugs and conditions: NLM indexing of each paper's topics, classified with MeSH {{ nlm.provenance.mesh | escape }} tree numbers; not necessarily the drug studied. A missing value means not indexed, not absent. Framework: assigned by a language model from the PubMed title and abstract, knowledge-graph snapshot {{ graph.provenance.snapshot | escape }}{% if graph.provenance.activated != empty and graph.provenance.activated %}, activated {{ graph.provenance.activated | escape }}{% endif %}. They may be incomplete or wrong; check the paper. Courtesy of the U.S. National Library of Medicine. NLM does not endorse this site or its use of the data.{% if nlm.provenance.obtained_from != empty and nlm.provenance.obtained_from and nlm.provenance.obtained_to != empty and nlm.provenance.obtained_to %} NLM records obtained between {{ nlm.provenance.obtained_from | escape }} and {{ nlm.provenance.obtained_to | escape }}; they may not reflect the most current NLM data.{% endif %}</p>
+</section>
+{% endif %}

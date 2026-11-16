@@ -51,4 +51,5 @@ layout: default
   {% endif %}
 
   {% if site.data.graph and site.data.graph.features.related %}{% include graph_related.html %}{% endif %}
+  {% if site.data.graph and site.data.graph.features.related and site.data.graph.features.nlm %}{% include graph_related_nlm.html %}{% endif %}
 </article>

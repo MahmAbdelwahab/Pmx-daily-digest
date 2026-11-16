@@ -3546,5 +3546,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-15-transforming-pediatric-rare-disease-drug-development-enhancing-clinical-trials.md"
+  },
+  "PMx_A_PharmacometricsInformed_Trial_Simulati_20261116": {
+    "title": "A Pharmacometrics-Informed Trial Simulation Framework for Optimizing Study Designs for Disease-Modifying Treatments in Rare Neurological Disorders.",
+    "date": "2026-11-16",
+    "paper_type": "methodology",
+    "topic_tags": [
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-16-a-pharmacometrics-informed-trial-simulation-framework-for-optimizing-study.md"
   }
 }
