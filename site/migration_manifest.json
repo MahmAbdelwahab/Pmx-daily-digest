@@ -3556,5 +3556,18 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-16-a-pharmacometrics-informed-trial-simulation-framework-for-optimizing-study.md"
+  },
+  "PMx_Postmarketing_Assessment_of_AntibodyDrug_20261117": {
+    "title": "Postmarketing Assessment of Antibody-Drug Conjugates: Proof-of-Concept Using Model-Based Meta-Analysis and a Clinical Utility Index Approach.",
+    "date": "2026-11-17",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology",
+      "regulatory",
+      "meta-analysis",
+      "clinical-trial-design"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-17-postmarketing-assessment-of-antibody-drug-conjugates-proof-of-concept-using.md"
   }
 }

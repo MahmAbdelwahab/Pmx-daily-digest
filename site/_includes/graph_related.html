@@ -4,7 +4,7 @@
   computed by pmx_weekly/graph_site_export.py; this include is a lookup only.
   Nil-safe: a post with no entry, or an empty related list, renders nothing.
   Every exported string is escaped.
-{% endcomment %}{% unless site.data.graph.features.nlm %}
+{% endcomment %}{% assign g15_list = site.data.graph.nlm.posts[page.doi].r %}{% unless site.data.graph.features.nlm and g15_list %}
 {% assign graph = site.data.graph %}
 {% assign graph_entry = graph.posts[page.doi] %}
 {% if graph_entry and graph_entry.r.size > 0 %}
