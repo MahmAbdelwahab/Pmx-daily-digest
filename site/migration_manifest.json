@@ -3569,5 +3569,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-17-postmarketing-assessment-of-antibody-drug-conjugates-proof-of-concept-using.md"
+  },
+  "PMx_Comparison_of_ModelPredicted_and_Observe_20261118": {
+    "title": "Comparison of Model-Predicted and Observed Evinacumab Pharmacokinetics and Efficacy in Children Aged < 5 Years With Homozygous Familial Hypercholesterolemia.",
+    "date": "2026-11-18",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-18-comparison-of-model-predicted-and-observed-evinacumab-pharmacokinetics-and.md"
   }
 }
