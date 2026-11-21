@@ -3600,5 +3600,17 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-19-rosuvastatin-pbpk-modeling-incorporating-liver-concentrations-and-effects-of.md"
+  },
+  "PMx_Population_Pharmacokinetics_Modeling_of__20261121": {
+    "title": "Population Pharmacokinetics Modeling of Selpercatinib to Support Posology in Pediatric Patients With RET-Altered Metastatic Thyroid Cancer or Solid Tumors.",
+    "date": "2026-11-21",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics",
+      "oncology",
+      "regulatory"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-21-population-pharmacokinetics-modeling-of-selpercatinib-to-support-posology-in.md"
   }
 }
