@@ -3612,5 +3612,16 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-21-population-pharmacokinetics-modeling-of-selpercatinib-to-support-posology-in.md"
+  },
+  "PMx_Modeling_and_Simulation_Identifies_Endoc_20261122": {
+    "title": "Modeling and Simulation Identifies Endocytosis Uptake Rate and Fraction Unbound as Important Predictors of Oligonucleotide Pharmacokinetics.",
+    "date": "2026-11-22",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk",
+      "qsp"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-22-modeling-and-simulation-identifies-endocytosis-uptake-rate-and-fraction-unbound.md"
   }
 }
