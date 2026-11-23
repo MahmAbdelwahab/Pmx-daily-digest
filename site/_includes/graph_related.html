@@ -21,6 +21,6 @@
     {% endif %}
   {% endfor %}
   </ul>
-  <p class="graph-provenance"><strong>Model types and populations.</strong> Assigned automatically by a language model from the paper's PubMed title and abstract, not by PubMed or the digest's authors.{% if graph.provenance.model != empty and graph.provenance.model %} Model: {{ graph.provenance.model | escape }}.{% endif %} Knowledge-graph snapshot {{ graph.provenance.snapshot | escape }}{% if graph.provenance.activated != empty and graph.provenance.activated %}, activated {{ graph.provenance.activated | escape }}{% endif %}. They may be incomplete or wrong; check the paper.</p>
+  <p class="graph-provenance"><strong>Model types and populations.</strong> Papers listed here share at least one broad model-type or population label; they are not necessarily on the same topic. Labels were assigned automatically by a language model from the paper's PubMed title and abstract, not by PubMed or the digest's authors. They may be incomplete or wrong; check the paper.{% if graph.provenance.model != empty and graph.provenance.model %} Model: {{ graph.provenance.model | escape }}.{% endif %} Knowledge-graph snapshot {{ graph.provenance.snapshot | escape }}{% if graph.provenance.activated != empty and graph.provenance.activated %}, activated {{ graph.provenance.activated | escape }}{% endif %}.</p>
 </section>
 {% endif %}{% endunless %}

@@ -3623,5 +3623,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-22-modeling-and-simulation-identifies-endocytosis-uptake-rate-and-fraction-unbound.md"
+  },
+  "PMx_Evaluation_of_the_PKPD_Changes_on_MASLDR_20261123": {
+    "title": "Evaluation of the PK/PD Changes on MASLD-Related Population-An Example From Simultaneous Acetaminophen Parent-Metabolite PBPK/PD Modeling.",
+    "date": "2026-11-23",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pbpk"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-23-evaluation-of-the-pkpd-changes-on-masld-related-population-an-example-from.md"
   }
 }
