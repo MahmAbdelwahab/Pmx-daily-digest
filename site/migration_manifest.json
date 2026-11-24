@@ -3633,5 +3633,13 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-23-evaluation-of-the-pkpd-changes-on-masld-related-population-an-example-from.md"
+  },
+  "PMx_Highdimensional_neural_ODE_model_to_char_20261124": {
+    "title": "High-dimensional neural ODE model to characterize clinical pharmacokinetics of MMAE-based antibody-drug conjugates.",
+    "date": "2026-11-24",
+    "paper_type": "ai-ml",
+    "topic_tags": [],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-24-high-dimensional-neural-ode-model-to-characterize-clinical-pharmacokinetics-of.md"
   }
 }
