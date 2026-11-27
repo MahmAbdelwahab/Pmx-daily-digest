@@ -3641,5 +3641,16 @@
     "topic_tags": [],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-24-high-dimensional-neural-ode-model-to-characterize-clinical-pharmacokinetics-of.md"
+  },
+  "PMx_Population_Pharmacokinetics_and_Exposure_20261127": {
+    "title": "Population Pharmacokinetics and Exposure-Response Modeling for Evinacumab in Children, Adolescents, and Adults With Homozygous Familial Hypercholesterolemia.",
+    "date": "2026-11-27",
+    "paper_type": "popk",
+    "topic_tags": [
+      "dose-response",
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-27-population-pharmacokinetics-and-exposure-response-modeling-for-evinacumab-in.md"
   }
 }
