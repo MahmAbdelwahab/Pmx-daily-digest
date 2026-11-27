@@ -3652,5 +3652,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-27-population-pharmacokinetics-and-exposure-response-modeling-for-evinacumab-in.md"
+  },
+  "PMx_ModelInformed_Precision_Dosing_of_Inflix_20261127": {
+    "title": "Model-Informed Precision Dosing of Infliximab in Korean Inflammatory Bowel Disease Patients: External Validation of Population Pharmacokinetic Models.",
+    "date": "2026-11-27",
+    "paper_type": "popk",
+    "topic_tags": [
+      "pediatrics"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-27-model-informed-precision-dosing-of-infliximab-in-korean-inflammatory-bowel.md"
   }
 }
