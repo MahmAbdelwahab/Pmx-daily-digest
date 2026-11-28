@@ -3662,5 +3662,15 @@
     ],
     "retroactively_classified": false,
     "post_file": "_posts/2026-11-27-model-informed-precision-dosing-of-infliximab-in-korean-inflammatory-bowel.md"
+  },
+  "PMx_Optimizing_FirstLine_Therapeutics_in_Non_20261128": {
+    "title": "Optimizing First-Line Therapeutics in Non-Small Cell Lung Cancer: Insights From Joint Modeling and Large-Scale Data Analysis.",
+    "date": "2026-11-28",
+    "paper_type": "popk",
+    "topic_tags": [
+      "oncology"
+    ],
+    "retroactively_classified": false,
+    "post_file": "_posts/2026-11-28-optimizing-first-line-therapeutics-in-non-small-cell-lung-cancer-insights-from.md"
   }
 }
